@@ -1,13 +1,13 @@
 PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 83-440,Abisynia,,,Karsin,kościerski,pomorskie
-20-388,Abramowice,Kościelne,,Głusk,lubelski,lubelskie
-20-388,Abramowice,Prywatne,,Głusk,lubelski,lubelskie
+20-388,Abramowice Kościelne,,,Głusk,lubelski,lubelskie
+20-388,Abramowice Prywatne,,,Głusk,lubelski,lubelskie
 23-450,Abramów,,,Goraj,biłgorajski,lubelskie
 21-143,Abramów,,,Abramów,lubartowski,lubelskie
 05-310,Abramy,,,Kałuszyn,miński,mazowieckie
 16-123,Achrymowce,,,Kuźnica,sokólski,podlaskie
 27-640,Adamczowice,,,Klimontów,sandomierski,świętokrzyskie
-27-640,Adamczowice,(Stara Wieś),,Klimontów,sandomierski,świętokrzyskie
+27-640,Adamczowice (Stara Wieś),,,Klimontów,sandomierski,świętokrzyskie
 06-320,Adamczycha,,,Baranowo,ostrołęcki,mazowieckie
 26-220,Adamek,,,Stąporków,konecki,świętokrzyskie
 33-210,Adamierz,,,Olesno,dąbrowski,małopolskie
@@ -20,14 +20,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 98-235,Adamki,,,Błaszki,sieradzki,łódzkie
 77-220,Adamki,,,Koczała,człuchowski,pomorskie
 89-506,Adamkowo,,,Kęsowo,tucholski,kujawsko-pomorskie
-96-512,Adamowa,Góra,,Młodzieszyn,sochaczewski,mazowieckie
+96-512,Adamowa Góra,,,Młodzieszyn,sochaczewski,mazowieckie
 99-300,Adamowice,,,Kutno,kutnowski,łódzkie
 32-075,Adamowice,,,Gołcza,miechowski,małopolskie
 96-320,Adamowice,,,Mszczonów,żyrardowski,mazowieckie
 47-435,Adamowice,,,Lyski,rybnicki,śląskie
-05-825,Adamowizna,Grodzisk,,Mazowiecki,grodziski,mazowieckie
+05-825,Adamowizna Grodzisk,,,Mazowiecki,grodziski,mazowieckie
 16-411,Adamowizna,,,Szypliszki,suwalski,podlaskie
-87-330,Adamowo,Jabłonowo,,Pomorskie,brodnicki,kujawsko-pomorskie
+87-330,Adamowo Jabłonowo,,,Pomorskie,brodnicki,kujawsko-pomorskie
 87-602,Adamowo,,,Chrostkowo,lipnowski,kujawsko-pomorskie
 89-422,Adamowo,,,Więcbork,sępoleński,kujawsko-pomorskie
 06-232,Adamowo,,,Czerwonka,makowski,mazowieckie
@@ -37,7 +37,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 09-228,Adamowo,,,Mochowo,sierpecki,mazowieckie
 07-211,Adamowo,,,Długosiodło,wyszkowski,mazowieckie
 09-320,Adamowo,,,Bieżuń,żuromiński,mazowieckie
-09-320,Adamowo,(Wilczy Ostrów),,Bieżuń,żuromiński,mazowieckie
+09-320,Adamowo (Wilczy Ostrów),,,Bieżuń,żuromiński,mazowieckie
 17-307,Adamowo,,,Mielnik,siemiatycki,podlaskie
 82-450,Adamowo,,,Stary Dzierzgoń,sztumski,pomorskie
 13-203,Adamowo,,,Lidzbark,działdowski,warmińsko-mazurskie
@@ -60,15 +60,15 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-300,Adamów,,,Opoczno,opoczyński,łódzkie
 26-333,Adamów,,,Paradyż,opoczyński,łódzkie
 26-330,Adamów,,,Żarnów,opoczyński,łódzkie
-97-352,Adamów,Łęki,,Szlacheckie,piotrkowski,łódzkie
+97-352,Adamów Łęki,,,Szlacheckie,piotrkowski,łódzkie
 97-320,Adamów,,,Wolbórz,piotrkowski,łódzkie
 99-200,Adamów,,,Poddębice,poddębicki,łódzkie
 97-561,Adamów,,,Ładzice,radomszczański,łódzkie
-96-115,Adamów,Nowy,,Kawęczyn,skierniewicki,łódzkie
+96-115,Adamów Nowy,,,Kawęczyn,skierniewicki,łódzkie
 97-212,Adamów,,,Budziszewice,tomaszowski,łódzkie
 26-803,Adamów,,,Promna,białobrzeski,mazowieckie
-09-550,Adamów,Szczawin,,Kościelny,gostyniński,mazowieckie
-05-825,Adamów,Grodzisk,,Mazowiecki,grodziski,mazowieckie
+09-550,Adamów Szczawin,,,Kościelny,gostyniński,mazowieckie
+05-825,Adamów Grodzisk,,,Mazowiecki,grodziski,mazowieckie
 26-903,Adamów,,,Głowaczów,kozienicki,mazowieckie
 27-350,Adamów,,,Sienno,lipski,mazowieckie
 05-307,Adamów,,,Dobre,miński,mazowieckie
@@ -78,12 +78,12 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 27-540,Adamów,,,Lipnik,opatowski,świętokrzyskie
 27-500,Adamów,,,Opatów,opatowski,świętokrzyskie
 27-230,Adamów,,,Brody,starachowicki,świętokrzyskie
-62-590,Adamów,(Spławie-Stacja Kolejowa),,Golina,koniński,wielkopolskie
-62-590,Adamów,,(Adamów-Kolonia),Golina,koniński,wielkopolskie
+62-590,Adamów (Spławie-Stacja Kolejowa),,,Golina,koniński,wielkopolskie
+62-590,Adamów (Adamów-Kolonia),,,Golina,koniński,wielkopolskie
 62-590,Adamów,,,Golina,koniński,wielkopolskie
 62-513,Adamów,,,Krzymów,koniński,wielkopolskie
-05-651,Adamów,Drwalewski,,Chynów,grójecki,mazowieckie
-05-650,Adamów,Rososki,,Chynów,grójecki,mazowieckie
+05-651,Adamów Drwalewski,,,Chynów,grójecki,mazowieckie
+05-650,Adamów Rososki,,,Chynów,grójecki,mazowieckie
 05-152,Adamówek,,,Czosnów,nowodworski,mazowieckie
 96-320,Adamówek,,,Mszczonów,żyrardowski,mazowieckie
 22-335,Adamówka,,,Żółkiewka,krasnostawski,lubelskie
@@ -109,7 +109,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 95-100,Adolfów,,,Zgierz,zgierski,łódzkie
 08-322,Adolfów,,,Ceranów,sokołowski,mazowieckie
 26-330,Afryka,,,Żarnów,opoczyński,łódzkie
-23-230,Agatówka,Trzydnik,,Duży,kraśnicki,lubelskie
+23-230,Agatówka Trzydnik,,,Duży,kraśnicki,lubelskie
 37-450,Agatówka,,,Zaleszany,stalowowolski,podkarpackie
 87-890,Agnieszkowo,,,Lubraniec,włocławski,kujawsko-pomorskie
 09-227,Agnieszkowo,,,Szczutowo,sierpecki,mazowieckie
@@ -117,7 +117,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 16-424,Agrafinówka,,,Filipów,suwalski,podlaskie
 37-734,Aksmanice,,,Fredropol,przemyski,podkarpackie
 26-067,Akwizgran,,,Strawczyn,kielecki,świętokrzyskie
-62-065,Albertowsko,Grodzisk,,Wielkopolski,grodziski,wielkopolskie
+62-065,Albertowsko Grodzisk,,,Wielkopolski,grodziski,wielkopolskie
 21-013,Albertów,,,Puchaczów,łęczyński,lubelskie
 95-083,Albertów,,,Lutomiersk,pabianicki,łódzkie
 97-217,Albertów,,,Lubochnia,tomaszowski,łódzkie
@@ -127,23 +127,23 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 37-122,Albigowa,,,Łańcut,łańcucki,podkarpackie
 95-015,Albinów,,,Głowno,zgierski,łódzkie
 08-122,Albinów,,,Kotuń,siedlecki,mazowieckie
-08-330,Albinów,Kosów,,Lacki,sokołowski,mazowieckie
-23-450,Albinów,Duży,,Goraj,biłgorajski,lubelskie
-23-450,Albinów,Mały,,Goraj,biłgorajski,lubelskie
+08-330,Albinów Kosów,,,Lacki,sokołowski,mazowieckie
+23-450,Albinów Duży,,,Goraj,biłgorajski,lubelskie
+23-450,Albinów Mały,,,Goraj,biłgorajski,lubelskie
 95-035,Aleksandria,,,Ozorków,zgierski,łódzkie
 05-192,Aleksandria,,"4-6, 7-9(n),",Nowe Miasto,płoński,mazowieckie
 09-120,Aleksandria,,"8-10(p), 11, 31",Nowe Miasto,płoński,mazowieckie
-96-330,Aleksandria,Puszcza,,Mariańska,żyrardowski,mazowieckie
+96-330,Aleksandria Puszcza,,,Mariańska,żyrardowski,mazowieckie
 62-874,Aleksandria,,,Brzeziny,kaliski,wielkopolskie
-42-274,Aleksandria,Druga,,Konopiska,częstochowski,śląskie
-22-360,Aleksandria,Krzywowolska,,Rejowiec,chełmski,lubelskie
-22-360,Aleksandria,Niedziałowska,,Rejowiec,chełmski,lubelskie
-42-274,Aleksandria,Pierwsza,,Konopiska,częstochowski,śląskie
+42-274,Aleksandria Druga,,,Konopiska,częstochowski,śląskie
+22-360,Aleksandria Krzywowolska,,,Rejowiec,chełmski,lubelskie
+22-360,Aleksandria Niedziałowska,,,Rejowiec,chełmski,lubelskie
+42-274,Aleksandria Pierwsza,,,Konopiska,częstochowski,śląskie
 56-160,Aleksandrowice,,,Wińsko,wołowski,dolnośląskie
 32-084,Aleksandrowice,,,Zabierzów,krakowski,małopolskie
 86-022,Aleksandrowiec,,,Dobrcz,bydgoski,kujawsko-pomorskie
 86-022,Aleksandrowo,,,Dobrcz,bydgoski,kujawsko-pomorskie
-87-880,Aleksandrowo,Brześć,,Kujawski,włocławski,kujawsko-pomorskie
+87-880,Aleksandrowo Brześć,,,Kujawski,włocławski,kujawsko-pomorskie
 88-192,Aleksandrowo,,,Barcin,żniński,kujawsko-pomorskie
 06-445,Aleksandrowo,,,Strzegowo,mławski,mazowieckie
 05-190,Aleksandrowo,,,Nasielsk,nowodworski,mazowieckie
@@ -160,11 +160,11 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 64-400,Aleksandrowo,,,Międzychód,międzychodzki,wielkopolskie
 64-510,Aleksandrowo,,,Wronki,szamotulski,wielkopolskie
 62-120,Aleksandrowo,,,Wapno,wągrowiecki,wielkopolskie
-06-445,Aleksandrowo,k. Pokrytek,,Strzegowo,mławski,mazowieckie
-23-408,Aleksandrów,(Aleksandrów Drugi),,Aleksandrów,biłgorajski,lubelskie
-23-408,Aleksandrów,(Aleksandrów Trzeci),,Aleksandrów,biłgorajski,lubelskie
+06-445,Aleksandrowo k. Pokrytek,,,Strzegowo,mławski,mazowieckie
+23-408,Aleksandrów (Aleksandrów Drugi),,,Aleksandrów,biłgorajski,lubelskie
+23-408,Aleksandrów (Aleksandrów Trzeci),,,Aleksandrów,biłgorajski,lubelskie
 23-408,Aleksandrów,,,Aleksandrów,biłgorajski,lubelskie
-23-408,Aleksandrów,(Aleksandrów Pierwszy),,Aleksandrów,biłgorajski,lubelskie
+23-408,Aleksandrów (Aleksandrów Pierwszy),,,Aleksandrów,biłgorajski,lubelskie
 23-275,Aleksandrów,,,Gościeradów,kraśnicki,lubelskie
 21-400,Aleksandrów,,,Łuków,łukowski,lubelskie
 21-421,Aleksandrów,,,Stanin,łukowski,lubelskie
@@ -198,14 +198,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 28-425,Aleksandrów,,,Pińczów,pińczowski,świętokrzyskie
 62-831,Aleksandrów,,,Mycielin,kaliski,wielkopolskie
 62-652,Aleksandrów,,,Chodów,kolski,wielkopolskie
-62-652,Aleksandrów,(Kocewia Mała),,Chodów,kolski,wielkopolskie
+62-652,Aleksandrów (Kocewia Mała),,,Chodów,kolski,wielkopolskie
 62-652,Aleksandrów,,(Stawiska),Chodów,kolski,wielkopolskie
-63-040,Aleksandrów,Nowe Miasto nad,,Wartą,średzki,wielkopolskie
+63-040,Aleksandrów Nowe Miasto nad,,,Wartą,średzki,wielkopolskie
 62-731,Aleksandrów,,,Przykona,turecki,wielkopolskie
-27-350,Aleksandrów,Duży,,Sienno,lipski,mazowieckie
-87-700,Aleksandrów,Kujawski Aleksandrów,,Kujawski,aleksandrowski,kujawsko-pomorskie
-87-700,Aleksandrów,Aleksandrów,Kujawski (Halinowo),Kujawski,aleksandrowski,kujawsko-pomorskie
-95-070,Aleksandrów,Łódzki Aleksandrów,,Łódzki,zgierski,łódzkie
+27-350,Aleksandrów Duży,,,Sienno,lipski,mazowieckie
+87-700,Aleksandrów Kujawski Aleksandrów,,,Kujawski,aleksandrowski,kujawsko-pomorskie
+87-700,Aleksandrów Kujawski,,(Halinowo) Aleksandrów,Kujawski,aleksandrowski,kujawsko-pomorskie
+95-070,Aleksandrów Łódzki Aleksandrów,,,Łódzki,zgierski,łódzkie
 98-100,Aleksandrówek,,,Łask,łaski,łódzkie
 99-150,Aleksandrówek,,,Grabów,łęczycki,łódzkie
 99-200,Aleksandrówek,,,Poddębice,poddębicki,łódzkie
@@ -214,12 +214,12 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 22-107,Aleksandrówka,,,Sawin,chełmski,lubelskie
 23-320,Aleksandrówka,,,Batorz,janowski,lubelskie
 21-140,Aleksandrówka,,,Michów,lubartowski,lubelskie
-21-450,Aleksandrówka,Stoczek,(Chrusty),Łukowski,łukowski,lubelskie
-21-450,Aleksandrówka,Stoczek,,Łukowski,łukowski,lubelskie
+21-450,Aleksandrówka,,(Chrusty) Stoczek,Łukowski,łukowski,lubelskie
+21-450,Aleksandrówka Stoczek,,,Łukowski,łukowski,lubelskie
 99-321,Aleksandrówka,,,Żychlin,kutnowski,łódzkie
-05-622,Aleksandrówka,Belsk,,Duży,grójecki,mazowieckie
+05-622,Aleksandrówka Belsk,,,Duży,grójecki,mazowieckie
 26-900,Aleksandrówka,,,Kozienice,kozienicki,mazowieckie
-05-311,Aleksandrówka,Dębe,,Wielkie,miński,mazowieckie
+05-311,Aleksandrówka Dębe,,,Wielkie,miński,mazowieckie
 07-110,Aleksandrówka,,,Grębków,węgrowski,mazowieckie
 26-720,Aleksandrówka,,,Policzna,zwoleński,mazowieckie
 16-411,Aleksandrówka,,,Szypliszki,suwalski,podlaskie
@@ -243,8 +243,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 66-439,Altona,,,Krzeszyce,sulęciński,lubuskie
 32-566,Alwernia,,,Alwernia,chrzanowski,małopolskie
 83-320,Amalka,,,Sulęczyno,kartuski,pomorskie
-47-494,Amandów,Pietrowice,,Wielkie,raciborski,śląskie
-99-122,Ambrożew,Góra Świętej,,Małgorzaty,łęczycki,łódzkie
+47-494,Amandów Pietrowice,,,Wielkie,raciborski,śląskie
+99-122,Ambrożew Góra Świętej,,,Małgorzaty,łęczycki,łódzkie
 27-225,Ambrożów,,,Pawłów,starachowicki,świętokrzyskie
 21-132,Amelin,,,Kamionka,lubartowski,lubelskie
 21-220,Amelin,,,Siemień,parczewski,lubelskie
@@ -262,14 +262,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 97-400,Anastazów,,,Bełchatów,bełchatowski,łódzkie
 09-541,Anatolin,,,Pacyna,gostyniński,mazowieckie
 17-210,Ancuty,,,Narew,hajnowski,podlaskie
-95-020,Andrespol,Andrespol,,łódzki,wschodni,łódzkie
+95-020,Andrespol Andrespol,,,łódzki,wschodni,łódzkie
 27-650,Andruszkowice,,,Samborzec,sandomierski,świętokrzyskie
 34-120,Andrychów,,,Andrychów,wadowicki,małopolskie
 18-507,Andrychy,,,Grabowo,kolneński,podlaskie
 17-111,Andryjanki,,,Boćki,bielski,podlaskie
 07-305,Andrzejewo,,,Andrzejewo,ostrowski,mazowieckie
-07-305,Andrzejewo,,(Andrzejewo-Zarzecze),Andrzejewo,ostrowski,mazowieckie
-07-305,Andrzejewo,,(Andrzejewo-Kolonie),Andrzejewo,ostrowski,mazowieckie
+07-305,Andrzejewo (Andrzejewo-Zarzecze),,,Andrzejewo,ostrowski,mazowieckie
+07-305,Andrzejewo (Andrzejewo-Kolonie),,,Andrzejewo,ostrowski,mazowieckie
 16-411,Andrzejewo,,,Szypliszki,suwalski,podlaskie
 18-400,Andrzejki,,,Łomża,łomżyński,podlaskie
 07-407,Andrzejki-Tyszki,,,Czerwin,ostrołęcki,mazowieckie
@@ -278,11 +278,11 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 22-234,Andrzejów,,,Urszulin,włodawski,lubelskie
 97-438,Andrzejów,,,Rusiec,bełchatowski,łódzkie
 98-432,Andrzejów,,,Łubnice,wieruszowski,łódzkie
-98-220,Andrzejów,Zduńska,,Wola,zduńskowolski,łódzkie
-09-550,Andrzejów,Szczawin,,Kościelny,gostyniński,mazowieckie
+98-220,Andrzejów Zduńska,,,Wola,zduńskowolski,łódzkie
+09-550,Andrzejów Szczawin,,,Kościelny,gostyniński,mazowieckie
 05-088,Andrzejów,,,Brochów,sochaczewski,mazowieckie
 26-704,Andrzejów,,,Przyłęk,zwoleński,mazowieckie
-96-500,Andrzejów,Duranowski,,Sochaczew,sochaczewski,mazowieckie
+96-500,Andrzejów Duranowski,,,Sochaczew,sochaczewski,mazowieckie
 23-400,Andrzejówka,,,Biłgoraj,biłgorajski,lubelskie
 22-530,Andrzejówka,,,Mircze,hrubieszowski,lubelskie
 33-370,Andrzejówka,,,Muszyna,nowosądecki,małopolskie
@@ -291,10 +291,10 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-192,Andzin,,,Nasielsk,nowodworski,mazowieckie
 14-400,Anglity,,,Pasłęk,elbląski,warmińsko-mazurskie
 89-620,Angowice,,,Chojnice,chojnicki,pomorskie
-05-300,Anielew,Mińsk,,Mazowiecki,miński,mazowieckie
+05-300,Anielew Mińsk,,,Mazowiecki,miński,mazowieckie
 62-510,Anielew,,,Kramsk,koniński,wielkopolskie
 87-327,Anielewo,,,Bobrowo,brodnicki,kujawsko-pomorskie
-62-530,Anielewo,Kazimierz,,Biskupi,koniński,wielkopolskie
+62-530,Anielewo Kazimierz,,,Biskupi,koniński,wielkopolskie
 62-410,Anielewo,,,Zagórów,słupecki,wielkopolskie
 87-851,Anielin,,,Boniewo,włocławski,kujawsko-pomorskie
 23-235,Anielin,,,Annopol,kraśnicki,lubelskie
@@ -308,14 +308,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 95-010,Anielin,,,Stryków,zgierski,łódzkie
 06-420,Anielin,,,Gołymin-Ośrodek,ciechanowski,mazowieckie
 09-500,Anielin,,,Gostynin,gostyniński,mazowieckie
-05-622,Anielin,Belsk,,Duży,grójecki,mazowieckie
+05-622,Anielin Belsk,,,Duży,grójecki,mazowieckie
 26-930,Anielin,,,Garbatka-Letnisko,kozienicki,mazowieckie
 26-914,Anielin,,,Magnuszew,kozienicki,mazowieckie
 09-120,Anielin,,,Nowe Miasto,płoński,mazowieckie
 26-640,Anielin,,,Skaryszew,radomski,mazowieckie
 62-817,Anielin,,,Żelazków,kaliski,wielkopolskie
 64-965,Anielin,,,Okonek,złotowski,wielkopolskie
-95-010,Anielin,Swędowski,,Stryków,zgierski,łódzkie
+95-010,Anielin Swędowski,,,Stryków,zgierski,łódzkie
 05-306,Anielinek,,,Jakubów,miński,mazowieckie
 72-211,Anielino,,,Dobra,łobeski,zachodniopomorskie
 89-110,Anieliny,,,Sadki,nakielski,kujawsko-pomorskie
@@ -323,8 +323,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 08-460,Anielów,,,Sobolew,garwoliński,mazowieckie
 21-140,Anielówka,,,Michów,lubartowski,lubelskie
 22-310,Anielpol,,,Kraśniczyn,krasnostawski,lubelskie
-63-620,Aniołka,Druga,,Trzcinica,kępiński,wielkopolskie
-63-620,Aniołka,Pierwsza,,Trzcinica,kępiński,wielkopolskie
+63-620,Aniołka Druga,,,Trzcinica,kępiński,wielkopolskie
+63-620,Aniołka Pierwsza,,,Trzcinica,kępiński,wielkopolskie
 63-620,Aniołka-Parcele,,,Trzcinica,kępiński,wielkopolskie
 63-500,Aniołki,,,Ostrzeszów,ostrzeszowski,wielkopolskie
 14-400,Aniołowo,,,Pasłęk,elbląski,warmińsko-mazurskie
@@ -340,17 +340,17 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 22-500,Annopol,,,Hrubieszów,hrubieszowski,lubelskie
 23-235,Annopol,,,Annopol,kraśnicki,lubelskie
 21-150,Annopol,,,Kock,lubartowski,lubelskie
-09-550,Annopol,Szczawin,,Kościelny,gostyniński,mazowieckie
+09-550,Annopol Szczawin,,,Kościelny,gostyniński,mazowieckie
 05-620,Annopol,,,Błędów,grójecki,mazowieckie
 06-300,Annopol,,,Przasnysz,przasnyski,mazowieckie
 05-282,Annopol,,,Strachówka,wołomiński,mazowieckie
 62-850,Annopol,,,Lisków,kaliski,wielkopolskie
-63-910,Annopol,Miejska,,Górka,rawicki,wielkopolskie
-97-216,Annopol,Duży,,Czerniewice,tomaszowski,łódzkie
-63-022,Annopole,Środa,,Wielkopolska,średzki,wielkopolskie
+63-910,Annopol Miejska,,,Górka,rawicki,wielkopolskie
+97-216,Annopol Duży,,,Czerniewice,tomaszowski,łódzkie
+63-022,Annopole Środa,,,Wielkopolska,średzki,wielkopolskie
 77-416,Annopole,,,Tarnówka,złotowski,wielkopolskie
-98-220,Annopole,Nowe Zduńska,,Wola,zduńskowolski,łódzkie
-98-220,Annopole,Stare Zduńska,,Wola,zduńskowolski,łódzkie
+98-220,Annopole Nowe Zduńska,,,Wola,zduńskowolski,łódzkie
+98-220,Annopole Stare Zduńska,,,Wola,zduńskowolski,łódzkie
 96-232,Annosław,,,Regnów,rawski,łódzkie
 86-330,Annowo,,,Gruta,grudziądzki,kujawsko-pomorskie
 87-890,Annowo,,,Lubraniec,włocławski,kujawsko-pomorskie
@@ -369,25 +369,25 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 21-543,Antolin,,,Konstantynów,bialski,lubelskie
 23-310,Antolin,,,Modliborzyce,janowski,lubelskie
 97-212,Antolin,,,Budziszewice,tomaszowski,łódzkie
-32-210,Antolka,Książ,,Wielki,miechowski,małopolskie
+32-210,Antolka Książ,,,Wielki,miechowski,małopolskie
 42-320,Antolka,,,Niegowa,myszkowski,śląskie
-19-520,Antomieszki,Banie,,Mazurskie,gołdapski,warmińsko-mazurskie
+19-520,Antomieszki Banie,,,Mazurskie,gołdapski,warmińsko-mazurskie
 07-438,Antonia,,,Łyse,ostrołęcki,mazowieckie
 12-114,Antonia,,,Rozogi,szczycieński,warmińsko-mazurskie
 07-410,Antonie,,,Olszewo-Borki,ostrołęcki,mazowieckie
 42-110,Antonie,,,Popów,kłobucki,śląskie
-97-352,Antonielów,Łęki,,Szlacheckie,piotrkowski,łódzkie
+97-352,Antonielów Łęki,,,Szlacheckie,piotrkowski,łódzkie
 26-070,Antonielów,,,Łopuszno,kielecki,świętokrzyskie
 99-311,Antoniew,,,Bedlno,kutnowski,łódzkie
 99-311,Antoniew,,(Wilkęsy),Bedlno,kutnowski,łódzkie
 95-083,Antoniew,,,Lutomiersk,pabianicki,łódzkie
-95-070,Antoniew,Aleksandrów,,Łódzki,zgierski,łódzkie
+95-070,Antoniew Aleksandrów,,,Łódzki,zgierski,łódzkie
 95-015,Antoniew,,,Głowno,zgierski,łódzkie
-96-513,Antoniew,Nowa,,Sucha,sochaczewski,mazowieckie
+96-513,Antoniew Nowa,,,Sucha,sochaczewski,mazowieckie
 96-315,Antoniew,,,Wiskitki,żyrardowski,mazowieckie
 74-510,Antoniewice,,,Trzcińsko-Zdrój,gryfiński,zachodniopomorskie
 73-234,Antoniewko,,,Bierzwnik,choszczeński,zachodniopomorskie
 87-704,Antoniewo,,,Bądkowo,aleksandrowski,kujawsko-pomorskie
 87-400,Antoniewo,,,Golub-Dobrzyń,golubsko-dobrzyński,kujawsko-pomorskie
-87-840,Antoniewo,Lubień,,Kujawski,włocławski,kujawsko-pomorskie
+87-840,Antoniewo Lubień,,,Kujawski,włocławski,kujawsko-pomorskie
 89-210,Antoniewo,,,Łabiszyn,żniński,kujawsko-pomorskie
