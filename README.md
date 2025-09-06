@@ -1,3 +1,5 @@
 # Available postal codes project
 
-It's a repository where I want to transform pdf into csv, using python, I want to have iterative process, where I will validate solution and then improve it. I want to replicate the csv as best as possible. In the end I want script that will automate and streamline the extraction the process.
+It's a repository where I transform pdf created by Poczta Polska into csv, using python.
+
+The raw data costs 500zl but luckily they share the pdf so it might be possible to reverse process. 
