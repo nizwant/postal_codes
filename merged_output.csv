@@ -1,8 +1,4 @@
-0,1,2,3,4,5,6
-Część 1,,,,,,
-,PNA miejscowości i ulic,,,,,
-PNA,"Miejscowość
-Ulica",Numery,Gmina,Powiat,Województwo,
+PNA,Miejscowość Ulica,Numery,Gmina,Powiat,Województwo,nan
 83-440,Abisynia,,Karsin,kościerski,pomorskie,
 20-388,Abramowice Kościelne,,Głusk,lubelski,lubelskie,
 20-388,Abramowice Prywatne,,Głusk,lubelski,lubelskie,
@@ -588,28 +584,17 @@ Ulica",Numery,Gmina,Powiat,Województwo,
 09-200,Babiec Piaseczny,,Rościszewo,sierpecki,mazowieckie,
 09-204,Babiec Rżały,,Rościszewo,sierpecki,mazowieckie,
 09-200,Babiec-Więczanki,,Rościszewo,sierpecki,mazowieckie,
-42-287,"Babienica
-Główna",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Kościelna",,Woźniki,lubliniecki,śląskie,
-42-283,"Babienica (Mzyki)
-Krótka",,Woźniki,lubliniecki,śląskie,
-42-283,"Babienica (Mzyki)
-Leśna",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Lubszecka",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-1 Maja",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Poznańska",,Woźniki,lubliniecki,śląskie,
-42-283,"Babienica (Mzyki)
-Słoneczna",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Stawowa",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Wolności",,Woźniki,lubliniecki,śląskie,
-42-287,"Babienica
-Zielona",,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Główna,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Kościelna,,Woźniki,lubliniecki,śląskie,
+42-283,Babienica (Mzyki) Krótka,,Woźniki,lubliniecki,śląskie,
+42-283,Babienica (Mzyki) Leśna,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Lubszecka,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica 1 Maja,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Poznańska,,Woźniki,lubliniecki,śląskie,
+42-283,Babienica (Mzyki) Słoneczna,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Stawowa,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Wolności,,Woźniki,lubliniecki,śląskie,
+42-287,Babienica Zielona,,Woźniki,lubliniecki,śląskie,
 11-430,Babieniec,,Korsze,kętrzyński,warmińsko-mazurskie,
 11-710,Babięta,,Piecki,mrągowski,warmińsko-mazurskie,
 12-120,Babięty,,Dźwierzuty,szczycieński,warmińsko-mazurskie,
@@ -971,16 +956,11 @@ Zielona",,Woźniki,lubliniecki,śląskie,
 64-200,Barłożnia Gościeszyńska,,Wolsztyn,wolsztyński,wielkopolskie,
 64-200,Barłożnia Wolsztyńska,,Wolsztyn,wolsztyński,wielkopolskie,
 83-225,Barłożno,,Skórcz,starogardzki,pomorskie,
-80-299,"Barniewice
-Dębowa",,Żukowo,kartuski,pomorskie,
-80-297,"Barniewice
-Jaskółcza",,Żukowo,kartuski,pomorskie,
-80-297,"Barniewice
-Lipowa",,Żukowo,kartuski,pomorskie,
-80-299,"Barniewice
-Orzechowa",,Żukowo,kartuski,pomorskie,
-80-297,"Barniewice
-Topolowa",,Żukowo,kartuski,pomorskie,
+80-299,Barniewice Dębowa,,Żukowo,kartuski,pomorskie,
+80-297,Barniewice Jaskółcza,,Żukowo,kartuski,pomorskie,
+80-297,Barniewice Lipowa,,Żukowo,kartuski,pomorskie,
+80-299,Barniewice Orzechowa,,Żukowo,kartuski,pomorskie,
+80-297,Barniewice Topolowa,,Żukowo,kartuski,pomorskie,
 80-297,Barniewice,,Żukowo,kartuski,pomorskie,
 74-201,Barnim,,Warnice,pyrzycki,zachodniopomorskie,
 73-220,Barnimie,,Drawno,choszczeński,zachodniopomorskie,
@@ -1361,28 +1341,17 @@ Topolowa",,Żukowo,kartuski,pomorskie,
 62-834,Beznatka (Korek),,Ceków-Kolonia,kaliski,wielkopolskie,
 62-710,Beznazwa,,Władysławów,turecki,wielkopolskie,
 78-122,Bezpraw,,Kołobrzeg,kołobrzeski,zachodniopomorskie,
-71-220,"Bezrzecze
-Aloesowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-234,"Bezrzecze
-Ametystowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-72-003,"Bezrzecze
-Anyżkowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-72-003,"Bezrzecze
-Azaliowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-220,"Bezrzecze
-Bazyliowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-216,"Bezrzecze
-Berberysowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-216,"Bezrzecze
-Bluszczowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-235,"Bezrzecze
-Brylantowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-216,"Bezrzecze
-Bukszpanowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-72-003,"Bezrzecze
-Cynamonowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
-71-232,"Bezrzecze
-Diamentowa",,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-220,Bezrzecze Aloesowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-234,Bezrzecze Ametystowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+72-003,Bezrzecze Anyżkowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+72-003,Bezrzecze Azaliowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-220,Bezrzecze Bazyliowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-216,Bezrzecze Berberysowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-216,Bezrzecze Bluszczowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-235,Bezrzecze Brylantowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-216,Bezrzecze Bukszpanowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+72-003,Bezrzecze Cynamonowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
+71-232,Bezrzecze Diamentowa,,Dobra (Szczecińska),policki,zachodniopomorskie,
 72-003,Bezrzecze,Dolina Słońca,,Dobra (Szczecińska),policki,zachodniopomorskie
 71-221,Bezrzecze,Drozdowa,,Dobra (Szczecińska),policki,zachodniopomorskie
 71-216,Bezrzecze,Dworska,,Dobra (Szczecińska),policki,zachodniopomorskie
