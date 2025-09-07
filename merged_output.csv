@@ -397,8 +397,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 09-135,Antoniewo,,,Siemiątkowo,żuromiński,mazowieckie
 89-632,Antoniewo,,,Brusy,chojnicki,pomorskie
 14-300,Antoniewo,,,Morąg,ostródzki,warmińsko-mazurskie
-64-720,Antoniewo,,,Lubasz,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-720,Antoniewo,,,Lubasz,czarnkowsko-trzcianecki,wielkopolskie
 62-085,Antoniewo Górne,,,Skoki,wągrowiecki,wielkopolskie
 37-600,Antoniki,,,Lubaczów,lubaczowski,podkarpackie
 98-260,Antonin,,,Burzenin,sieradzki,łódzkie
@@ -1443,10 +1442,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 28-506,Będziaki,,,Czarnocin,kazimierski,świętokrzyskie
 76-220,Będziechowo,,,Główczyce,słupski,pomorskie
 62-704,Będziechów,,,Kawęczyn,turecki,wielkopolskie
-39-127,Będziemyśl,,,Sędziszów Małopolski,ropczycko-,podkarpackie
-,,,,,sędziszowski,
-39-124,Będzienica,,,Iwierzyce,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-127,Będziemyśl,,,Sędziszów Małopolski,ropczycko-sędziszowski,podkarpackie
+39-124,Będzienica,,,Iwierzyce,ropczycko-sędziszowski,podkarpackie
 72-405,Będzieszewo,,,Świerzno,kamieński,zachodniopomorskie
 83-000,Będzieszyn,,,Pruszcz Gdański,gdański,pomorskie
 63-450,Będzieszyn,,,Ostrów Wielkopolski,ostrowski,wielkopolskie
@@ -1786,10 +1783,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 77-222,Biała,,,Miastko,bytowski,pomorskie
 84-215,Biała,,,Wejherowo,wejherowski,pomorskie
 42-125,Biała,,,Kłobuck,kłobucki,śląskie
-64-904,Biała,,,Trzcianka,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
-64-730,Biała,,,Wieleń,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-904,Biała,,,Trzcianka,czarnkowsko-trzcianecki,wielkopolskie
+64-730,Biała,,,Wieleń,czarnkowsko-trzcianecki,wielkopolskie
 62-872,Biała,,,Godziesze Wielkie,kaliski,wielkopolskie
 62-580,Biała,,,Grodziec,koniński,wielkopolskie
 73-130,Biała,,,Dobrzany,stargardzki,zachodniopomorskie
@@ -1886,8 +1881,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 62-095,Białęgi,,,Murowana Goślina,poznański,wielkopolskie
 74-500,Białęgi,,,Chojna,gryfiński,zachodniopomorskie
 62-300,Białężyce,,,Września,wrzesiński,wielkopolskie
-64-700,Białężyn,,,Czarnków,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-700,Białężyn,,,Czarnków,czarnkowsko-trzcianecki,wielkopolskie
 62-095,Białężyn,,,Murowana Goślina,poznański,wielkopolskie
 22-300,Białka,,,Krasnystaw,krasnostawski,lubelskie
 21-020,Białka,,,Milejów,łęczyński,lubelskie
@@ -3543,8 +3537,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 13-330,Bielice (Cztery Włóki),,,Biskupiec,nowomiejski,warmińsko-mazurskie
 72-212,Bielice,,,Maszewo,goleniowski,zachodniopomorskie
 74-202,Bielice,,,Bielice,pyrzycki,zachodniopomorskie
-64-761,Bielice Nowe,,,Krzyż Wielkopolski,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-761,Bielice Nowe,,,Krzyż Wielkopolski,czarnkowsko-trzcianecki,wielkopolskie
 26-601,Bielicha,,,Zakrzew,radomski,mazowieckie
 98-338,Bieliki,,,Sulmierzyce,pajęczański,łódzkie
 72-304,Bielikowo,,,Brojce,gryficki,zachodniopomorskie
@@ -4927,8 +4920,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 14-521,Bieńkowo,,,Lelkowo,braniewski,warmińsko-mazurskie
 86-200,Bieńkówka,,,Chełmno,chełmiński,kujawsko-pomorskie
 34-212,Bieńkówka,,,Budzów,suski,małopolskie
-47-240,Bierawa,,,Bierawa,kędzierzyńsko-,opolskie
-,,,,,kozielski,
+47-240,Bierawa,,,Bierawa,kędzierzyńsko-kozielski,opolskie
 66-330,Biercza,,,Pszczew,międzyrzecki,lubuskie
 46-046,Bierdzany,,,Turawa,opolski,opolskie
 26-720,Bierdzież,,,Policzna,zwoleński,mazowieckie
@@ -4945,8 +4937,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 16-300,Biernatki,,,Augustów,augustowski,podlaskie
 62-817,Biernatki,,,Żelazków,kaliski,wielkopolskie
 62-035,Biernatki,,,Kórnik,poznański,wielkopolskie
-64-910,Biernatowo,,,Trzcianka,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-910,Biernatowo,,,Trzcianka,czarnkowsko-trzcianecki,wielkopolskie
 67-321,Biernatów,,,Szprotawa,żagański,lubuskie
 48-118,Biernatów,,,Głubczyce,głubczycki,opolskie
 48-118,Biernatówek,,,Głubczyce,głubczycki,opolskie
@@ -5394,8 +5385,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 38-114,Blizianka,,,Niebylec,strzyżowski,podkarpackie
 87-222,Blizienko,,,Książki,wąbrzeski,kujawsko-pomorskie
 97-371,Blizin,,,Wola Krzysztoporska,piotrkowski,łódzkie
-39-104,Blizna,,,Ostrów,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-104,Blizna,,,Ostrów,ropczycko-sędziszowski,podkarpackie
 05-082,Blizne Jasińskiego,Fryderyka Chopina,,Stare Babice,warszawski zachodni,mazowieckie
 05-082,Blizne Jasińskiego,Hubala Dobrzańskiego,,Stare Babice,warszawski zachodni,mazowieckie
 05-082,Blizne Jasińskiego,Aleksandra Fredry,,Stare Babice,warszawski zachodni,mazowieckie
@@ -5455,8 +5445,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 63-140,Błażejewo,,,Dolsk,śremski,wielkopolskie
 21-450,Błażejki,,,Stoczek Łukowski,łukowski,lubelskie
 49-345,Błażejowice,,,Lewin Brzeski,brzeski,opolskie
-47-253,Błażejowice,,,Cisek,kędzierzyńsko-,opolskie
-,,,,,kozielski,
+47-253,Błażejowice,,,Cisek,kędzierzyńsko-kozielski,opolskie
 44-187,Błażejowice,,,Wielowieś,gliwicki,śląskie
 48-250,Błażejowice Dolne,,,Głogówek,prudnicki,opolskie
 58-420,Błażejów,,,Lubawka,kamiennogórski,dolnośląskie
@@ -6328,8 +6317,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 22-310,Bończa,,,Kraśniczyn,krasnostawski,lubelskie
 05-660,Bończa,,,Warka,grójecki,mazowieckie
 09-533,Bończa,,,Słubice,płocki,mazowieckie
-64-720,Bończa,,,Lubasz,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-720,Bończa,,,Lubasz,czarnkowsko-trzcianecki,wielkopolskie
 22-310,Bończa-Kolonia,,,Kraśniczyn,krasnostawski,lubelskie
 09-100,Bońki,,,Płońsk,płoński,mazowieckie
 06-540,Bońkowo Kościelne (Bońkowo-Kolonia),,,Radzanów,mławski,mazowieckie
@@ -6361,8 +6349,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 19-300,Borecki Dwór,,,Ełk,ełcki,warmińsko-mazurskie
 57-160,Boreczek,,,Borów,strzeliński,dolnośląskie
 07-319,Boreczek,,,Małkinia Górna,ostrowski,mazowieckie
-39-120,Boreczek,,,Sędziszów Małopolski,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-120,Boreczek,,,Sędziszów Małopolski,ropczycko-sędziszowski,podkarpackie
 11-010,Boreczek,,,Biskupiec,olsztyński,warmińsko-mazurskie
 63-112,Boreczek,,,Brodnica,śremski,wielkopolskie
 62-613,Borecznia Mała,,,Osiek Mały,kolski,wielkopolskie
@@ -6404,8 +6391,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-304,Borek Czarniński,,,Stanisławów,miński,mazowieckie
 27-640,Borek Klimontowski,,,Klimontów,sandomierski,świętokrzyskie
 98-290,Borek Lipiński,,,Warta,sieradzki,łódzkie
-39-120,Borek Mały,,,Ostrów,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-120,Borek Mały,,,Ostrów,ropczycko-sędziszowski,podkarpackie
 63-600,Borek Mielęcki,,,Kępno,kępiński,wielkopolskie
 05-300,Borek Miński,,,Mińsk Mazowiecki,miński,mazowieckie
 36-020,Borek Stary,,,Tyczyn,rzeszowski,podkarpackie
@@ -6733,8 +6719,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 33-262,Borusowa,,,Gręboszów,dąbrowski,małopolskie
 42-690,Boruszowice,,,Tworóg,tarnogórski,śląskie
 68-213,Boruszyn,,,Lipinki Łużyckie,żarski,lubuskie
-64-712,Boruszyn,,,Połajewo,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-712,Boruszyn,,,Połajewo,czarnkowsko-trzcianecki,wielkopolskie
 05-622,Boruty,,,Belsk Duży,grójecki,mazowieckie
 06-225,Boruty,,,Rzewnie,makowski,mazowieckie
 06-213,Boruty,,,Sypniewo,makowski,mazowieckie
@@ -6817,8 +6802,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 62-065,Borzysław,,,Grodzisk Wielkopolski,grodziski,wielkopolskie
 78-220,Borzysław,,,Tychowo,białogardzki,zachodniopomorskie
 72-400,Borzysław,,,Kamień Pomorski,kamieński,zachodniopomorskie
-47-270,Borzysławice,,,Pawłowiczki,kędzierzyńsko-,opolskie
-,,,,,kozielski,
+47-270,Borzysławice,,,Pawłowiczki,kędzierzyńsko-kozielski,opolskie
 72-105,Borzysławiec,,,Goleniów,goleniowski,zachodniopomorskie
 72-300,Borzyszewo,,,Gryfice,gryficki,zachodniopomorskie
 89-421,Borzyszkowo,,,Więcbork,sępoleński,kujawsko-pomorskie
@@ -7174,8 +7158,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 48-385,Broniszowice,,,Otmuchów,nyski,opolskie
 27-400,Broniszowice,,,Bodzechów,ostrowiecki,świętokrzyskie
 67-120,Broniszów,,,Kożuchów,nowosolski,lubuskie
-39-106,Broniszów,,,Wielopole Skrzyńskie,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-106,Broniszów,,,Wielopole Skrzyńskie,ropczycko-sędziszowski,podkarpackie
 28-500,Broniszów,,,Kazimierza Wielka,kazimierski,świętokrzyskie
 17-120,Bronka,,,Brańsk,bielski,podlaskie
 14-405,Bronki,,,Wilczęta,braniewski,warmińsko-mazurskie
@@ -7565,8 +7548,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 32-002,Brzegi,,,Wieliczka,wielicki,małopolskie
 08-420,Brzegi,,,Miastków Kościelny,garwoliński,mazowieckie
 28-305,Brzegi,,,Sobków,jędrzejowski,świętokrzyskie
-64-761,Brzegi,,,Krzyż Wielkopolski,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-761,Brzegi,,,Krzyż Wielkopolski,czarnkowsko-trzcianecki,wielkopolskie
 38-700,Brzegi Dolne,,,Ustrzyki Dolne,bieszczadzki,podkarpackie
 38-713,Brzegi Górne,,,Lutowiska,bieszczadzki,podkarpackie
 28-305,Brzegi Małe,,,Sobków,jędrzejowski,świętokrzyskie
@@ -7667,8 +7649,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 28-330,Brzezinki (Nawarzyce Leśne),,,Wodzisław,jędrzejowski,świętokrzyskie
 28-330,Brzezinki,,,Wodzisław,jędrzejowski,świętokrzyskie
 26-001,Brzezinki,,,Masłów,kielecki,świętokrzyskie
-64-730,Brzezinki,,,Wieleń,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-730,Brzezinki,,,Wieleń,czarnkowsko-trzcianecki,wielkopolskie
 26-706,Brzezinki Nowe,,,Tczów,zwoleński,mazowieckie
 26-706,Brzezinki Stare,,,Tczów,zwoleński,mazowieckie
 87-162,Brzezinko,,,Lubicz,toruński,kujawsko-pomorskie
@@ -7701,8 +7682,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-670,Brzeziny,,,Pionki,radomski,mazowieckie
 48-320,Brzeziny,,,Skoroszyce,nyski,opolskie
 46-320,Brzeziny,,,Praszka,oleski,opolskie
-39-111,Brzeziny,,,Wielopole Skrzyńskie,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-111,Brzeziny,,,Wielopole Skrzyńskie,ropczycko-sędziszowski,podkarpackie
 19-104,Brzeziny,,,Trzcianne,moniecki,podlaskie
 42-141,Brzeziny,,,Przystajń,kłobucki,śląskie
 42-320,Brzeziny,,,Niegowa,myszkowski,śląskie
@@ -7727,14 +7707,12 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 38-230,Brzezowa,,,Nowy Żmigród,jasielski,podkarpackie
 33-230,Brzezówka,,,Szczucin,dąbrowski,małopolskie
 38-204,Brzezówka,,,Tarnowiec,jasielski,podkarpackie
-39-102,Brzezówka,,,Ropczyce,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-102,Brzezówka,,,Ropczyce,ropczycko-sędziszowski,podkarpackie
 36-024,Brzezówka,,,Hyżne,rzeszowski,podkarpackie
 43-418,Brzezówka,,,Hażlach,cieszyński,śląskie
 08-540,Brzeźce,,,Stężyca,rycki,lubelskie
 26-800,Brzeźce,,,Białobrzegi,białobrzeski,mazowieckie
-47-223,Brzeźce,,,Bierawa,kędzierzyńsko-,opolskie
-,,,,,kozielski,
+47-223,Brzeźce,,,Bierawa,kędzierzyńsko-kozielski,opolskie
 43-200,Brzeźce,,,Pszczyna,pszczyński,śląskie
 62-590,Brzeźniak,,,Golina,koniński,wielkopolskie
 73-155,Brzeźniak,,,Węgorzyno,łobeski,zachodniopomorskie
@@ -7842,10 +7820,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 83-212,Brzeźno,,,Morzeszczyn,tczewski,pomorskie
 28-305,Brzeźno,,,Sobków,jędrzejowski,świętokrzyskie
 11-008,Brzeźno,,,Świątki,olsztyński,warmińsko-mazurskie
-64-700,Brzeźno,,,Czarnków,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
-64-730,Brzeźno,,,Wieleń,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-700,Brzeźno,,,Czarnków,czarnkowsko-trzcianecki,wielkopolskie
+64-730,Brzeźno,,,Wieleń,czarnkowsko-trzcianecki,wielkopolskie
 62-513,Brzeźno,,,Krzymów,koniński,wielkopolskie
 62-025,Brzeźno,,,Kostrzyn,poznański,wielkopolskie
 62-093,Brzeźno,,,Skoki,wągrowiecki,wielkopolskie
@@ -8492,8 +8468,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 83-120,Bukowiec,,,Subkowy,tczewski,pomorskie
 11-220,Bukowiec,,,Górowo Iławeckie,bartoszycki,warmińsko-mazurskie
 64-834,Bukowiec,,,Budzyń,chodzieski,wielkopolskie
-64-700,Bukowiec,,,Czarnków,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-700,Bukowiec,,,Czarnków,czarnkowsko-trzcianecki,wielkopolskie
 64-300,Bukowiec,,,Nowy Tomyśl,nowotomyski,wielkopolskie
 64-300,Bukowiec (Trzy Dęby),,,Nowy Tomyśl,nowotomyski,wielkopolskie
 62-100,Bukowiec,,,Wągrowiec,wągrowiecki,wielkopolskie
@@ -10428,8 +10403,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 20-258,Bystrzyca,,,Wólka,lubelski,lubelskie
 21-411,Bystrzyca (Lisie Jamy),,,Wojcieszków,łukowski,lubelskie
 21-411,Bystrzyca,,,Wojcieszków,łukowski,lubelskie
-39-124,Bystrzyca,,,Iwierzyce,ropczycko-,podkarpackie
-,,,,,sędziszowski,
+39-124,Bystrzyca,,,Iwierzyce,ropczycko-sędziszowski,podkarpackie
 62-240,Bystrzyca,,,Trzemeszno,gnieźnieński,wielkopolskie
 62-580,Bystrzyca,,,Grodziec,koniński,wielkopolskie
 58-100,Bystrzyca Dolna,,,Świdnica,świdnicki,dolnośląskie
@@ -10461,8 +10435,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 86-010,Bytkowice,,,Koronowo,bydgoski,kujawsko-pomorskie
 62-090,Bytkowo,,,Rokietnica,poznański,wielkopolskie
 59-305,Bytków,,,Rudna,lubiński,dolnośląskie
-47-208,Bytków,,,Reńska Wieś,kędzierzyńsko-,opolskie
-,,,,,kozielski,
+47-208,Bytków,,,Reńska Wieś,kędzierzyńsko-kozielski,opolskie
 66-630,Bytnica,,,Bytnica,krośnieński,lubuskie
 66-630,Bytnica (Smolary Bytnickie),,,Bytnica,krośnieński,lubuskie
 67-210,Bytnik,,,Głogów,głogowski,dolnośląskie
@@ -11031,8 +11004,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 11-135,Bzowiec,,,Dobre Miasto,olsztyński,warmińsko-mazurskie
 86-160,Bzowo,,,Warlubie,świecki,kujawsko-pomorskie
 76-251,Bzowo,,,Kobylnica,słupski,pomorskie
-64-720,Bzowo,,,Lubasz,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-720,Bzowo,,,Lubasz,czarnkowsko-trzcianecki,wielkopolskie
 08-106,Bzów,,,Zbuczyn,siedlecki,mazowieckie
 88-300,Bzówiec,,,Mogilno,mogileński,kujawsko-pomorskie
 99-350,Bzówki,,,Nowe Ostrowy,kutnowski,łódzkie
@@ -11339,8 +11311,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 73-200,Chełpa,,,Choszczno,choszczeński,zachodniopomorskie
 73-210,Chełpina,,,Recz,choszczeński,zachodniopomorskie
 05-332,Chełst,,,Siennica,miński,mazowieckie
-64-733,Chełst,,,Drawsko,czarnkowsko-,wielkopolskie
-,,,,,trzcianecki,
+64-733,Chełst,,,Drawsko,czarnkowsko-trzcianecki,wielkopolskie
 09-451,Chełstowo,,,Radzanowo,płocki,mazowieckie
 56-416,Chełstów,,,Twardogóra,oleśnicki,dolnośląskie
 56-416,Chełstówek,,,Twardogóra,oleśnicki,dolnośląskie
