@@ -5,8 +5,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 15-113,Białystok,gen. Władysława Andersa,"38-DK(p), 69-DK(n)",Białystok,Białystok,podlaskie
 15-386,Białystok,Angielska,"1-2, 3-21(n), 4-26a(p)",Białystok,Białystok,podlaskie
 15-376,Białystok,Angielska,"23-DK(n), 28-DK(p)",Białystok,Białystok,podlaskie
-15-685,Białystok,Bacieczki,"9-141(n), 44-142(p),",Białystok,Białystok,podlaskie
-,,,174-DK,,,
+15-685,Białystok,Bacieczki,"9-141(n), 44-142(p), 174-DK",Białystok,Białystok,podlaskie
 15-501,Białystok,Baranowicka,"112-134(p), 113-121(n)",Białystok,Białystok,podlaskie
 15-517,Białystok,Baranowicka,"123-DK(n), 136-DK(p)",Białystok,Białystok,podlaskie
 15-370,Białystok,gen. Józefa Bema,"50-DK(p), 63-DK(n)",Białystok,Białystok,podlaskie
@@ -41,8 +40,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 15-346,Białystok,Wspólna,"6a-DK(p),",Białystok,Białystok,podlaskie
 15-246,Białystok,Zwierzyniecka,"26-48(p), 27-DK(n)",Białystok,Białystok,podlaskie
 43-300,Bielsko-Biała,Bohaterów Monte Cassino,"2-180(p), 411-421(n)",Bielsko-Biała,Bielsko-Biała,śląskie
-43-300,Bielsko-Biała,ks. Stanisława Brzóski,"1-209(n), 2-206(p),",Bielsko-Biała,Bielsko-Biała,śląskie
-,,,262-DK(p),,,
+43-300,Bielsko-Biała,ks. Stanisława Brzóski,"1-209(n), 2-206(p), 262-DK(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-318,Bielsko-Biała,ks. Stanisława Brzóski,"208-260(p), 211-DK(n)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-300,Bielsko-Biała,Cieszyńska,"1-143(n), 2-114(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-303,Bielsko-Biała,Cieszyńska,"116-262(p), 145-279(n)",Bielsko-Biała,Bielsko-Biała,śląskie
@@ -53,8 +51,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 43-300,Bielsko-Biała,Jana Sobieskiego,"1-425(n), 2-430(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-382,Bielsko-Biała,Jana Sobieskiego,"430a-438(p), 442-446",Bielsko-Biała,Bielsko-Biała,śląskie
 43-300,Bielsko-Biała,Komorowicka,"1-125(n), 2-180(p)",Bielsko-Biała,Bielsko-Biała,śląskie
-43-346,Bielsko-Biała,Komorowicka,"127-305(n), 182-246,",Bielsko-Biała,Bielsko-Biała,śląskie
-,,,252-352(p),,,
+43-346,Bielsko-Biała,Komorowicka,"127-305(n), 182-246, 252-352(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-308,Bielsko-Biała,Elizy Orzeszkowej,"41-69(n), 42-50(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-316,Bielsko-Biała,Elizy Orzeszkowej,"66-DK(p), 71-DK(n)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-316,Bielsko-Biała,Partyzantów,"61-165(n), 98-102(p)",Bielsko-Biała,Bielsko-Biała,śląskie
@@ -65,8 +62,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 43-300,Bielsko-Biała,Wincentego Witosa,"2-348(p), 55-299(n)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-318,Bielsko-Biała,Wspólna,"2-DK(p), 21-DK(n)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-300,Bielsko-Biała,Wyzwolenia,"1-6a, 7-135(n), 8-148(p)",Bielsko-Biała,Bielsko-Biała,śląskie
-43-344,Bielsko-Biała,Wyzwolenia,"137-345(n), 194-643,",Bielsko-Biała,Bielsko-Biała,śląskie
-,,,310-336(p),,,
+43-344,Bielsko-Biała,Wyzwolenia,"137-345(n), 194-643, 310-336(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-300,Bielsko-Biała,Żywiecka,"1-173(n),",Bielsko-Biała,Bielsko-Biała,śląskie
 43-310,Bielsko-Biała,Żywiecka,"175-DK(n), 222-DK(p)",Bielsko-Biała,Bielsko-Biała,śląskie
 43-155,Bieruń (Czarnuchowice),Dyrdy,,Bieruń,bieruńsko-lędziński,śląskie
@@ -105,35 +101,25 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 85-739,Bydgoszcz,Fordońska,"95-201(n), 108-120(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-752,Bydgoszcz,Fordońska,"126-196b(p), 205-239(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-766,Bydgoszcz,Fordońska,"216-254a(p), 353-355(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-796,Bydgoszcz,Fordońska,"256-288(p), 297-343(n),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,357-363(n),,,
+85-796,Bydgoszcz,Fordońska,"256-288(p), 297-343(n), 357-363(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-790,Bydgoszcz,Fordońska,"393-467(n), 400-444c(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-717,Bydgoszcz,Gajowa,"85-99(n), 94-102(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-674,Bydgoszcz,Gdańska,"142-254(p), 147-181(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-174,Bydgoszcz,Glinki,"1-51(n), 12-62a(p),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,31-33b,,,
-85-861,Bydgoszcz,Glinki,"64-102(p), 81-101a(n),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,"117-128,",,,
-,,,"136-148(p),",,,
-,,,147-155(n),,,
+85-174,Bydgoszcz,Glinki,"1-51(n), 12-62a(p), 31-33b",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
+85-861,Bydgoszcz,Glinki,"64-102(p), 81-101a(n), 117-128, 136-148(p), 147-155(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-717,Bydgoszcz,Bartosza Głowackiego,"18-30(p), 37-59(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-239,Bydgoszcz,Grunwaldzka,"1-83(n), 56-122(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-429,Bydgoszcz,Grunwaldzka,"138-182(p), 167-197(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-438,Bydgoszcz,Grunwaldzka,"222-284(p), 235-303(n),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,297-298,,,
+85-438,Bydgoszcz,Grunwaldzka,"222-284(p), 235-303(n), 297-298",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-749,Bydgoszcz,Inwalidów,"3b-6b, 10-20(p), 11-51(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-097,Bydgoszcz,Jagiellońska,"17-18, 21-25(n), 22-62(p), 33-48,",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,51-57(n),,,
+85-097,Bydgoszcz,Jagiellońska,"17-18, 21-25(n), 22-62(p), 33-48, 51-57(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-027,Bydgoszcz,Jagiellońska,"61-119(n), 64-96(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-637,Bydgoszcz,Kaliska,"9-15(n), 12-DK(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-605,Bydgoszcz,Kasztanowa,"16-66(p), 21-49(n), 57",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-405,Bydgoszcz,Koronowska,"7-DK(n), 10-DK(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-652,Bydgoszcz,Joachima Lelewela,"24-36(p), 25-39(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-480,Bydgoszcz,Letniskowa,"26-DK(p), 29-DK(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-366,Bydgoszcz,Jana Maciaszka,"1-35(n), 2-58(p),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,"39-41(n),",,,
-,,,"45-81(n), 60-73,",,,
-,,,87-111,,,
+85-366,Bydgoszcz,Jana Maciaszka,"1-35(n), 2-58(p), 39-41(n), 45-81(n), 60-73, 87-111",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-367,Bydgoszcz,Jana Maciaszka,"112-141, 143-151(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-402,Bydgoszcz,Mińska,"2-96(p), 7-9b, 15-103(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-428,Bydgoszcz,Mińska,"102-188(p), 105-128",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
@@ -143,19 +129,16 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 85-469,Bydgoszcz,Opławiec,"1-233a(n), 2-160(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-483,Bydgoszcz,Opławiec,"162-DK(p), 235-DK(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-158,Bydgoszcz,Orla,"1-29(n), 2-46(p), 50-58(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-301,Bydgoszcz,Orla,"31-43(n), 47-48-52,",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,60-70(p),,,
+85-301,Bydgoszcz,Orla,"31-43(n), 47-48-52, 60-70(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-330,Bydgoszcz,Jana Ostroroga,"23-DK(n), 34-DK(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-542,Bydgoszcz,Saperów,"75-217(n), 206-280(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-412,Bydgoszcz,Siedlecka,"15-187a(n), 22-144(p),",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,47-48a,,,
+85-412,Bydgoszcz,Siedlecka,"15-187a(n), 22-144(p), 47-48a",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-871,Bydgoszcz,Smoleńska,"17-119(n), 102-176(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-485,Bydgoszcz,Smukalska,"52-166(p), 127-251(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-386,Bydgoszcz,Spacerowa,"25-59(n), 65-147(n)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-634,Bydgoszcz,Józefa Sułkowskiego,"13-21(n), 50-62(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-540,Bydgoszcz,Średnia,"65-69(n), 70-80(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-85-544,Bydgoszcz,Średnia,"71-103(n), 82-100,",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
-,,,94-126(p),,,
+85-544,Bydgoszcz,Średnia,"71-103(n), 82-100, 94-126(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-817,Bydgoszcz,Toruńska,"101-105(n), 166-170(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-844,Bydgoszcz,Toruńska,"107-113(n), 170a-200(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
 85-831,Bydgoszcz,Toruńska,"117-131(n), 238-278(p)",Bydgoszcz,Bydgoszcz,kujawsko-pomorskie
@@ -169,19 +152,15 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-923,Bytom,Daleka,"2-20, 8-12(p), 9-33(n), 34-44(p)",Bytom,Bytom,śląskie
 41-935,Bytom,Jaskółcza,"1-7(n), 4, 12-14(p)",Bytom,Bytom,śląskie
 41-923,Bytom,Jaskółcza,"2-4, 5-7(n), 8-12, 14-17",Bytom,Bytom,śląskie
-41-906,Bytom,Konstytucji,"76-150(p), 107-141(n),",Bytom,Bytom,śląskie
-,,,115-118,,,
+41-906,Bytom,Konstytucji,"76-150(p), 107-141(n), 115-118",Bytom,Bytom,śląskie
 41-936,Bytom,Stolarzowicka,"171-203(n), 202-218(p)",Bytom,Bytom,śląskie
 41-914,Bytom,Strzelców Bytomskich,"66-220(p), 87-217(n), 96-98",Bytom,Bytom,śląskie
 41-933,Bytom,Strzelców Bytomskich,"223-277(n), 232-270(p)",Bytom,Bytom,śląskie
 41-935,Bytom,Strzelców Bytomskich,"272-450(p), 295-451(n)",Bytom,Bytom,śląskie
 41-933,Bytom,Władysława Łokietka,"1-7(n), 4-6(p), 10-12",Bytom,Bytom,śląskie
-41-935,Bytom,Władysława Łokietka,"2-4(p), 13-45(n),",Bytom,Bytom,śląskie
-,,,16-34(p),,,
-41-907,Bytom,Zabrzańska,"1-129(n), 6-98(p), 30-31,",Bytom,Bytom,śląskie
-,,,112,,,
-41-902,Bytom,Zabrzańska,"100-110(p), 132-138(p),",Bytom,Bytom,śląskie
-,,,155-163(n),,,
+41-935,Bytom,Władysława Łokietka,"2-4(p), 13-45(n), 16-34(p)",Bytom,Bytom,śląskie
+41-907,Bytom,Zabrzańska,"1-129(n), 6-98(p), 30-31, 112",Bytom,Bytom,śląskie
+41-902,Bytom,Zabrzańska,"100-110(p), 132-138(p), 155-163(n)",Bytom,Bytom,śląskie
 41-905,Bytom,Zabrzańska,"116-130(p), 135-153(n)",Bytom,Bytom,śląskie
 41-516,Chorzów,Aleja Wojska Polskiego,"2-14(p), 17, 20-23",Chorzów,Chorzów,śląskie
 41-506,Chorzów,ks. Jana Gałeczki,"41-93(n), 50-76(p)",Chorzów,Chorzów,śląskie
@@ -348,16 +327,13 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 42-202,Częstochowa,Dekabrystów,"40-DK(p), 67-DK(n)",Częstochowa,Częstochowa,śląskie
 42-280,Częstochowa,Huculska,"31-DK(n), 38-DK(p)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,Jagiellońska,"42-DK(p), 93-DK(n)",Częstochowa,Częstochowa,śląskie
-42-202,Częstochowa,Aleja Jana Pawła II,"1-91(n), 2-30(p),",Częstochowa,Częstochowa,śląskie
-,,,108-DK(p),,,
+42-202,Częstochowa,Aleja Jana Pawła II,"1-91(n), 2-30(p), 108-DK(p)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,św. Jana,"12-DK(p), 33-DK(n)",Częstochowa,Częstochowa,śląskie
 42-217,Częstochowa,Jasnogórska,"37-DK(n), 54-DK(p)",Częstochowa,Częstochowa,śląskie
 42-229,Częstochowa,Jesienna,"1-DK(n), 114-DK(p)",Częstochowa,Częstochowa,śląskie
 42-280,Częstochowa,Kawodrzańska,"48-DK(p),",Częstochowa,Częstochowa,śląskie
-42-218,Częstochowa,Jana Kilińskiego,"35-117(n), 46-116(p),",Częstochowa,Częstochowa,śląskie
-,,,118-DK,,,
-42-202,Częstochowa,Kujawska,"1-DK(n), 2-10(p),",Częstochowa,Częstochowa,śląskie
-,,,14-DK(p),,,
+42-218,Częstochowa,Jana Kilińskiego,"35-117(n), 46-116(p), 118-DK",Częstochowa,Częstochowa,śląskie
+42-202,Częstochowa,Kujawska,"1-DK(n), 2-10(p), 14-DK(p)",Częstochowa,Częstochowa,śląskie
 42-208,Częstochowa,Janusza Kusocińskiego,"1-235(n), 2-238(p)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,Janusza Kusocińskiego,"237-DK(n), 240-DK(p)",Częstochowa,Częstochowa,śląskie
 42-208,Częstochowa,Bolesława Limanowskiego,"51-DK(n), 86-DK(p)",Częstochowa,Częstochowa,śląskie
@@ -375,8 +351,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 42-217,Częstochowa,gen. Kazimierza Pułaskiego,"1-DK(n), 100-DK(p)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,św. Rocha,"1-219(n), 2-178(p)",Częstochowa,Częstochowa,śląskie
 42-221,Częstochowa,św. Rocha,"180-DK(p), 219a-DK(n)",Częstochowa,Częstochowa,śląskie
-42-202,Częstochowa,Rolnicza,"1-35(n), 2-DK(p),",Częstochowa,Częstochowa,śląskie
-,,,39-DK(n),,,
+42-202,Częstochowa,Rolnicza,"1-35(n), 2-DK(p), 39-DK(n)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,gen. Władysława Sikorskiego,"11-DK(n), 16-DK(p)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,Warszawska,"1-195(n), 2-246(p)",Częstochowa,Częstochowa,śląskie
 42-209,Częstochowa,Warszawska,"197-DK(n), 248-DK(p)",Częstochowa,Częstochowa,śląskie
@@ -388,19 +363,13 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 42-202,Częstochowa,Kardynała Stefana Wyszyńskiego,"62-DK(p), 67-DK(n)",Częstochowa,Częstochowa,śląskie
 42-202,Częstochowa,Zaciszańska,"18-DK(p),",Częstochowa,Częstochowa,śląskie
 41-300,Dąbrowa Górnicza,Aleja Józefa Piłsudskiego,"1-13(n), 4-18(p), 92",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
-41-303,Dąbrowa Górnicza,Aleja Józefa Piłsudskiego,"15-117(n), 20-76(p), 28-33,",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
-,,,"90-92(p),",,,
-,,,113-115,,,
+41-303,Dąbrowa Górnicza,Aleja Józefa Piłsudskiego,"15-117(n), 20-76(p), 28-33, 90-92(p), 113-115",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
 41-303,Dąbrowa Górnicza,Aleja Zagłębia Dąbrowskiego,"1, 4-24(p), 9-13(n)",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
-41-300,Dąbrowa Górnicza,11 Listopada,"1-11(n), 2-16(p), 7-9,",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
-,,,"17-19(n), 20, 31",,,
+41-300,Dąbrowa Górnicza,11 Listopada,"1-11(n), 2-16(p), 7-9, 17-19(n), 20, 31",Dąbrowa Górnicza,Dąbrowa Górnicza,śląskie
 72-200,Dąbrowa Nowogardzka,,"1-20, 22-47, 28-40(p), 55-68",Nowogard,goleniowski,zachodniopomorskie
 21-002,Dąbrowica,Pszeniczna,"1-5, 10-18(p), 19-DK",Jastków,lubelski,lubelskie
 21-002,Dąbrowica,,"22-68, 127a-127c",Jastków,lubelski,lubelskie
-32-852,Dębno,,"1-3, 5-352, 93-101(n),",Dębno,brzeski,małopolskie
-,,,"354-439,",,,
-,,,"442-560,",,,
-,,,"518-552(p),",,,
+32-852,Dębno,,"1-3, 5-352, 93-101(n), 354-439, 442-560, 518-552(p),",Dębno,brzeski,małopolskie
 ,,,519-525(n),,,
 80-355,Gdańsk,Maurycego Beniowskiego,"35-DK(n), 68-DK(p)",Gdańsk,Gdańsk,pomorskie
 80-414,Gdańsk,Bolesława Chrobrego,"73-83(n), 78-98(p)",Gdańsk,Gdańsk,pomorskie
@@ -411,8 +380,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 80-511,Gdańsk,Dworska,"1-2, 4-10(p), 5-7(n)",Gdańsk,Gdańsk,pomorskie
 80-506,Gdańsk,Dworska,"14, 17-37, 25-29(n)",Gdańsk,Gdańsk,pomorskie
 80-724,Gdańsk,Elbląska,"32-66(p), 59-63(n)",Gdańsk,Gdańsk,pomorskie
-80-718,Gdańsk,Elbląska,"68-84(p), 79-135(n),",Gdańsk,Gdańsk,pomorskie
-,,,94-133,,,
+80-718,Gdańsk,Elbląska,"68-84(p), 79-135(n), 94-133",Gdańsk,Gdańsk,pomorskie
 80-426,Gdańsk,Aleja Gen. Józefa Hallera,"16-84(p), 19-83(n)",Gdańsk,Gdańsk,pomorskie
 80-420,Gdańsk,Aleja Gen. Józefa Hallera,"85-99(n), 86-120(p)",Gdańsk,Gdańsk,pomorskie
 80-416,Gdańsk,Aleja Gen. Józefa Hallera,"101-201(n), 122-142(p)",Gdańsk,Gdańsk,pomorskie
@@ -426,30 +394,22 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 80-320,Gdańsk,Aleja Grunwaldzka,"499-539(n), 510-576(p)",Gdańsk,Gdańsk,pomorskie
 80-337,Gdańsk,Aleja Grunwaldzka,"578-612(p), 595-615(n)",Gdańsk,Gdańsk,pomorskie
 80-301,Gdańsk,Aleksandra Gryglewskiego,"12-DK(p), 17-DK(n)",Gdańsk,Gdańsk,pomorskie
-80-371,Gdańsk,Jagiellońska,"2a-10m(p), 4-5a, 7-13(n),",Gdańsk,Gdańsk,pomorskie
-,,,"12-14, 40a-40m",,,
+80-371,Gdańsk,Jagiellońska,"2a-10m(p), 4-5a, 7-13(n), 12-14, 40a-40m",Gdańsk,Gdańsk,pomorskie
 80-367,Gdańsk,Jagiellońska,"12a-14a(p), 30a-38(p)",Gdańsk,Gdańsk,pomorskie
 80-366,Gdańsk,Jagiellońska,"24-28m(p), 42a-46(p)",Gdańsk,Gdańsk,pomorskie
 80-341,Gdańsk,Jantarowa,"1-5, 6-20(p), 7-9(n)",Gdańsk,Gdańsk,pomorskie
 80-286,Gdańsk,Jaśkowa Dolina,"27-105(n), 50-134(p)",Gdańsk,Gdańsk,pomorskie
 80-365,Gdańsk,Prezydenta Lecha Kaczyńskiego,"14-28(p), 31-35a(n)",Gdańsk,Gdańsk,pomorskie
-80-104,Gdańsk,Kartuska,"4-88(p), 94-102(p),",Gdańsk,Gdańsk,pomorskie
-,,,"106-114(p),",,,
-,,,120-126a(p),,,
+80-104,Gdańsk,Kartuska,"4-88(p), 94-102(p), 106-114(p), 120-126a(p)",Gdańsk,Gdańsk,pomorskie
 80-136,Gdańsk,Kartuska,"73-103(n), 128-186(p)",Gdańsk,Gdańsk,pomorskie
-80-111,Gdańsk,Kartuska,"90-92(p), 104-104b,",Gdańsk,Gdańsk,pomorskie
-,,,116-118(p),,,
-80-122,Gdańsk,Kartuska,"175-257(n), 192-256(p),",Gdańsk,Gdańsk,pomorskie
-,,,214-215,,,
-80-125,Gdańsk,Kartuska,"258-456(p), 259-453(n),",Gdańsk,Gdańsk,pomorskie
-,,,369-382,,,
+80-111,Gdańsk,Kartuska,"90-92(p), 104-104b, 116-118(p)",Gdańsk,Gdańsk,pomorskie
+80-122,Gdańsk,Kartuska,"175-257(n), 192-256(p), 214-215",Gdańsk,Gdańsk,pomorskie
+80-125,Gdańsk,Kartuska,"258-456(p), 259-453(n), 369-382",Gdańsk,Gdańsk,pomorskie
 80-298,Gdańsk,Kartuska,"455-DK(n), 458-DK(p)",Gdańsk,Gdańsk,pomorskie
 80-408,Gdańsk,Sebastiana Klonowicza,"39-85(n), 40-106(p)",Gdańsk,Gdańsk,pomorskie
 80-402,Gdańsk,Jana Kochanowskiego,"1-59(n), 8-20(p), 61-76",Gdańsk,Gdańsk,pomorskie
-80-405,Gdańsk,Jana Kochanowskiego,"77-113, 114-130(p),",Gdańsk,Gdańsk,pomorskie
-,,,115-139(n),,,
-80-396,Gdańsk,Kołobrzeska,"51a-55m(n), 65-69m(n),",Gdańsk,Gdańsk,pomorskie
-,,,75-77(n),,,
+80-405,Gdańsk,Jana Kochanowskiego,"77-113, 114-130(p), 115-139(n)",Gdańsk,Gdańsk,pomorskie
+80-396,Gdańsk,Kołobrzeska,"51a-55m(n), 65-69m(n), 75-77(n)",Gdańsk,Gdańsk,pomorskie
 80-445,Gdańsk,Tadeusza Kościuszki,"20-38(p), 25-61(n)",Gdańsk,Gdańsk,pomorskie
 80-446,Gdańsk,Tadeusza Kościuszki,"40-78(p), 63-71(n)",Gdańsk,Gdańsk,pomorskie
 80-421,Gdańsk,Tadeusza Kościuszki,"73-103(n), 80-112(p)",Gdańsk,Gdańsk,pomorskie
@@ -459,8 +419,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 80-769,Gdańsk,Łąkowa,"34a-38(p), 39-52, 61-62",Gdańsk,Gdańsk,pomorskie
 80-107,Gdańsk,Jacka Malczewskiego,"1-30, 31-115(n), 38-112(p)",Gdańsk,Gdańsk,pomorskie
 80-078,Gdańsk,Małomiejska,"28-30(p), 29-33(n)",Gdańsk,Gdańsk,pomorskie
-80-557,Gdańsk,Marynarki Polskiej,"1-87b(n), 14-16, 18-74(p),",Gdańsk,Gdańsk,pomorskie
-,,,82-130(p),,,
+80-557,Gdańsk,Marynarki Polskiej,"1-87b(n), 14-16, 18-74(p), 82-130(p)",Gdańsk,Gdańsk,pomorskie
 80-405,Gdańsk,Adama Mickiewicza,"23-49(n), 24-42(p)",Gdańsk,Gdańsk,pomorskie
 80-357,Gdańsk,Mściwoja II,"50-58(p), 65-71(n)",Gdańsk,Gdańsk,pomorskie
 80-356,Gdańsk,Mściwoja II,"60-DK(p),",Gdańsk,Gdańsk,pomorskie
@@ -482,16 +441,13 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 80-172,Gdańsk,Franciszka Schuberta,"76-104(p), 77-79(n), 80-101",Gdańsk,Gdańsk,pomorskie
 80-758,Gdańsk,Siennicka,"3-6, 7-25(n), 16-40(p)",Gdańsk,Gdańsk,pomorskie
 80-281,Gdańsk,Juliusza Słowackiego,"101-157(n), 106-130(p)",Gdańsk,Gdańsk,pomorskie
-80-298,Gdańsk,Juliusza Słowackiego,"132-136(p), 161-181(n),",Gdańsk,Gdańsk,pomorskie
-,,,171-DK,,,
+80-298,Gdańsk,Juliusza Słowackiego,"132-136(p), 161-181(n), 171-DK",Gdańsk,Gdańsk,pomorskie
 80-255,Gdańsk,Stefana Batorego,"36-50(p), 41-49(n)",Gdańsk,Gdańsk,pomorskie
 80-308,Gdańsk,Wita Stwosza,"46-78(p), 55-73(n)",Gdańsk,Gdańsk,pomorskie
 80-711,Gdańsk,Sztutowska,"16-DK(p), 23-DK(n)",Gdańsk,Gdańsk,pomorskie
-80-384,Gdańsk,Śląska,"1-19(n), 2-8/10(p),",Gdańsk,Gdańsk,pomorskie
-,,,16a-22(p),,,
+80-384,Gdańsk,Śląska,"1-19(n), 2-8/10(p), 16a-22(p)",Gdańsk,Gdańsk,pomorskie
 80-389,Gdańsk,Śląska,"12, 21, 24-88(p), 41",Gdańsk,Gdańsk,pomorskie
-80-379,Gdańsk,Śląska,"29a-39a(n), 43-DK(n),",Gdańsk,Gdańsk,pomorskie
-,,,90-DK(p),,,
+80-379,Gdańsk,Śląska,"29a-39a(n), 43-DK(n), 90-DK(p)",Gdańsk,Gdańsk,pomorskie
 80-180,Gdańsk,Świętokrzyska,"4-134(p), 15-119(n)",Gdańsk,Gdańsk,pomorskie
 80-747,Gdańsk,Toruńska,"10-22, 23-27(n), 24-32(p)",Gdańsk,Gdańsk,pomorskie
 80-017,Gdańsk,Trakt św. Wojciecha,"88-180(p), 145-251(n)",Gdańsk,Gdańsk,pomorskie
@@ -505,8 +461,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 80-434,Gdańsk,Stanisława Wyspiańskiego,"2-4(p), 3-7(n), 8-38(p), 11-25(n)",Gdańsk,Gdańsk,pomorskie
 80-766,Gdańsk,Zamiejska,"30-DK(p),",Gdańsk,Gdańsk,pomorskie
 81-393,Gdynia,Antoniego Abrahama,"59-69(n), 62-72(p)",Gdynia,Gdynia,pomorskie
-81-153,Gdynia,adm. J.Unruga,"67-DK(n), 94-122a(p),",Gdynia,Gdynia,pomorskie
-,,,124-DK,,,
+81-153,Gdynia,adm. J.Unruga,"67-DK(n), 94-122a(p), 124-DK",Gdynia,Gdynia,pomorskie
 81-386,Gdynia,Józefa Bema,"1-17(n), 4-20(p), 8-20b",Gdynia,Gdynia,pomorskie
 81-381,Gdynia,Józefa Bema,"22-28(p), 27-33(n)",Gdynia,Gdynia,pomorskie
 81-466,Gdynia,Bohaterów Starówki Warszawskiej,3-DK(n),Gdynia,Gdynia,pomorskie
@@ -514,10 +469,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 81-194,Gdynia,Cechowa,"1-19(n),",Gdynia,Gdynia,pomorskie
 81-174,Gdynia,Cechowa,"2-18(p),",Gdynia,Gdynia,pomorskie
 81-613,Gdynia,Chwarznieńska,"2a-8(p), 17-17a, 93g, 124-128a(p)",Gdynia,Gdynia,pomorskie
-81-602,Gdynia,Chwarznieńska,"10-40(p), 11, 19-53(n),",Gdynia,Gdynia,pomorskie
-,,,"67-107(n),",,,
-,,,"111-127(n),",,,
-,,,130-204(p),,,
+81-602,Gdynia,Chwarznieńska,"10-40(p), 11, 19-53(n), 67-107(n), 111-127(n), 130-204(p)",Gdynia,Gdynia,pomorskie
 81-041,Gdynia,Chylońska,"30-62(p), 47-135(n)",Gdynia,Gdynia,pomorskie
 81-007,Gdynia,Chylońska,"144-220(p), 151-243(n)",Gdynia,Gdynia,pomorskie
 81-016,Gdynia,Chylońska,"222-DK(p), 245-DK(n)",Gdynia,Gdynia,pomorskie
@@ -548,12 +500,10 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 81-036,Gdynia,Pucka,"1-101d(n),",Gdynia,Gdynia,pomorskie
 81-154,Gdynia,Pucka,"103-DK(n), 110-DK(p)",Gdynia,Gdynia,pomorskie
 81-235,Gdynia,Sambora,"1-46, 10-42(p), 11-49(n)",Gdynia,Gdynia,pomorskie
-81-201,Gdynia,Sambora,"48-88(p), 53-69a(n),",Gdynia,Gdynia,pomorskie
-,,,61a-82a,,,
+81-201,Gdynia,Sambora,"48-88(p), 53-69a(n), 61a-82a",Gdynia,Gdynia,pomorskie
 81-556,Gdynia,Sieradzka,"29-57(n), 36-58(p)",Gdynia,Gdynia,pomorskie
 81-503,Gdynia,Sieradzka,"59-DK(n), 62-DK(p)",Gdynia,Gdynia,pomorskie
-81-605,Gdynia,Słoneczna,"1-2, 5-7(n), 11-65, 43-77(n),",Gdynia,Gdynia,pomorskie
-,,,66-82(p),,,
+81-605,Gdynia,Słoneczna,"1-2, 5-7(n), 11-65, 43-77(n), 66-82(p)",Gdynia,Gdynia,pomorskie
 81-313,Gdynia,Słupecka,"26-38(p), 33-45a(n)",Gdynia,Gdynia,pomorskie
 81-356,Gdynia,Starowiejska,"1-4, 7-17(n), 8-60(p)",Gdynia,Gdynia,pomorskie
 81-319,Gdynia,Śląska,"1/7-31(n), 12-40(p)",Gdynia,Gdynia,pomorskie
@@ -566,8 +516,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 81-314,Gdynia,Warszawska,"1/3-5(n), 2-14b(p)",Gdynia,Gdynia,pomorskie
 81-317,Gdynia,Warszawska,"7-25(n), 16-34/36(p)",Gdynia,Gdynia,pomorskie
 81-309,Gdynia,Warszawska,"33-71(n), 38-80(p)",Gdynia,Gdynia,pomorskie
-81-578,Gdynia,Wiczlińska,"1-127f(n), 4-32(p),",Gdynia,Gdynia,pomorskie
-,,,"40-198(p), 47-96",,,
+81-578,Gdynia,Wiczlińska,"1-127f(n), 4-32(p), 40-198(p), 47-96",Gdynia,Gdynia,pomorskie
 81-552,Gdynia,Wielkopolska,"15-51(n), 16-42(p)",Gdynia,Gdynia,pomorskie
 81-531,Gdynia,Wielkopolska,"44-350e(p), 53-439(n)",Gdynia,Gdynia,pomorskie
 81-311,Gdynia,Witomińska,"2-76a(p), 9-55(n), 25-37a",Gdynia,Gdynia,pomorskie
@@ -581,8 +530,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 81-355,Gdynia,Wójta Radtkego,"22-36/40(p), 23-53a(n), 42-45",Gdynia,Gdynia,pomorskie
 81-553,Gdynia,Wrocławska,"52-80(p), 57-93(n)",Gdynia,Gdynia,pomorskie
 81-530,Gdynia,Wrocławska,"82-DK(p), 95-DK(n)",Gdynia,Gdynia,pomorskie
-81-112,Gdynia,Zielona,"24-DK(p), 25-51(n),",Gdynia,Gdynia,pomorskie
-,,,57-DK(n),,,
+81-112,Gdynia,Zielona,"24-DK(p), 25-51(n), 57-DK(n)",Gdynia,Gdynia,pomorskie
 81-402,Gdynia,al. Zwycięstwa,"1-11(n), 10-30c(p)",Gdynia,Gdynia,pomorskie
 81-416,Gdynia,al. Zwycięstwa,"13-39(n), 32-94(p)",Gdynia,Gdynia,pomorskie
 81-451,Gdynia,al. Zwycięstwa,"41-53(n), 96-98(p)",Gdynia,Gdynia,pomorskie
@@ -595,9 +543,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 44-100,Gliwice,Bohaterów Getta Warszawskiego,"1-5(n), 2-12(p)",Gliwice,Gliwice,śląskie
 44-102,Gliwice,Bohaterów Getta,"9-21(n), 14-14a",Gliwice,Gliwice,śląskie
 44-100,Gliwice,Bojkowska,"2-32(p), 5-20, 9-11(n), 33-35",Gliwice,Gliwice,śląskie
-44-141,Gliwice,Bojkowska,"21-31(n), 37-113(n),",Gliwice,Gliwice,śląskie
-,,,"50-370(p),",,,
-,,,61-120,,,
+44-141,Gliwice,Bojkowska,"21-31(n), 37-113(n), 50-370(p), 61-120",Gliwice,Gliwice,śląskie
 44-100,Gliwice,Ignacego Daszyńskiego,"1-275(n), 2-290(p)",Gliwice,Gliwice,śląskie
 44-100,Gliwice,Jana Kochanowskiego,"1-13, 15-21(n), 20-28(p)",Gliwice,Gliwice,śląskie
 44-121,Gliwice,Kozielska,"5-221(n), 20-254(p)",Gliwice,Gliwice,śląskie
@@ -606,32 +552,25 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 44-113,Gliwice,Przyszowska,"1-131(n), 8-46(p), 141",Gliwice,Gliwice,śląskie
 44-122,Gliwice,Rybnicka,"43-211(n), 56-158(p)",Gliwice,Gliwice,śląskie
 44-102,Gliwice,Tarnogórska,"1-131(n), 2-146(p), 13-151",Gliwice,Gliwice,śląskie
-44-105,Gliwice,Tarnogórska,"163-189(n), 174-260(p),",Gliwice,Gliwice,śląskie
-,,,201-252,,,
+44-105,Gliwice,Tarnogórska,"163-189(n), 174-260(p), 201-252",Gliwice,Gliwice,śląskie
 44-102,Gliwice,Toszecka,"1-71(n), 2-62(p), 27-60",Gliwice,Gliwice,śląskie
 44-117,Gliwice,Toszecka,"84-148(p), 99-141a(n)",Gliwice,Gliwice,śląskie
 44-109,Gliwice,Toszecka,"151-197(n), 160-192(p)",Gliwice,Gliwice,śląskie
-44-102,Gliwice,Warszawska,"1, 6-50(p), 15-29, 33-41(n),",Gliwice,Gliwice,śląskie
-,,,42-46,,,
+44-102,Gliwice,Warszawska,"1, 6-50(p), 15-29, 33-41(n), 42-46",Gliwice,Gliwice,śląskie
 09-230,Goślice,,"1-40, 48-67, 70-72(p)",Bielsk,płocki,mazowieckie
 05-825,Grodzisk Mazowiecki,T. Bairda,"4, 10-12(p), 16-54(p)",Grodzisk Mazowiecki,grodziski,mazowieckie
 05-827,Grodzisk Mazowiecki,3 Maja,"1-27a, 12-64(p), 21-51(n)",Grodzisk Mazowiecki,grodziski,mazowieckie
 05-825,Grodzisk Mazowiecki,3 Maja,"53-65(n), 68-80(p)",Grodzisk Mazowiecki,grodziski,mazowieckie
 05-827,Grodzisk Mazowiecki,Przejazdowa,"3-4, 5-11(n), 6-14(p)",Grodzisk Mazowiecki,grodziski,mazowieckie
 05-827,Grodzisk Mazowiecki,Szkolna,"8-10a(p), 29-39a(n)",Grodzisk Mazowiecki,grodziski,mazowieckie
-33-331,Gródek,,"1-188, 180-266(p),",Grybów,nowosądecki,małopolskie
-,,,"199-DK,",,,
-,,,231-241(n),,,
+33-331,Gródek,,"1-188, 180-266(p), 199-DK, 231-241(n)",Grybów,nowosądecki,małopolskie
 14-200,Iława,Biskupska,"1a-1b, 7-16, 10-16(p)",Iława,iławski,warmińsko-mazurskie
 14-200,Iława,Lubawska,"2-5a, 3-5a(n), 7-8b, 10-16(p)",Iława,iławski,warmińsko-mazurskie
 14-200,Iława,Wojska Polskiego,"1-21, 24-24a, 27-48",Iława,iławski,warmińsko-mazurskie
 05-505,Jaroszowa Wola,Ogrodowa,"5, 12-30(p), 17-18",Prażmów,piaseczyński,mazowieckie
-44-330,Jastrzębie-Zdrój,Armii Krajowej,"31-DK, 74-86b(p),",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
-,,,81-85(n),,,
-44-337,Jastrzębie-Zdrój,Cieszyńska,"11-23(n), 24-150c(p),",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
-,,,153-DK,,,
-44-335,Jastrzębie-Zdrój,Pszczyńska,"1-202, 207-335a(n),",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
-,,,208-372(p),,,
+44-330,Jastrzębie-Zdrój,Armii Krajowej,"31-DK, 74-86b(p), 81-85(n)",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
+44-337,Jastrzębie-Zdrój,Cieszyńska,"11-23(n), 24-150c(p), 153-DK",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
+44-335,Jastrzębie-Zdrój,Pszczyńska,"1-202, 207-335a(n), 208-372(p)",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
 44-337,Jastrzębie-Zdrój,Wyzwolenia,"105-DK, 136-148(p)",Jastrzębie-Zdrój,Jastrzębie-Zdrój,śląskie
 43-602,Jaworzno,Chropaczówka,"27-DK(n),",Jaworzno,Jaworzno,śląskie
 43-607,Jaworzno,Drzymały,"25-39(n), 52-60(p)",Jaworzno,Jaworzno,śląskie
@@ -640,8 +579,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 43-600,Jaworzno,Krakowska,"1-95(n), 4-22(p), 6-9",Jaworzno,Jaworzno,śląskie
 43-607,Jaworzno,Krakowska,"94-166a(p), 97-165(n)",Jaworzno,Jaworzno,śląskie
 43-607,Jaworzno,Łanowa,"22-30(p), 55-57(n)",Jaworzno,Jaworzno,śląskie
-58-570,Jelenia Góra (Jagniątków),Agnieszkowska,,Jelenia Góra,Jelenia Góra,dolnośląskie
-,(Sobieszów),,,,,
+58-570,Jelenia Góra (Jagniątków) (Sobieszów),Agnieszkowska,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-570,Jelenia Góra,Akacjowa,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-570,Jelenia Góra,Adama Asnyka,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-506,Jelenia Góra (Zabobrze),Grażyny Bacewicz,,Jelenia Góra,Jelenia Góra,dolnośląskie
@@ -660,9 +598,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 58-560,Jelenia Góra (Cieplice,Cicha,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Cichy Pl.,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice Śląskie-Zdrój),Cieplicka,"1-42, 5-106, 43-DK",Jelenia Góra,Jelenia Góra,dolnośląskie
-58-570,Jelenia Góra (Sobieszów),Cieplicka,"97-126, 107-235(n),",Jelenia Góra,Jelenia Góra,dolnośląskie
-,,,"128-204(p),",,,
-,,,"130-201, 205-DK",,,
+58-570,Jelenia Góra (Sobieszów),Cieplicka,"97-126, 107-235(n), 128-204(p), 130-201, 205-DK",Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Andrzeja Cinciały,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Cmentarna,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-506,Jelenia Góra,Cyprysowa,,Jelenia Góra,Jelenia Góra,dolnośląskie
@@ -856,9 +792,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 58-506,Jelenia Góra,Wiśniowa,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Wodna,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Wojewódzka,,Jelenia Góra,Jelenia Góra,dolnośląskie
-58-560,Jelenia Góra (Cieplice Śląskie-Zdrój),Wolności,"163-245, 246-268(p),",Jelenia Góra,Jelenia Góra,dolnośląskie
-,,,"247-273(n),",,,
-,,,275-309,,,
+58-560,Jelenia Góra (Cieplice Śląskie-Zdrój),Wolności,"163-245, 246-268(p), 247-273(n), 275-309",Jelenia Góra,Jelenia Góra,dolnośląskie
 58-506,Jelenia Góra,Wrocławska,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Walerego Wróblewskiego,,Jelenia Góra,Jelenia Góra,dolnośląskie
 58-560,Jelenia Góra (Cieplice,Zagajnik,,Jelenia Góra,Jelenia Góra,dolnośląskie
@@ -884,8 +818,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-420,Józefów (Dzieciakowo),Klimatyczna,,Józefów,otwocki,mazowieckie
 05-410,Józefów (Kolonia,Kosmonautów,,Józefów,otwocki,mazowieckie
 05-410,Józefów (Kolonia,Lisia,,Józefów,otwocki,mazowieckie
-05-420,Józefów,3 Maja,"52-146(p), 55-127c(n),",Józefów,otwocki,mazowieckie
-,,,96a-97,,,
+05-420,Józefów,3 Maja,"52-146(p), 55-127c(n), 96a-97",Józefów,otwocki,mazowieckie
 05-410,Józefów (Kolonia,Malinowskiego,,Józefów,otwocki,mazowieckie
 05-420,Józefów,Mieni,,Józefów,otwocki,mazowieckie
 05-410,Józefów (Nowa Wieś),Nadwiślańska,"2-122(p), 15-127d(n)",Józefów,otwocki,mazowieckie
@@ -902,16 +835,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 40-671,Katowice,Armii Krajowej,"60-80, 81-93(n), 82-102(p)",Katowice,Katowice,śląskie
 40-672,Katowice,Armii Krajowej,"95-151(n), 104-132(p)",Katowice,Katowice,śląskie
 40-750,Katowice,Armii Krajowej,"134-356(p), 153-361(n)",Katowice,Katowice,śląskie
-40-748,Katowice,Armii Krajowej,"358-378(p), 363-377(n),",Katowice,Katowice,śląskie
-,,,379-500,,,
+40-748,Katowice,Armii Krajowej,"358-378(p), 363-377(n), 379-500",Katowice,Katowice,śląskie
 40-778,Katowice,Bałtycka,"17-DK, 34-62(p), 39-61(n)",Katowice,Katowice,śląskie
 40-847,Katowice,Feliksa Bocheńskiego,"54-78(p), 55-95(n)",Katowice,Katowice,śląskie
 40-816,Katowice,Feliksa Bocheńskiego,"80-DK(p), 97-DK(n)",Katowice,Katowice,śląskie
 40-226,Katowice,Bogucicka,"1-9(n), 2-DK(p),",Katowice,Katowice,śląskie
 40-584,Katowice,Brynowska,"42-DK(p),",Katowice,Katowice,śląskie
 40-148,Katowice,Bytkowska,"24-DK(p),",Katowice,Katowice,śląskie
-40-101,Katowice,Chorzowska,"6-DK(p), 73a-145a(n),",Katowice,Katowice,śląskie
-,,,107-109,,,
+40-101,Katowice,Chorzowska,"6-DK(p), 73a-145a(n), 107-109",Katowice,Katowice,śląskie
 40-239,Katowice,Cynkowa,"20-DK(p),",Katowice,Katowice,śląskie
 40-022,Katowice,Konstantego Damrota,"2-DK(p),",Katowice,Katowice,śląskie
 40-318,Katowice,Dytrycha,"32-DK(p),",Katowice,Katowice,śląskie
@@ -1109,8 +1040,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 46-203,Kluczbork,Jagiellońska,"11-15(n), 14a-30(p)",Kluczbork,kluczborski,opolskie
 46-203,Kluczbork,Konopnickiej,"14-15, 16-34(p), 17-21(n)",Kluczbork,kluczborski,opolskie
 47-113,Kolonowskie,Opolska,"21-31(n), 22-76(p)",Kolonowskie,strzelecki,opolskie
-68-121,Konin Żagański,,"1-80, 21-23(n), 82-131a,",Iłowa,żagański,lubuskie
-,,,134-148,,,
+68-121,Konin Żagański,,"1-80, 21-23(n), 82-131a, 134-148",Iłowa,żagański,lubuskie
 05-520,Konstancin-Jeziorna,Wacława Gąsiorowskiego,"24-40(p), 41-57(n)",Konstancin-Jeziorna,piaseczyński,mazowieckie
 05-520,Konstancin-Jeziorna,Adama Mickiewicza,"15-19(n), 22-26(p)",Konstancin-Jeziorna,piaseczyński,mazowieckie
 05-510,Konstancin-Jeziorna,Józefa Piłsudskiego,"21-31(n), 38-62(p)",Konstancin-Jeziorna,piaseczyński,mazowieckie
@@ -1130,8 +1060,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 31-406,Kraków (Kraków-Śródmieście),Aleja 29 Listopada,"72-148(p), 91-147(n)",Kraków,Kraków,małopolskie
 31-236,Kraków (Kraków-Krowodrza),Aleja 29 Listopada,"150-174(p), 157-165(n)",Kraków,Kraków,małopolskie
 31-236,Kraków (Kraków-Śródmieście),Aleja 29 Listopada,"167-187(n), 176-198(p)",Kraków,Kraków,małopolskie
-31-241,Kraków (Kraków-Krowodrza),Aleja 29 Listopada,"189-195(n), 200-214(p),",Kraków,Kraków,małopolskie
-,,,216-DK,,,
+31-241,Kraków (Kraków-Krowodrza),Aleja 29 Listopada,"189-195(n), 200-214(p), 216-DK",Kraków,Kraków,małopolskie
 31-241,Kraków (Kraków-,Aleja 29 Listopada,197-DK(n),Kraków,Kraków,małopolskie
 30-062,Kraków (Kraków-Krowodrza),Aleja 3 Maja,"1-3(n), 2-8(p), 9-DK",Kraków,Kraków,małopolskie
 30-063,Kraków (Kraków-,Aleja 3 Maja,5-7(n),Kraków,Kraków,małopolskie
@@ -1412,8 +1341,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 30-310,Kraków (Kraków-,bulw. Bulwar Poleski,,Kraków,Kraków,małopolskie
 30-114,Kraków (Kraków-,bulw. Bulwar Rodła,,Kraków,Kraków,małopolskie
 30-310,Kraków (Kraków-,bulw. Bulwar Wołyński,,Kraków,Kraków,małopolskie
-31-751,Kraków (Kraków-Nowa Huta),Bulwarowa,"1-37(n), 4-26(p),",Kraków,Kraków,małopolskie
-,,,"30-DK(p),",,,
+31-751,Kraków (Kraków-Nowa Huta),Bulwarowa,"1-37(n), 4-26(p), 30-DK(p),",Kraków,Kraków,małopolskie
 31-965,Kraków (Kraków-,Bulwarowa,2,Kraków,Kraków,małopolskie
 31-907,Kraków (Kraków-,Bulwarowa,28,Kraków,Kraków,małopolskie
 31-978,Kraków (Kraków-,Bulwarowa,39,Kraków,Kraków,małopolskie
@@ -1431,14 +1359,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 31-999,Kraków (Kraków-,Jana Stanisława Bystronia,,Kraków,Kraków,małopolskie
 30-075,Kraków (Kraków-,Bytomska,,Kraków,Kraków,małopolskie
 30-138,Kraków (Kraków-,Edwarda Bzymka-Strzałkowskiego,,Kraków,Kraków,małopolskie
-30-614,Kraków (Kraków-Podgórze),Cechowa,"2-30(p), 3-35g(n), 8-49a,",Kraków,Kraków,małopolskie
-,,,"51-60,",,,
-,,,"54a-76(p),",,,
-,,,73-75(n),,,
-30-685,Kraków (Kraków-Podgórze),Cechowa,"50-50a, 63-67a(n),",Kraków,Kraków,małopolskie
-,,,"71-73b(n),",,,
-,,,"77-79(n),",,,
-,,,"80-134b,",,,
+30-614,Kraków (Kraków-Podgórze),Cechowa,"2-30(p), 3-35g(n), 8-49a, 51-60, 54a-76(p), 73-75(n)",Kraków,Kraków,małopolskie
+30-685,Kraków (Kraków-Podgórze),Cechowa,"50-50a, 63-67a(n), 71-73b(n), 77-79(n), 80-134b,",Kraków,Kraków,małopolskie
 ,,,136-144(p),,,
 30-231,Kraków (Kraków-,Cedrowa,,Kraków,Kraków,małopolskie
 31-612,Kraków (Kraków-,Cedyńska,,Kraków,Kraków,małopolskie
@@ -3173,8 +3095,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 31-626,Kraków (Kraków-,Piasta Kołodzieja,,Kraków,Kraków,małopolskie
 30-211,Kraków (Kraków-,Piastowska,1-16,Kraków,Kraków,małopolskie
 30-065,Kraków (Kraków-Krowodrza),Piastowska,"17-35(n), 18-22(p)",Kraków,Kraków,małopolskie
-30-067,Kraków (Kraków-Krowodrza),Piastowska,"24-26(p), 32-48(p),",Kraków,Kraków,małopolskie
-,,,37-57(n),,,
+30-067,Kraków (Kraków-Krowodrza),Piastowska,"24-26(p), 32-48(p), 37-57(n)",Kraków,Kraków,małopolskie
 30-070,Kraków (Kraków-Krowodrza),Piastowska,"28-30(p), 59-DK(n)",Kraków,Kraków,małopolskie
 30-124,Kraków (Kraków-,Piastowska,50-DK(p),Kraków,Kraków,małopolskie
 31-226,Kraków (Kraków-,Piaszczysta,,Kraków,Kraków,małopolskie
@@ -4251,11 +4172,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 31-398,Kraków (Kraków-,Zaklucze,,Kraków,Kraków,małopolskie
 31-752,Kraków (Kraków-,Zakładowa,,Kraków,Kraków,małopolskie
 31-763,Kraków (Kraków-,Zakole,,Kraków,Kraków,małopolskie
-30-418,Kraków (Kraków-Podgórze),Zakopiańska,"33-147(n), 46-58b(p),",Kraków,Kraków,małopolskie
-,,,64-70a(p),,,
-30-435,Kraków (Kraków-Podgórze),Zakopiańska,"60-62b(p), 72-264(p),",Kraków,Kraków,małopolskie
-,,,"149-DK(n),",,,
-,,,265-277,,,
+30-418,Kraków (Kraków-Podgórze),Zakopiańska,"33-147(n), 46-58b(p), 64-70a(p)",Kraków,Kraków,małopolskie
+30-435,Kraków (Kraków-Podgórze),Zakopiańska,"60-62b(p), 72-264(p), 149-DK(n), 265-277",Kraków,Kraków,małopolskie
 30-245,Kraków (Kraków-,Zakręt,,Kraków,Kraków,małopolskie
 30-376,Kraków (Kraków-,Zakrzowiecka,,Kraków,Kraków,małopolskie
 30-384,Kraków (Kraków-,Zalesie,,Kraków,Kraków,małopolskie
@@ -4609,8 +4527,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 93-621,Łódź (Łódź-Górna),Bronisin,"70-DK(p),",Łódź,Łódź,łódzkie
 92-103,Łódź (Łódź-Widzew),Brzezińska,"1/3-23/25(n), 3-41, 8a-48(p)",Łódź,Łódź,łódzkie
 92-111,Łódź (Łódź-Widzew),Brzezińska,"45-101(n), 50-79, 64-86(p)",Łódź,Łódź,łódzkie
-92-118,Łódź (Łódź-Widzew),Brzezińska,"88-154(p), 103-131(n),",Łódź,Łódź,łódzkie
-,,,124-125,,,
+92-118,Łódź (Łódź-Widzew),Brzezińska,"88-154(p), 103-131(n), 124-125",Łódź,Łódź,łódzkie
 92-703,Łódź (Łódź-Widzew),Brzezińska,"133-243(n), 156-282(p)",Łódź,Łódź,łódzkie
 92-776,Łódź (Łódź-Widzew),Brzezińska,"245-DK(n), 284-DK(p)",Łódź,Łódź,łódzkie
 90-303,Łódź (Łódź-,Brzeźna,,Łódź,Łódź,łódzkie
@@ -5245,10 +5162,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 90-450,Łódź (Łódź-,kpt. pilota Żwirki,2-20(p),Łódź,Łódź,łódzkie
 90-451,Łódź (Łódź-,kpt. pilota Żwirki,10b,Łódź,Łódź,łódzkie
 90-539,Łódź (Łódź-Polesie),kpt. pilota Żwirki,"17-DK(n),",Łódź,Łódź,łódzkie
-38-322,Łużna,,"2-656, 137-667(n),",Łużna,gorlicki,małopolskie
-,,,"576-1340(p),",,,
-,,,"673-1339(n),",,,
-,,,675-1326,,,
+38-322,Łużna,,"2-656, 137-667(n), 576-1340(p), 673-1339(n), 675-1326",Łużna,gorlicki,małopolskie
 96-516,Mikołajew,,"1-15, 16-20a(p), 17-23(n), 24, 43",Teresin,sochaczewski,mazowieckie
 43-190,Mikołów (Reta Śmiłowicka),Brzozowa,,Mikołów,mikołowski,śląskie
 43-190,Mikołów (Reta,Mieczysława Dzieńdziela,,Mikołów,mikołowski,śląskie
@@ -5392,8 +5306,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-101,Nowy Dwór,Sosnowa,,Nowy Dwór Mazowiecki,nowodworski,mazowieckie
 05-100,Nowy Dwór,Spacerowa,,Nowy Dwór Mazowiecki,nowodworski,mazowieckie
 05-100,Nowy Dwór,Spokojna,"1-8, 28",Nowy Dwór Mazowiecki,nowodworski,mazowieckie
-05-101,Nowy Dwór Mazowiecki,Spokojna,"11-47(n), 12-24(p),",Nowy Dwór Mazowiecki,nowodworski,mazowieckie
-,,,32-44(p),,,
+05-101,Nowy Dwór Mazowiecki,Spokojna,"11-47(n), 12-24(p), 32-44(p)",Nowy Dwór Mazowiecki,nowodworski,mazowieckie
 05-102,Nowy Dwór,Sporna,,Nowy Dwór Mazowiecki,nowodworski,mazowieckie
 05-100,Nowy Dwór,Sportowa,,Nowy Dwór Mazowiecki,nowodworski,mazowieckie
 05-102,Nowy Dwór,Stanisława Staszica,,Nowy Dwór Mazowiecki,nowodworski,mazowieckie
@@ -5434,13 +5347,9 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 48-304,Nysa,Marszałka Józefa Piłsudskiego,"7-23(n), 24-30, 32",Nysa,nyski,opolskie
 10-291,Olsztyn,Aleja Wojska Polskiego,"11a, 57, 68-72(p)",Olsztyn,Olsztyn,warmińsko-mazurskie
 10-230,Olsztyn,Aleja Wojska Polskiego,"49-55(n), 61-89(n)",Olsztyn,Olsztyn,warmińsko-mazurskie
-10-696,Olsztyn,Bajkowa,"1-17(n), 6-32(p),",Olsztyn,Olsztyn,warmińsko-mazurskie
-,,,33-109(n),,,
-11-041,Olsztyn,Bałtycka,"90-180(p), 100-115,",Olsztyn,Olsztyn,warmińsko-mazurskie
-,,,121-157a(n),,,
-10-696,Olsztyn,Bolka i Lolka,"1a-8, 20a-22b(p),",Olsztyn,Olsztyn,warmińsko-mazurskie
-,,,"33-57(n),",,,
-,,,40-70(p),,,
+10-696,Olsztyn,Bajkowa,"1-17(n), 6-32(p), 33-109(n)",Olsztyn,Olsztyn,warmińsko-mazurskie
+11-041,Olsztyn,Bałtycka,"90-180(p), 100-115, 121-157a(n)",Olsztyn,Olsztyn,warmińsko-mazurskie
+10-696,Olsztyn,Bolka i Lolka,"1a-8, 20a-22b(p), 33-57(n), 40-70(p)",Olsztyn,Olsztyn,warmińsko-mazurskie
 10-686,Olsztyn,Bolka i Lolka,"9-29(n), 12-18(p),",Olsztyn,Olsztyn,warmińsko-mazurskie
 10-687,Olsztyn,Bratkowa,"4-8(p), 7-7c, 18-48(p)",Olsztyn,Olsztyn,warmińsko-mazurskie
 10-437,Olsztyn,Dworcowa,"9, 22-70(p), 23-83(n), 28-29",Olsztyn,Olsztyn,warmińsko-mazurskie
@@ -5474,8 +5383,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 45-512,Opole,Jerzego i Ryszarda Kowalczyków,"66-72(p), 81",Opole,Opole,opolskie
 45-760,Opole,Krapkowicka,"12-18c(p), 15-83(n)",Opole,Opole,opolskie
 45-950,Opole,Krapkowicka,"62-68(p), 91-113(n)",Opole,Opole,opolskie
-45-215,Opole,Luboszycka,"10-17, 18-36a(p),",Opole,Opole,opolskie
-,,,19-23(n),,,
+45-215,Opole,Luboszycka,"10-17, 18-36a(p), 19-23(n)",Opole,Opole,opolskie
 45-069,Opole,1 Maja,"8-12e(p), 49-71a(n)",Opole,Opole,opolskie
 45-355,Opole,1 Maja,"18-30a(p), 75-107(n)",Opole,Opole,opolskie
 45-356,Opole,1 Maja,"32-50(p), 111-149b(n)",Opole,Opole,opolskie
@@ -5488,8 +5396,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 45-370,Opole,Ozimska,"62-68(p), 75-95(n)",Opole,Opole,opolskie
 45-310,Opole,Ozimska,"70-176(p), 182-206(p)",Opole,Opole,opolskie
 45-309,Opole,Ozimska,"151-213(n), 180-180e",Opole,Opole,opolskie
-45-601,Opole,Księdza Jerzego Popiełuszki,"3-61(n), 4-14(p), 18-21a,",Opole,Opole,opolskie
-,,,"26-130(p), 45-50",,,
+45-601,Opole,Księdza Jerzego Popiełuszki,"3-61(n), 4-14(p), 18-21a, 26-130(p), 45-50",Opole,Opole,opolskie
 45-758,Opole,Prószkowska,"2-118(p), 11-68, 39-145(n)",Opole,Opole,opolskie
 45-950,Opole,Prószkowska,"174-228(p), 221-269(n)",Opole,Opole,opolskie
 45-072,Opole,Władysława Reymonta,"23-55(n),",Opole,Opole,opolskie
@@ -5501,10 +5408,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 45-449,Opole,Wschodnia,"2-32(p), 17-29g(n)",Opole,Opole,opolskie
 43-187,Orzesze,Mikołowska,"2-47, 48-92(p), 49-99(n), 103-DK",Orzesze,mikołowski,śląskie
 43-187,Orzesze,Pszczyńska,"1-15(n), 12-14(p), 16-DK",Orzesze,mikołowski,śląskie
-34-234,Osielec,,"1-116, 22-24(p), 99-101b(n),",Jordanów,suski,małopolskie
-,,,"118-122a,",,,
-,,,"124-901,",,,
-,,,"129-973(n),",,,
+34-234,Osielec,,"1-116, 22-24(p), 99-101b(n), 118-122a, 124-901, 129-973(n),",Jordanów,suski,małopolskie
 ,,,132-898(p),,,
 07-409,Ostrołęka,Łęczysk,"57-111(n), 66-112(p)",Ostrołęka,Ostrołęka,mazowieckie
 07-409,Ostrołęka,Henryka Sienkiewicza,"15-55(n), 34-64(p)",Ostrołęka,Ostrołęka,mazowieckie
@@ -5512,25 +5416,17 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 07-310,Ostrów Mazowiecka,gen. Władysława Sikorskiego,"47-153(n), 80-172(p)",Ostrów Mazowiecka,ostrowski,mazowieckie
 07-310,Ostrów Mazowiecka,Spokojna,,Ostrów Mazowiecka,ostrowski,mazowieckie
 07-310,Ostrów Mazowiecka,Stacyjna,"34-58(p), 63-79(n)",Ostrów Mazowiecka,ostrowski,mazowieckie
-05-402,Otwock,Majowa,"7-33(n), 56-104a(p),",Otwock,otwocki,mazowieckie
-,,,79-157(n),,,
+05-402,Otwock,Majowa,"7-33(n), 56-104a(p), 79-157(n)",Otwock,otwocki,mazowieckie
 05-400,Otwock,Majowa,"112-302(p), 157a, 175-379(n)",Otwock,otwocki,mazowieckie
 05-402,Otwock,Władysława Stanisława,1b-5b,Otwock,otwocki,mazowieckie
 05-400,Otwock,Władysława Stanisława Reymonta,"7-97(n), 15-16b, 22-122a(p)",Otwock,otwocki,mazowieckie
 05-400,Otwock,Juliusza Słowackiego,"2-22(p), 33a-49a(n)",Otwock,otwocki,mazowieckie
-05-402,Otwock,Sołecka,"33a-33c, 37-43(n),",Otwock,otwocki,mazowieckie
-,,,40-52(p),,,
+05-402,Otwock,Sołecka,"33a-33c, 37-43(n), 40-52(p)",Otwock,otwocki,mazowieckie
 05-400,Otwock,Żurawia,"1, 51-111(n),",Otwock,otwocki,mazowieckie
-39-207,Paszczyna,,"1-241, 295-298a,",Dębica,dębicki,podkarpackie
-,,,"302-306b(p),",,,
-,,,"309-310,",,,
-,,,"312-314a(p),",,,
+39-207,Paszczyna,,"1-241, 295-298a, 302-306b(p), 309-310, 312-314a(p),",Dębica,dębicki,podkarpackie
 ,,,"318-320,",,,
 ,,,325-326,,,
-39-206,Paszczyna,,"242-292, 296, 299-301,",Dębica,dębicki,podkarpackie
-,,,"305-305b,",,,
-,,,"307-308,",,,
-,,,"311-313(n),",,,
+39-206,Paszczyna,,"242-292, 296, 299-301, 305-305b, 307-308, 311-313(n),",Dębica,dębicki,podkarpackie
 ,,,"315-317a,",,,
 ,,,321-324,,,
 05-500,Piaseczno,Aleja Kalin,"24-40(p),",Piaseczno,piaseczyński,mazowieckie
@@ -5541,9 +5437,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-940,Piekary Śląskie,Prymasa Stefana Wyszyńskiego,"2-68(p), 5-59(n), 79a, 85",Piekary Śląskie,Piekary Śląskie,śląskie
 41-943,Piekary Śląskie,Gen. Jerzego Ziętka,"23-29(n), 68-74(p)",Piekary Śląskie,Piekary Śląskie,śląskie
 09-400,Płock,al. Al. Stanisława Jachowicza,"38-44a(p),",Płock,Płock,mazowieckie
-09-400,Płock,Bielska,"1-43(n), 10-16(p),",Płock,Płock,mazowieckie
-,,,"22-42a(p),",,,
-,,,"45-67, 80",,,
+09-400,Płock,Bielska,"1-43(n), 10-16(p), 22-42a(p), 45-67, 80",Płock,Płock,mazowieckie
 09-402,Płock,Bielska,"42-42c, 68-70(p), 105",Płock,Płock,mazowieckie
 09-402,Płock,Fryderyka Chopina,"1-49(n), 2-62(p), 53-55(n)",Płock,Płock,mazowieckie
 09-402,Płock,Graniczna,"52-70a(p), 57-85(n)",Płock,Płock,mazowieckie
@@ -5557,15 +5451,11 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 09-400,Płock,Targowa,"1-7(n), 12a-18a(p)",Płock,Płock,mazowieckie
 09-410,Płock,Targowa,"18-20b(p), 25-34e",Płock,Płock,mazowieckie
 09-400,Płock,Tysiąclecia,"1-2, 5-15(n),",Płock,Płock,mazowieckie
-09-402,Płock,Wyszogrodzka,"1-57a(n), 2-106(p),",Płock,Płock,mazowieckie
-,,,65-95(n),,,
+09-402,Płock,Wyszogrodzka,"1-57a(n), 2-106(p), 65-95(n)",Płock,Płock,mazowieckie
 09-407,Płock,Wyszogrodzka,"61b-63(n), 69, 103",Płock,Płock,mazowieckie
-09-410,Płock,Wyszogrodzka,"117-118, 123-163(n),",Płock,Płock,mazowieckie
-,,,128-166a(p),,,
+09-410,Płock,Wyszogrodzka,"117-118, 123-163(n), 128-166a(p)",Płock,Płock,mazowieckie
 09-472,Płock,Wyszogrodzka,"267-269a, 276-280(p)",Płock,Płock,mazowieckie
-33-318,Podole-Górowa,,"1-64, 6-192(p), 15-47(n),",Gródek nad Dunajcem,nowosądecki,małopolskie
-,,,"66-164,",,,
-,,,77-189(n),,,
+33-318,Podole-Górowa,,"1-64, 6-192(p), 15-47(n), 66-164, 77-189(n)",Gródek nad Dunajcem,nowosądecki,małopolskie
 61-131,Poznań (Poznań-Nowe Miasto),Abp. Antoniego Baraniaka,"4-88e(p), 73-77(n)",Poznań,Poznań,wielkopolskie
 61-245,Poznań (Poznań-Nowe Miasto),Abp. Antoniego Baraniaka,92-158(p),Poznań,Poznań,wielkopolskie
 61-245,Poznań (Poznań-,Abp. Walentego Dymka,"186-222c(p), 199 Poznań",,Poznań,wielkopolskie
@@ -5627,8 +5517,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-407,Poznań (Poznań-,Balonowa,,Poznań,Poznań,wielkopolskie
 60-461,Poznań (Poznań-,Honoriusza Balzaka,,Poznań,Poznań,wielkopolskie
 61-013,Poznań (Poznań-Nowe Miasto),Bałtycka,"1-15(n), 3-7, 12-22(p), 37",Poznań,Poznań,wielkopolskie
-61-017,Poznań (Poznań-Nowe Miasto),Bałtycka,"24-42(p), 27-33a(n),",Poznań,Poznań,wielkopolskie
-,,,"43-51(n), 46-48",,,
+61-017,Poznań (Poznań-Nowe Miasto),Bałtycka,"24-42(p), 27-33a(n), 43-51(n), 46-48",Poznań,Poznań,wielkopolskie
 61-055,Poznań (Poznań-,Bałtycka,61-79(n),Poznań,Poznań,wielkopolskie
 61-019,Poznań (Poznań-,Bałtycka,82,Poznań,Poznań,wielkopolskie
 60-461,Poznań (Poznań-,Michała Bałuckiego,,Poznań,Poznań,wielkopolskie
@@ -5687,8 +5576,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-416,Poznań (Poznań-,Bieszczady,,Poznań,Poznań,wielkopolskie
 60-177,Poznań (Poznań-,Oleńki Billewiczówny,,Poznań,Poznań,wielkopolskie
 60-416,Poznań (Poznań-,Biskupińska,1-11,Poznań,Poznań,wielkopolskie
-60-463,Poznań (Poznań-Jeżyce),Biskupińska,"19-129(n), 27-67,",Poznań,Poznań,wielkopolskie
-,,,126-150(p),,,
+60-463,Poznań (Poznań-Jeżyce),Biskupińska,"19-129(n), 27-67, 126-150(p)",Poznań,Poznań,wielkopolskie
 60-480,Poznań (Poznań-,Biwakowa,,Poznań,Poznań,wielkopolskie
 61-006,Poznań (Poznań-,Blacharska,,Poznań,Poznań,wielkopolskie
 61-244,Poznań (Poznań-,Bliźniąt,,Poznań,Poznań,wielkopolskie
@@ -5936,8 +5824,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-507,Poznań (Poznań-,28 Czerwca 1956 r.,152-176(p),Poznań,Poznań,wielkopolskie
 61-505,Poznań (Poznań-,28 Czerwca 1956 r.,153-163(n),Poznań,Poznań,wielkopolskie
 61-515,Poznań (Poznań-,28 Czerwca 1956 r.,165-175(n),Poznań,Poznań,wielkopolskie
-61-485,Poznań (Poznań-Wilda),28 Czerwca 1956 r.,"177-261(n), 187-223/229,",Poznań,Poznań,wielkopolskie
-,,,194/196-260(p),,,
+61-485,Poznań (Poznań-Wilda),28 Czerwca 1956 r.,"177-261(n), 187-223/229, 194/196-260(p)",Poznań,Poznań,wielkopolskie
 61-481,Poznań (Poznań-,28 Czerwca 1956 r.,262-285,Poznań,Poznań,wielkopolskie
 61-469,Poznań (Poznań-Wilda),28 Czerwca 1956 r.,"290-320(p), 291-325(n)",Poznań,Poznań,wielkopolskie
 61-437,Poznań (Poznań-,28 Czerwca 1956 r.,"328-350(p), 333",Poznań,Poznań,wielkopolskie
@@ -5985,14 +5872,11 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-543,Poznań (Poznań-,Jana Henryka Dąbrowskiego,129/131-139(n),Poznań,Poznań,wielkopolskie
 60-577,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"132-140(p), 141-145(n)",Poznań,Poznań,wielkopolskie
 60-588,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"144-146a(p), 147-153(n)",Poznań,Poznań,wielkopolskie
-60-594,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"152-202(p), 155-201a(n),",Poznań,Poznań,wielkopolskie
-,,,173-175,,,
-60-406,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"203-315(n), 251-334a,",Poznań,Poznań,wielkopolskie
-,,,308-338(p),,,
+60-594,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"152-202(p), 155-201a(n), 173-175",Poznań,Poznań,wielkopolskie
+60-406,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"203-315(n), 251-334a, 308-338(p)",Poznań,Poznań,wielkopolskie
 60-419,Poznań (Poznań-,Jana Henryka Dąbrowskiego,339-357a(n),Poznań,Poznań,wielkopolskie
 60-425,Poznań (Poznań-,Jana Henryka Dąbrowskiego,381a-399(n),Poznań,Poznań,wielkopolskie
-60-451,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"441-553(n), 458-572(p),",Poznań,Poznań,wielkopolskie
-,,,536-544,,,
+60-451,Poznań (Poznań-Jeżyce),Jana Henryka Dąbrowskiego,"441-553(n), 458-572(p), 536-544",Poznań,Poznań,wielkopolskie
 61-501,Poznań (Poznań-,Dąbrówki,,Poznań,Poznań,wielkopolskie
 60-407,Poznań (Poznań-,Dedala,,Poznań,Poznań,wielkopolskie
 61-606,Poznań (Poznań-,Pl. Wiktora Degi,,Poznań,Poznań,wielkopolskie
@@ -6133,8 +6017,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-866,Poznań (Poznań-,Garbary,1-17(n),Poznań,Poznań,wielkopolskie
 61-867,Poznań (Poznań-,Garbary,2-24a(p),Poznań,Poznań,wielkopolskie
 61-868,Poznań (Poznań-Stare Miasto),Garbary,"26-36(p), 27-39(n), 48",Poznań,Poznań,wielkopolskie
-61-869,Poznań (Poznań-Stare Miasto),Garbary,"38-46(p), 41-55(n),",Poznań,Poznań,wielkopolskie
-,,,50-52(p),,,
+61-869,Poznań (Poznań-Stare Miasto),Garbary,"38-46(p), 41-55(n), 50-52(p)",Poznań,Poznań,wielkopolskie
 61-758,Poznań (Poznań-Stare Miasto),Garbary,"54-82(p), 57-73(n)",Poznań,Poznań,wielkopolskie
 61-757,Poznań (Poznań-Stare Miasto),Garbary,"95-111(n), 96-120(p)",Poznań,Poznań,wielkopolskie
 61-527,Poznań (Poznań-,Józefa Garczyńskiego,,Poznań,Poznań,wielkopolskie
@@ -6184,16 +6067,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-121,Poznań (Poznań-,Głogowska,177-197b(n),Poznań,Poznań,wielkopolskie
 60-111,Poznań (Poznań-,Głogowska,199-259(n),Poznań,Poznań,wielkopolskie
 60-104,Poznań (Poznań-Grunwald),Głogowska,"216-260(p), 261-279(n)",Poznań,Poznań,wielkopolskie
-60-004,Poznań (Poznań-Grunwald),Głogowska,"322-448(p), 333-429(n),",Poznań,Poznań,wielkopolskie
-,,,431-432,,,
+60-004,Poznań (Poznań-Grunwald),Głogowska,"322-448(p), 333-429(n), 431-432",Poznań,Poznań,wielkopolskie
 60-183,Poznań (Poznań-,Głowicka,,Poznań,Poznań,wielkopolskie
 61-005,Poznań (Poznań-,Główna,"3-25(n), 6-14(p)",Poznań,Poznań,wielkopolskie
 61-007,Poznań (Poznań-Nowe Miasto),Główna,"28-58(p), 31-51(n)",Poznań,Poznań,wielkopolskie
 61-019,Poznań (Poznań-Nowe Miasto),Główna,"53-67(n), 60-74(p)",Poznań,Poznań,wielkopolskie
 60-101,Poznań (Poznań-,Głuchowska,,Poznań,Poznań,wielkopolskie
 61-332,Poznań (Poznań-,Głuszyna,"1-61(n), 2-34(p)",Poznań,Poznań,wielkopolskie
-61-329,Poznań (Poznań-Nowe Miasto),Głuszyna,"38-232b(p), 63-275(n),",Poznań,Poznań,wielkopolskie
-,,,176a-178a,,,
+61-329,Poznań (Poznań-Nowe Miasto),Głuszyna,"38-232b(p), 63-275(n), 176a-178a",Poznań,Poznań,wielkopolskie
 61-313,Poznań (Poznań-,Gminna,,Poznań,Poznań,wielkopolskie
 61-063,Poznań (Poznań-,Gniewka,,Poznań,Poznań,wielkopolskie
 60-454,Poznań (Poznań-,Gniewska,,Poznań,Poznań,wielkopolskie
@@ -6653,8 +6534,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-891,Poznań (Poznań-,Tadeusza Kościuszki,57-69,Poznań,Poznań,wielkopolskie
 61-892,Poznań (Poznań-,Tadeusza Kościuszki,70-76,Poznań,Poznań,wielkopolskie
 61-715,Poznań (Poznań-,Tadeusza Kościuszki,"79-80, 82-86(p)",Poznań,Poznań,wielkopolskie
-61-716,Poznań (Poznań-Stare Miasto),Tadeusza Kościuszki,"92/98-93, 95-99(n),",Poznań,Poznań,wielkopolskie
-,,,104-112a(p),,,
+61-716,Poznań (Poznań-Stare Miasto),Tadeusza Kościuszki,"92/98-93, 95-99(n), 104-112a(p)",Poznań,Poznań,wielkopolskie
 61-717,Poznań (Poznań-Stare Miasto),Tadeusza Kościuszki,"101a-109(n), 114-132(p)",Poznań,Poznań,wielkopolskie
 61-415,Poznań (Poznań-,Tadeusza Kotarbińskiego,,Poznań,Poznań,wielkopolskie
 61-006,Poznań (Poznań-,Kotlarska,,Poznań,Poznań,wielkopolskie
@@ -7004,8 +6884,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-119,Poznań (Poznań-,św. Michała,33-43(n),Poznań,Poznań,wielkopolskie
 61-005,Poznań (Poznań-Nowe Miasto),św. Michała,"52-100(p), 65-77(n)",Poznań,Poznań,wielkopolskie
 61-314,Poznań (Poznań-Nowe Miasto),Michałowo,"1-69, 13-31b(n), 16-46(p)",Poznań,Poznań,wielkopolskie
-61-304,Poznań (Poznań-Nowe Miasto),Michałowo,"71-213(n), 82e-156a(p),",Poznań,Poznań,wielkopolskie
-,,,147-148,,,
+61-304,Poznań (Poznań-Nowe Miasto),Michałowo,"71-213(n), 82e-156a(p), 147-148",Poznań,Poznań,wielkopolskie
 60-645,Poznań (Poznań-,Michałowska,,Poznań,Poznań,wielkopolskie
 60-833,Poznań (Poznań-,Adama Mickiewicza,1-19(n),Poznań,Poznań,wielkopolskie
 60-834,Poznań (Poznań-,Adama Mickiewicza,2-20(p),Poznań,Poznań,wielkopolskie
@@ -7188,10 +7067,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-249,Poznań (Poznań-,Obodrzycka,,Poznań,Poznań,wielkopolskie
 60-650,Poznań (Poznań-Jeżyce),Obornicka,"223-239(n), 242-248(p)",Poznań,Poznań,wielkopolskie
 60-693,Poznań (Poznań-Stare Miasto),Obornicka,"245-263(n), 250-288(p)",Poznań,Poznań,wielkopolskie
-60-691,Poznań (Poznań-Stare Miasto),Obornicka,"269-299a(n), 290-322(p),",Poznań,Poznań,wielkopolskie
-,,,"294-295a, 332",,,
-60-689,Poznań (Poznań-Stare Miasto),Obornicka,"303-341(n), 324-330(p),",Poznań,Poznań,wielkopolskie
-,,,334-360(p),,,
+60-691,Poznań (Poznań-Stare Miasto),Obornicka,"269-299a(n), 290-322(p), 294-295a, 332",Poznań,Poznań,wielkopolskie
+60-689,Poznań (Poznań-Stare Miasto),Obornicka,"303-341(n), 324-330(p), 334-360(p)",Poznań,Poznań,wielkopolskie
 60-289,Poznań (Poznań-,Obozowa,,Poznań,Poznań,wielkopolskie
 60-288,Poznań (Poznań-,Obronna,,Poznań,Poznań,wielkopolskie
 61-695,Poznań (Poznań-,Obrońców Tobruku,,Poznań,Poznań,wielkopolskie
@@ -7265,10 +7142,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-128,Poznań (Poznań-,Ostrobramska,12-14(p),Poznań,Poznań,wielkopolskie
 60-461,Poznań (Poznań-,Ostrołęcka,,Poznań,Poznań,wielkopolskie
 60-349,Poznań (Poznań-,Jana Ostroroga,,Poznań,Poznań,wielkopolskie
-61-312,Poznań (Poznań-Nowe Miasto),Ostrowska,"300-438(p), 331-423/425(n),",Poznań,Poznań,wielkopolskie
-,,,374-412,,,
-61-324,Poznań (Poznań-Nowe Miasto),Ostrowska,"440-582(p), 452-543a,",Poznań,Poznań,wielkopolskie
-,,,463-579(n),,,
+61-312,Poznań (Poznań-Nowe Miasto),Ostrowska,"300-438(p), 331-423/425(n), 374-412",Poznań,Poznań,wielkopolskie
+61-324,Poznań (Poznań-Nowe Miasto),Ostrowska,"440-582(p), 452-543a, 463-579(n)",Poznań,Poznań,wielkopolskie
 60-461,Poznań (Poznań-,Ostródzka,,Poznań,Poznań,wielkopolskie
 61-109,Poznań (Poznań-,Ostrów Tumski,,Poznań,Poznań,wielkopolskie
 61-121,Poznań (Poznań-,Ostrówek,1-DK(n),Poznań,Poznań,wielkopolskie
@@ -7337,8 +7212,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-615,Poznań (Poznań-,Perkuna,,Poznań,Poznań,wielkopolskie
 61-680,Poznań (Poznań-,Perłowa,,Poznań,Poznań,wielkopolskie
 60-182,Poznań (Poznań-,Perłowska,,Poznań,Poznań,wielkopolskie
-60-182,Poznań (Poznań-Grunwald),Perzycka,"1-43(n), 2-124e(p),",Poznań,Poznań,wielkopolskie
-,,,49-93(n),,,
+60-182,Poznań (Poznań-Grunwald),Perzycka,"1-43(n), 2-124e(p), 49-93(n)",Poznań,Poznań,wielkopolskie
 60-184,Poznań (Poznań-,Perzycka,47,Poznań,Poznań,wielkopolskie
 60-175,Poznań (Poznań-,Petuniowa,,Poznań,Poznań,wielkopolskie
 60-113,Poznań (Poznań-,Piargowa,,Poznań,Poznań,wielkopolskie
@@ -7649,8 +7523,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-791,Poznań (Poznań-,Władysława Reymonta,,Poznań,Poznań,wielkopolskie
 60-184,Poznań (Poznań-,Rezedowa,,Poznań,Poznań,wielkopolskie
 60-465,Poznań (Poznań-,Józefa Rivolego,,Poznań,Poznań,wielkopolskie
-61-517,Poznań (Poznań-Wilda),Robocza,"3, 9-21b(n), 35-39(n),",Poznań,Poznań,wielkopolskie
-,,,"40-46(p), 42-43",,,
+61-517,Poznań (Poznań-Wilda),Robocza,"3, 9-21b(n), 35-39(n), 40-46(p), 42-43",Poznań,Poznań,wielkopolskie
 61-538,Poznań (Poznań-,Robocza,"4-5, 33",Poznań,Poznań,wielkopolskie
 61-142,Poznań (Poznań-,św. Rocha,,Poznań,Poznań,wielkopolskie
 61-312,Poznań (Poznań-,Rodawska,,Poznań,Poznań,wielkopolskie
@@ -7885,8 +7758,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-553,Poznań (Poznań-Wilda),Jana Spychalskiego,"28-34a(p), 35-37(n), 38-41",Poznań,Poznań,wielkopolskie
 60-178,Poznań (Poznań-,Srebrna,,Poznań,Poznań,wielkopolskie
 60-224,Poznań (Poznań-,Floriana Stablewskiego,3-9a(n),Poznań,Poznań,wielkopolskie
-60-213,Poznań (Poznań-Grunwald),Floriana Stablewskiego,"6-46(p), 13-27(n),",Poznań,Poznań,wielkopolskie
-,,,35-47(n),,,
+60-213,Poznań (Poznań-Grunwald),Floriana Stablewskiego,"6-46(p), 13-27(n), 35-47(n)",Poznań,Poznań,wielkopolskie
 60-223,Poznań (Poznań-,Floriana Stablewskiego,31-33(n),Poznań,Poznań,wielkopolskie
 60-461,Poznań (Poznań-,al. Edwarda Stachury,,Poznań,Poznań,wielkopolskie
 60-194,Poznań (Poznań-,Leopolda Staffa,,Poznań,Poznań,wielkopolskie
@@ -7897,8 +7769,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-058,Poznań (Poznań-,Starkowska,,Poznań,Poznań,wielkopolskie
 60-446,Poznań (Poznań-,Starogardzka,,Poznań,Poznań,wielkopolskie
 61-361,Poznań (Poznań-,Starołęcka,1-66,Poznań,Poznań,wielkopolskie
-61-341,Poznań (Poznań-Nowe Miasto),Starołęcka,"68-110f(p), 73-149(n),",Poznań,Poznań,wielkopolskie
-,,,89a-DK,,,
+61-341,Poznań (Poznań-Nowe Miasto),Starołęcka,"68-110f(p), 73-149(n), 89a-DK",Poznań,Poznań,wielkopolskie
 61-335,Poznań (Poznań-,Starosądecka,,Poznań,Poznań,wielkopolskie
 61-664,Poznań (Poznań-,Starowiejska,,Poznań,Poznań,wielkopolskie
 60-408,Poznań (Poznań-,Startowa,,Poznań,Poznań,wielkopolskie
@@ -7943,8 +7814,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 61-846,Poznań (Poznań-Stare Miasto),Strzelecka,"17-49(n), 18-52(p)",Poznań,Poznań,wielkopolskie
 61-332,Poznań (Poznań-,Pawła Strzeleckiego,,Poznań,Poznań,wielkopolskie
 60-169,Poznań (Poznań-,Strzelińska,,Poznań,Poznań,wielkopolskie
-60-479,Poznań (Poznań-Jeżyce),Strzeszyńska,"23-34, 36-298(p),",Poznań,Poznań,wielkopolskie
-,,,61-293(n),,,
+60-479,Poznań (Poznań-Jeżyce),Strzeszyńska,"23-34, 36-298(p), 61-293(n)",Poznań,Poznań,wielkopolskie
 60-474,Poznań (Poznań-,Strzeszyńska,35/37,Poznań,Poznań,wielkopolskie
 61-323,Poznań (Poznań-,Strzyżowska,,Poznań,Poznań,wielkopolskie
 61-021,Poznań (Poznań-,Aleksandra Studniarskiego,,Poznań,Poznań,wielkopolskie
@@ -8052,8 +7922,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 60-128,Poznań (Poznań-Grunwald),Piotra Ściegiennego,"4-58(p), 15-27(n), 22-34a",Poznań,Poznań,wielkopolskie
 60-136,Poznań (Poznań-,Piotra Ściegiennego,35-67(n),Poznań,Poznań,wielkopolskie
 60-139,Poznań (Poznań-,Piotra Ściegiennego,"64, 68a-72",Poznań,Poznań,wielkopolskie
-60-147,Poznań (Poznań-Grunwald),Piotra Ściegiennego,"74-114(p), 82-105,",Poznań,Poznań,wielkopolskie
-,,,97-109(n),,,
+60-147,Poznań (Poznań-Grunwald),Piotra Ściegiennego,"74-114(p), 82-105, 97-109(n)",Poznań,Poznań,wielkopolskie
 60-304,Poznań (Poznań-Grunwald),Piotra Ściegiennego,"111-139b(n), 118-134(p)",Poznań,Poznań,wielkopolskie
 60-178,Poznań (Poznań-,Ścinawska,,Poznań,Poznań,wielkopolskie
 61-602,Poznań (Poznań-,Ślazowa,,Poznań,Poznań,wielkopolskie
@@ -8567,18 +8436,12 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-804,Pruszków,Jasna,"4a-10(p), 13-17(n)",Pruszków,pruszkowski,mazowieckie
 05-800,Pruszków,Kosynierów,"1-2, 3-7(n), 6-8(p)",Pruszków,pruszkowski,mazowieckie
 05-803,Pruszków,Kosynierów,"12-22(p), 13-25(n)",Pruszków,pruszkowski,mazowieckie
-05-803,Pruszków,Józefa Ignacego Kraszewskiego,"1-43(n), 2-18(p), 21-23,",Pruszków,pruszkowski,mazowieckie
-,,,26-48(p),,,
+05-803,Pruszków,Józefa Ignacego Kraszewskiego,"1-43(n), 2-18(p), 21-23, 26-48(p)",Pruszków,pruszkowski,mazowieckie
 05-802,Pruszków,Okopowa,"1-3a(n), 7-9b,",Pruszków,pruszkowski,mazowieckie
-05-800,Pruszków,Bolesława Prusa,"3-13(n), 10-62(p),",Pruszków,pruszkowski,mazowieckie
-,,,"39-59(n),",,,
-,,,"65-127(n),",,,
-,,,"71-78,",,,
+05-800,Pruszków,Bolesława Prusa,"3-13(n), 10-62(p), 39-59(n), 65-127(n), 71-78,",Pruszków,pruszkowski,mazowieckie
 ,,,82-116a(p),,,
 05-803,Pruszków,Bolesława Prusa,"19-35(n), 39-39a, 64-68(p)",Pruszków,pruszkowski,mazowieckie
-05-800,Pruszków,Przejazdowa,"9-17(n), 20-22(p),",Pruszków,pruszkowski,mazowieckie
-,,,"21-22b, 24-25,",,,
-,,,27a,,,
+05-800,Pruszków,Przejazdowa,"9-17(n), 20-22(p), 21-22b, 24-25, 27a",Pruszków,pruszkowski,mazowieckie
 05-804,Pruszków,Przejazdowa,"22a-24(p), 25-35(n)",Pruszków,pruszkowski,mazowieckie
 26-601,Radom,Aleja Róż,"11-DK(n),",Radom,Radom,mazowieckie
 26-604,Radom,Stefana Banacha,"93-129(n), 126-166(p)",Radom,Radom,mazowieckie
@@ -8586,9 +8449,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-605,Radom,Bolesława Chrobrego,"27-45(n),",Radom,Radom,mazowieckie
 26-604,Radom,Wiktora Cymerysa-Kwiatkowskiego,"3-91d(n), 4-74(p) Radom",,Radom,mazowieckie
 26-611,Radom,Wiktora Cymerysa-Kwiatkowskiego,"76-DK(p), 93-DK(n)",Radom,Radom,mazowieckie
-26-610,Radom,Stefana Czarnieckiego,"1-23a(n), 4-12(p),",Radom,Radom,mazowieckie
-,,,"54-108(p),",,,
-,,,55-103(n),,,
+26-610,Radom,Stefana Czarnieckiego,"1-23a(n), 4-12(p), 54-108(p), 55-103(n)",Radom,Radom,mazowieckie
 26-601,Radom,Stefana Czarnieckiego,"25-43a(n), 36-50(p)",Radom,Radom,mazowieckie
 26-610,Radom,Dębowa,"4-26a(p), 7-17a(n)",Radom,Radom,mazowieckie
 26-604,Radom,Długojowska,"1-27a(n), 2-32a(p)",Radom,Radom,mazowieckie
@@ -8598,8 +8459,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-610,Radom,Główna,"4-16(p), 11-DK(n), 60",Radom,Radom,mazowieckie
 26-615,Radom,Gołębiowska,"1-13, 15-129(n), 18-132(p)",Radom,Radom,mazowieckie
 26-605,Radom,gen. Józefa Hallera,"1-21a(n), 2-38(p), 5-6",Radom,Radom,mazowieckie
-26-601,Radom,Kielecka,"5-33/35(n), 80-174(p),",Radom,Radom,mazowieckie
-,,,81-195a(n),,,
+26-601,Radom,Kielecka,"5-33/35(n), 80-174(p), 81-195a(n)",Radom,Radom,mazowieckie
 26-604,Radom,Komunalna,"1-29a(n), 2-36a(p)",Radom,Radom,mazowieckie
 26-603,Radom,Komunalna,"35-179(n), 42-92(p)",Radom,Radom,mazowieckie
 26-604,Radom,Marii Konopnickiej,"30-54(p), 31-51(n)",Radom,Radom,mazowieckie
@@ -8607,8 +8467,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-615,Radom,Janusza Kusocińskiego,"25-53(n), 30-32, 40-54(p)",Radom,Radom,mazowieckie
 26-603,Radom,Lechicka,"31-45(n), 32-50(p)",Radom,Radom,mazowieckie
 26-610,Radom,Bolesława Limanowskiego,"26/30-72(p), 27-39(n)",Radom,Radom,mazowieckie
-26-612,Radom,Bolesława Limanowskiego,"47-121(n), 74-154(p),",Radom,Radom,mazowieckie
-,,,99-100,,,
+26-612,Radom,Bolesława Limanowskiego,"47-121(n), 74-154(p), 99-100",Radom,Radom,mazowieckie
 26-615,Radom,11 Listopada,"32/38-98(p), 61-101(n)",Radom,Radom,mazowieckie
 26-603,Radom,Litewska,"39-55(n), 48-64(p)",Radom,Radom,mazowieckie
 26-609,Radom,Jacka Malczewskiego,"17-29(n), 18b-26a(p)",Radom,Radom,mazowieckie
@@ -8623,8 +8482,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-603,Radom,Podmiejska,"48-60(p), 53-63(n)",Radom,Radom,mazowieckie
 26-610,Radom,Polna,"86-DK(p),",Radom,Radom,mazowieckie
 26-612,Radom,1905 Roku,"1-DK(n), 24-68a(p)",Radom,Radom,mazowieckie
-26-604,Radom,Juliusza Słowackiego,"30-322(p), 55-305d(n),",Radom,Radom,mazowieckie
-,,,307-DK,,,
+26-604,Radom,Juliusza Słowackiego,"30-322(p), 55-305d(n), 307-DK",Radom,Radom,mazowieckie
 26-611,Radom,Staroopatowska,"13-DK(n), 18-118(p)",Radom,Radom,mazowieckie
 26-610,Radom,Andrzeja Struga,"2-35, 40/42-42(p),",Radom,Radom,mazowieckie
 26-609,Radom,Andrzeja Struga,"38-39, 41-63(n), 44-48",Radom,Radom,mazowieckie
@@ -8632,41 +8490,24 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 26-610,Radom,Szklana,"1-33(n), 2-30(p), 6/7-7",Radom,Radom,mazowieckie
 26-615,Radom,Szklana,"40-60(p),",Radom,Radom,mazowieckie
 26-603,Radom,Średnia,"33-55(n), 40-82(p)",Radom,Radom,mazowieckie
-26-605,Radom,Warszawska,"14-17/21, 20-88(p),",Radom,Radom,mazowieckie
-,,,23-87(n),,,
-26-617,Radom,Warszawska,"87a-89(n), 90-216(p),",Radom,Radom,mazowieckie
-,,,"93-219(n),",,,
-,,,225-DK,,,
-26-610,Radom,Stanisława Wernera,"2-10(p), 4a-9/11,",Radom,Radom,mazowieckie
-,,,"7-29/31(n),",,,
-,,,33/37,,,
-26-601,Radom,Stanisława Wernera,"12-52(p), 31-31a,",Radom,Radom,mazowieckie
-,,,"41-47(n), 58-59",,,
+26-605,Radom,Warszawska,"14-17/21, 20-88(p), 23-87(n)",Radom,Radom,mazowieckie
+26-617,Radom,Warszawska,"87a-89(n), 90-216(p), 93-219(n), 225-DK",Radom,Radom,mazowieckie
+26-610,Radom,Stanisława Wernera,"2-10(p), 4a-9/11, 7-29/31(n), 33/37",Radom,Radom,mazowieckie
+26-601,Radom,Stanisława Wernera,"12-52(p), 31-31a, 41-47(n), 58-59",Radom,Radom,mazowieckie
 26-612,Radom,Wierzbicka,"1-24a, 10a-12a(p)",Radom,Radom,mazowieckie
-26-616,Radom,Wierzbicka,"25-48, 49-105(n),",Radom,Radom,mazowieckie
-,,,52-104(p),,,
+26-616,Radom,Wierzbicka,"25-48, 49-105(n), 52-104(p)",Radom,Radom,mazowieckie
 26-604,Radom,Aleja Wojska Polskiego,"1-31(n), 6/10-26a(p)",Radom,Radom,mazowieckie
 26-604,Radom,Wyścigowa,"34-DK(p),",Radom,Radom,mazowieckie
 26-615,Radom,Stanisława Zbrowskiego,"80-116(p), 81-105(n)",Radom,Radom,mazowieckie
 26-601,Radom,Zielona,"6-DK(p), 27-51(n)",Radom,Radom,mazowieckie
 26-613,Radom,Stanisława Żółkiewskiego,"131/133, 140-148(p)",Radom,Radom,mazowieckie
-26-615,Radom,Żwirki i Wigury,"18-42(p), 29-35a(n),",Radom,Radom,mazowieckie
-,,,30-31a,,,
+26-615,Radom,Żwirki i Wigury,"18-42(p), 29-35a(n), 30-31a",Radom,Radom,mazowieckie
 83-315,Rąty,Długa,"14-60, 33-43(n), 66",Somonino,kartuski,pomorskie
 83-422,Rekownica,,"1-23, 26-27, 30-31, 33-DK",Nowa Karczma,kościerski,pomorskie
-38-312,Ropa,,"1-393(n), 80-585,",Ropa,gorlicki,małopolskie
-,,,"340-1244(p),",,,
-,,,"591-1259(n),",,,
-,,,593-1265,,,
-38-300,Ropica Polska,,"1-612, 530-532(p),",Gorlice,gorlicki,małopolskie
-,,,"614-623,",,,
-,,,"625-709,",,,
-,,,"628-632(p),",,,
+38-312,Ropa,,"1-393(n), 80-585, 340-1244(p), 591-1259(n), 593-1265",Ropa,gorlicki,małopolskie
+38-300,Ropica Polska,,"1-612, 530-532(p), 614-623, 625-709, 628-632(p),",Gorlice,gorlicki,małopolskie
 ,,,631-633(n),,,
-33-318,Roztoka-Brzeziny,,"1, 7-53, 10-58(p),",Gródek nad Dunajcem,nowosądecki,małopolskie
-,,,"39-55(n),",,,
-,,,"66-78(p), 70-86,",,,
-,,,"89a, 92a-93,",,,
+33-318,Roztoka-Brzeziny,,"1, 7-53, 10-58(p), 39-55(n), 66-78(p), 70-86, 89a, 92a-93,",Gródek nad Dunajcem,nowosądecki,małopolskie
 ,,,"106-150(p),",,,
 ,,,"110-138, 147a,",,,
 ,,,"151-159(n),",,,
@@ -8674,19 +8515,13 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 ,,,"174-200(p),",,,
 ,,,"177-202,",,,
 ,,,189-211(n),,,
-33-316,Roztoka-Brzeziny,,"3, 87-89(n), 90-92, 94-105,",Gródek nad Dunajcem,nowosądecki,małopolskie
-,,,"101-109(n),",,,
-,,,"139,",,,
-,,,"145-147(n),",,,
+33-316,Roztoka-Brzeziny,,"3, 87-89(n), 90-92, 94-105, 101-109(n), 139, 145-147(n),",Gródek nad Dunajcem,nowosądecki,małopolskie
 ,,,"152,",,,
 ,,,"161-163(n),",,,
 ,,,"164-172,",,,
 ,,,"226-346,",,,
 ,,,229-477(n),,,
-33-318,Rożnów,,"1-6, 10-11, 13-15(n), 16-20,",Gródek nad Dunajcem,nowosądecki,małopolskie
-,,,"23-24, 27-35,",,,
-,,,"37-42, 46-55,",,,
-,,,"57-63, 66-68,",,,
+33-318,Rożnów,,"1-6, 10-11, 13-15(n), 16-20, 23-24, 27-35, 37-42, 46-55, 57-63, 66-68,",Gródek nad Dunajcem,nowosądecki,małopolskie
 ,,,"70-86, 100, 202,",,,
 ,,,"262-263, 265,",,,
 ,,,"270-288(p),",,,
@@ -8713,10 +8548,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 ,,,"613, 616, 625,",,,
 ,,,"636-644(p),",,,
 ,,,"667-697(n), 676",,,
-33-316,Rożnów,,"7-9, 12-14(p), 21-22, 25, 36,",Gródek nad Dunajcem,nowosądecki,małopolskie
-,,,"45, 56, 65, 69,",,,
-,,,"87-97,",,,
-,,,"99-261(n),",,,
+33-316,Rożnów,,"7-9, 12-14(p), 21-22, 25, 36, 45, 56, 65, 69, 87-97, 99-261(n),",Gródek nad Dunajcem,nowosądecki,małopolskie
 ,,,"102-186(p),",,,
 ,,,"105-201,",,,
 ,,,"204-251,",,,
@@ -8762,97 +8594,67 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-710,Ruda Śląska,Katowicka,"1-47(n), 4-70(p), 40-41",Ruda Śląska,Ruda Śląska,śląskie
 41-717,Ruda Śląska,Katowicka,"72-170(p), 129-151(n)",Ruda Śląska,Ruda Śląska,śląskie
 41-706,Ruda Śląska,Kochłowicka,"1-71(n), 6-64(p), 35-69",Ruda Śląska,Ruda Śląska,śląskie
-41-707,Ruda Śląska,Kochłowicka,"98-140(p), 123-185(n),",Ruda Śląska,Ruda Śląska,śląskie
-,,,131-151,,,
-41-711,Ruda Śląska,Edmunda Kokota,"8-300(p), 19-253(n),",Ruda Śląska,Ruda Śląska,śląskie
-,,,169-230,,,
+41-707,Ruda Śląska,Kochłowicka,"98-140(p), 123-185(n), 131-151",Ruda Śląska,Ruda Śląska,śląskie
+41-711,Ruda Śląska,Edmunda Kokota,"8-300(p), 19-253(n), 169-230",Ruda Śląska,Ruda Śląska,śląskie
 41-717,Ruda Śląska,Wojciecha Korfantego,"19-57(n), 25-26, 30-58(p)",Ruda Śląska,Ruda Śląska,śląskie
-41-710,Ruda Śląska,1 Maja,"126-322(p), 133-253(n),",Ruda Śląska,Ruda Śląska,śląskie
-,,,"144-270,",,,
-,,,"275-347,",,,
-,,,289-363(n),,,
+41-710,Ruda Śląska,1 Maja,"126-322(p), 133-253(n), 144-270, 275-347, 289-363(n)",Ruda Śląska,Ruda Śląska,śląskie
 41-700,Ruda Śląska,1 Maja,"370-380(p), 383-385(n)",Ruda Śląska,Ruda Śląska,śląskie
 41-709,Ruda Śląska,Piotra Niedurnego,"9, 14-54(p),",Ruda Śląska,Ruda Śląska,śląskie
 41-712,Ruda Śląska,Orzegowska,"25-49(n), 36-64(p)",Ruda Śląska,Ruda Śląska,śląskie
-41-707,Ruda Śląska,Wyzwolenia,"1-122, 37-117(n),",Ruda Śląska,Ruda Śląska,śląskie
-,,,44-150(p),,,
+41-707,Ruda Śląska,Wyzwolenia,"1-122, 37-117(n), 44-150(p)",Ruda Śląska,Ruda Śląska,śląskie
 41-700,Ruda Śląska,Zabrzańska,"24-72(p), 49-59(n)",Ruda Śląska,Ruda Śląska,śląskie
 44-203,Rybnik,Brzeziny Miejskie,"7a-9(n), 11b-18, 21-DK",Rybnik,Rybnik,śląskie
-44-217,Rybnik,Budowlanych,"6-92(p), 41a-45b(n),",Rybnik,Rybnik,śląskie
-,,,"47-83, 110-DK(p)",,,
-44-207,Rybnik,Gliwicka,"55-179(n), 84-DK(p),",Rybnik,Rybnik,śląskie
-,,,"189-190b,",,,
-,,,191-DK(n),,,
+44-217,Rybnik,Budowlanych,"6-92(p), 41a-45b(n), 47-83, 110-DK(p)",Rybnik,Rybnik,śląskie
+44-207,Rybnik,Gliwicka,"55-179(n), 84-DK(p), 189-190b, 191-DK(n)",Rybnik,Rybnik,śląskie
 44-210,Rybnik,Grunwaldzka,"14-DK, 43-55(n), 46-60b(p)",Rybnik,Rybnik,śląskie
 44-218,Rybnik,Jankowicka,"41-99(n), 42-110(p)",Rybnik,Rybnik,śląskie
 44-217,Rybnik,ks. Henryka Jośki,"2-48(p), 5-27c(n), 41-DK",Rybnik,Rybnik,śląskie
-44-200,Rybnik,św. Józefa,"5-12a, 13-15(n), 14-20a(p),",Rybnik,Rybnik,śląskie
-,,,"77-79(n), 83-187",,,
+44-200,Rybnik,św. Józefa,"5-12a, 13-15(n), 14-20a(p), 77-79(n), 83-187",Rybnik,Rybnik,śląskie
 44-217,Rybnik,św. Józefa,"14a, 17-61a(n), 24-42, 52-82e(p)",Rybnik,Rybnik,śląskie
 44-200,Rybnik,Jana Kotucza,"1-51(n), 2-4(p), 9-36",Rybnik,Rybnik,śląskie
 44-200,Rybnik,Kowalczyka,"8-34(p), 13a-19a(n), 46",Rybnik,Rybnik,śląskie
 44-274,Rybnik,gen. Okulickiego,"2-156(p), 3-181(n)",Rybnik,Rybnik,śląskie
 44-203,Rybnik,Pochyła,"6-40a(p), 9-31b(n)",Rybnik,Rybnik,śląskie
 44-200,Rybnik,Raciborska,"1-72b, 60a-82(p),",Rybnik,Rybnik,śląskie
-44-200,Rybnik,Rudzka,"3-149, 27-239s(n),",Rybnik,Rybnik,śląskie
-,,,28-224(p),,,
+44-200,Rybnik,Rudzka,"3-149, 27-239s(n), 28-224(p)",Rybnik,Rybnik,śląskie
 44-292,Rybnik,Rudzka,"236b-238b(p), 244-DK",Rybnik,Rybnik,śląskie
 44-218,Rybnik,Wodzisławska,"100-138b(p), 105-201(n)",Rybnik,Rybnik,śląskie
 44-274,Rybnik,Wodzisławska,"308-356(p), 309-371(n)",Rybnik,Rybnik,śląskie
 44-203,Rybnik,Wolna,"3-169, 171-175(n)",Rybnik,Rybnik,śląskie
 44-251,Rybnik,Wolna,"170c-178d(p), 181-DK",Rybnik,Rybnik,śląskie
 44-200,Rybnik,Wyzwolenia,"1-31a, 32-44(p), 33-77(n)",Rybnik,Rybnik,śląskie
-44-217,Rybnik,Zebrzydowicka,"24-128b(p), 93-117(n),",Rybnik,Rybnik,śląskie
-,,,133-DK,,,
-44-203,Rybnik,Żorska,"1-56, 60-166(p), 168-257,",Rybnik,Rybnik,śląskie
-,,,259-265a(n),,,
+44-217,Rybnik,Zebrzydowicka,"24-128b(p), 93-117(n), 133-DK",Rybnik,Rybnik,śląskie
+44-203,Rybnik,Żorska,"1-56, 60-166(p), 168-257, 259-265a(n)",Rybnik,Rybnik,śląskie
 44-251,Rybnik,Żorska,"258-262(p), 267-DK",Rybnik,Rybnik,śląskie
 35-602,Rzeszów,Ludwika Bernackiego,"1-3, 5-11(n),",Rzeszów,Rzeszów,podkarpackie
-35-036,Rzeszów,Jarosława Dąbrowskiego,"10-33a, 25-71(n),",Rzeszów,Rzeszów,podkarpackie
-,,,44-62a(p),,,
+35-036,Rzeszów,Jarosława Dąbrowskiego,"10-33a, 25-71(n), 44-62a(p)",Rzeszów,Rzeszów,podkarpackie
 35-040,Rzeszów,Jarosława Dąbrowskiego,"66-70(p), 72-83, 85-89(n)",Rzeszów,Rzeszów,podkarpackie
-35-213,Rzeszów,Dębicka,"53-259(n), 118-648(p),",Rzeszów,Rzeszów,podkarpackie
-,,,262-612,,,
+35-213,Rzeszów,Dębicka,"53-259(n), 118-648(p), 262-612",Rzeszów,Rzeszów,podkarpackie
 35-045,Rzeszów,Hetmańska,"1-7(n), 4-6(p), 8-41",Rzeszów,Rzeszów,podkarpackie
-35-078,Rzeszów,Hetmańska,"42-85, 56-120b(p),",Rzeszów,Rzeszów,podkarpackie
-,,,67-77(n),,,
+35-078,Rzeszów,Hetmańska,"42-85, 56-120b(p), 67-77(n)",Rzeszów,Rzeszów,podkarpackie
 35-602,Rzeszów,Jana Kiepury,"1, 3-41, 43-60, 62-63, 65-89(n)",Rzeszów,Rzeszów,podkarpackie
 35-002,Rzeszów,Mikołaja Kopernika,"7-15(n), 10-18a(p)",Rzeszów,Rzeszów,podkarpackie
 35-111,Rzeszów,Krakowska,"1-41b(n), 3a-14, 16-30c(p)",Rzeszów,Rzeszów,podkarpackie
 35-506,Rzeszów,Krakowska,"32-158(p), 43-161(n)",Rzeszów,Rzeszów,podkarpackie
-35-213,Rzeszów,Krakowska,"162-372(p), 165-449b(n),",Rzeszów,Rzeszów,podkarpackie
-,,,290-386,,,
+35-213,Rzeszów,Krakowska,"162-372(p), 165-449b(n), 290-386",Rzeszów,Rzeszów,podkarpackie
 35-505,Rzeszów,Krośnieńska,"1-5, 6-36(p), 15-17, 21-29(n)",Rzeszów,Rzeszów,podkarpackie
 35-051,Rzeszów,Teofila Lenartowicza,"1-31b(n), 2-10(p), 16-25",Rzeszów,Rzeszów,podkarpackie
 35-233,Rzeszów,Lubelska,"6-56(p), 17-103(n), 41-94",Rzeszów,Rzeszów,podkarpackie
-35-328,Rzeszów,Ignacego Paderewskiego,"1a-3f, 8-84a(p), 11a-21(n),",Rzeszów,Rzeszów,podkarpackie
-,,,88-92(p),,,
-35-330,Rzeszów,Ignacego Paderewskiego,"29-153(n), 92a-112(p),",Rzeszów,Rzeszów,podkarpackie
-,,,"116-208(p),",,,
-,,,120-143,,,
+35-328,Rzeszów,Ignacego Paderewskiego,"1a-3f, 8-84a(p), 11a-21(n), 88-92(p)",Rzeszów,Rzeszów,podkarpackie
+35-330,Rzeszów,Ignacego Paderewskiego,"29-153(n), 92a-112(p), 116-208(p), 120-143",Rzeszów,Rzeszów,podkarpackie
 35-234,Rzeszów,Partyzantów,"5-23(n), 9-10a, 12a-44(p)",Rzeszów,Rzeszów,podkarpackie
-35-083,Rzeszów,Podkarpacka,"30-194(p), 74-192,",Rzeszów,Rzeszów,podkarpackie
-,,,119-197(n),,,
+35-083,Rzeszów,Podkarpacka,"30-194(p), 74-192, 119-197(n)",Rzeszów,Rzeszów,podkarpackie
 35-210,Rzeszów,Władysława Reymonta,"3-25a(n), 7-17, 18-24a(p)",Rzeszów,Rzeszów,podkarpackie
 35-504,Rzeszów,Ustrzycka,"1, 3a-128b, 130-248(p)",Rzeszów,Rzeszów,podkarpackie
 35-213,Rzeszów,Ustrzycka,"121-249(n), 255-273(n)",Rzeszów,Rzeszów,podkarpackie
-35-205,Rzeszów,Warszawska,"1/3-57(n), 10-26c(p),",Rzeszów,Rzeszów,podkarpackie
-,,,"135-185(n),",,,
-,,,156-164(p),,,
-35-230,Rzeszów,Warszawska,"28-68b(p), 67-103(n),",Rzeszów,Rzeszów,podkarpackie
-,,,80-98a,,,
+35-205,Rzeszów,Warszawska,"1/3-57(n), 10-26c(p), 135-185(n), 156-164(p)",Rzeszów,Rzeszów,podkarpackie
+35-230,Rzeszów,Warszawska,"28-68b(p), 67-103(n), 80-98a",Rzeszów,Rzeszów,podkarpackie
 35-330,Rzeszów,Henryka Wieniawskiego,"1-63(n), 2-54(p), 56a-59",Rzeszów,Rzeszów,podkarpackie
-35-603,Rzeszów,Henryka Wieniawskiego,"58i-70b(p), 72-91e,",Rzeszów,Rzeszów,podkarpackie
-,,,"88-580(p),",,,
-,,,95-145(n),,,
-35-304,Rzeszów,kard. Karola Wojtyły,"1-164, 28-134(p),",Rzeszów,Rzeszów,podkarpackie
-,,,41-295(n),,,
+35-603,Rzeszów,Henryka Wieniawskiego,"58i-70b(p), 72-91e, 88-580(p), 95-145(n)",Rzeszów,Rzeszów,podkarpackie
+35-304,Rzeszów,kard. Karola Wojtyły,"1-164, 28-134(p), 41-295(n)",Rzeszów,Rzeszów,podkarpackie
 35-317,Rzeszów,kard. Karola Wojtyły,"168-232(p), 301-323(n)",Rzeszów,Rzeszów,podkarpackie
 35-083,Rzeszów,Zawiszy Czarnego,"70-120(p), 75-130(n)",Rzeszów,Rzeszów,podkarpackie
-38-307,Sękowa,,"1-408, 314-330(p),",Sękowa,gorlicki,małopolskie
-,,,"325-327(n),",,,
-,,,"411-450,",,,
-,,,453-555,,,
+38-307,Sękowa,,"1-408, 314-330(p), 325-327(n), 411-450, 453-555",Sękowa,gorlicki,małopolskie
 08-119,Siedlce,Generała Józefa Bema,"86-DK(p), 101-115(n)",Siedlce,Siedlce,mazowieckie
 08-119,Siedlce,Władysława Broniewskiego,"11-DK(n),",Siedlce,Siedlce,mazowieckie
 08-101,Siedlce,Monte Cassino,"33-77(n),",Siedlce,Siedlce,mazowieckie
@@ -8861,35 +8663,28 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-100,Siemianowice Śląskie,Katowicka,"3-5(n), 8-9, 16-28(p)",Siemianowice Śląskie,Siemianowice Śląskie,śląskie
 41-100,Siemianowice Śląskie,Michałkowicka,"3-45(n), 28-46a(p)",Siemianowice Śląskie,Siemianowice Śląskie,śląskie
 41-100,Siemianowice Śląskie,Mysłowicka,"1-55(n), 2-6(p), 34-36(p)",Siemianowice Śląskie,Siemianowice Śląskie,śląskie
-96-325,Słabomierz,Prosta,"1-31(n), 4-98(p),",Radziejowice,żyrardowski,mazowieckie
-,,,43-115(n),,,
+96-325,Słabomierz,Prosta,"1-31(n), 4-98(p), 43-115(n)",Radziejowice,żyrardowski,mazowieckie
 96-500,Sochaczew,Aleja 600-lecia Al.,"3-69(n), 6-90(p), 41-42b",Sochaczew,sochaczewski,mazowieckie
 96-503,Sochaczew,Aleja 600-lecia Al.,"71-113(n), 92-118(p)",Sochaczew,sochaczewski,mazowieckie
 96-500,Sochaczew,Boryszewska,"2-24(p), 5-35(n), 28-48(p)",Sochaczew,sochaczewski,mazowieckie
-96-500,Sochaczew,Gawłowska,"1a-141(n), 2-118a(p),",Sochaczew,sochaczewski,mazowieckie
-,,,"12-65,",,,
-,,,144-158(p),,,
+96-500,Sochaczew,Gawłowska,"1a-141(n), 2-118a(p), 12-65, 144-158(p)",Sochaczew,sochaczewski,mazowieckie
 96-503,Sochaczew,Gawłowska,"120-140a(p), 143-185(n)",Sochaczew,sochaczewski,mazowieckie
-96-500,Sochaczew,Łąkowa,"2-24a(p), 13-23(n), 26-27,",Sochaczew,sochaczewski,mazowieckie
-,,,33,,,
+96-500,Sochaczew,Łąkowa,"2-24a(p), 13-23(n), 26-27, 33",Sochaczew,sochaczewski,mazowieckie
 96-503,Sochaczew,Łąkowa,"32-34a(p), 33-37(n), 41",Sochaczew,sochaczewski,mazowieckie
 96-500,Sochaczew,Trojanowska,"1-64, 4-52(p), 11-57(n)",Sochaczew,sochaczewski,mazowieckie
 96-503,Sochaczew,Trojanowska,"65-89(n), 68a-140a(p)",Sochaczew,sochaczewski,mazowieckie
-96-500,Sochaczew,Stefana Żeromskiego,"1-23a(n), 2-32(p),",Sochaczew,sochaczewski,mazowieckie
-,,,29-41a(n),,,
+96-500,Sochaczew,Stefana Żeromskiego,"1-23a(n), 2-32(p), 29-41a(n)",Sochaczew,sochaczewski,mazowieckie
 81-833,Sopot,Antoniego Abrahama,"27-53(n), 30-52(p)",Sopot,Sopot,pomorskie
 81-855,Sopot,Aleja Niepodległości,"606-640b(p), 625-671(n)",Sopot,Sopot,pomorskie
 81-854,Sopot,Aleja Niepodległości,"642-690(p), 673-689(n)",Sopot,Sopot,pomorskie
-81-853,Sopot,Aleja Niepodległości,"691-725(n), 692-710a(p),",Sopot,Sopot,pomorskie
-,,,720-724b(p),,,
+81-853,Sopot,Aleja Niepodległości,"691-725(n), 692-710a(p), 720-724b(p)",Sopot,Sopot,pomorskie
 81-840,Sopot,Aleja Niepodległości,"726-750(p), 727-747(n)",Sopot,Sopot,pomorskie
 81-805,Sopot,Aleja Niepodległości,"774-830(p), 781-791(n)",Sopot,Sopot,pomorskie
 81-810,Sopot,Aleja Niepodległości,"793-861(n), 836-860a(p)",Sopot,Sopot,pomorskie
 81-861,Sopot,Aleja Niepodległości,"863-931(n), 870-962(p)",Sopot,Sopot,pomorskie
 81-870,Sopot,Armii Krajowej,"23-49(n), 24-46(p)",Sopot,Sopot,pomorskie
 81-843,Sopot,Armii Krajowej,"50-60(p), 55-67(n)",Sopot,Sopot,pomorskie
-81-824,Sopot,Armii Krajowej,"90-95, 99-147(n),",Sopot,Sopot,pomorskie
-,,,110-122(p),,,
+81-824,Sopot,Armii Krajowej,"90-95, 99-147(n), 110-122(p)",Sopot,Sopot,pomorskie
 81-731,Sopot,Bitwy pod Płowcami,"52-64(p),",Sopot,Sopot,pomorskie
 81-723,Sopot,Bolesława Chrobrego,"40-48(p), 45-49(n)",Sopot,Sopot,pomorskie
 81-754,Sopot,Grunwaldzka,"31-43(n), 34-48(p), 49",Sopot,Sopot,pomorskie
@@ -8913,8 +8708,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-205,Sosnowiec,Aleja Józefa Mireckiego,"13-14, 18-46(p), 31-53(n)",Sosnowiec,Sosnowiec,śląskie
 41-214,Sosnowiec,Czeladzka,"33-61(n), 38-58(p)",Sosnowiec,Sosnowiec,śląskie
 41-214,Sosnowiec,gen. Stefana Grota-Roweckiego,"33-215(n), 38-136(p)",Sosnowiec,Sosnowiec,śląskie
-41-209,Sosnowiec,Jana Sobieskiego,"1-3(n), 4-64a(p),",Sosnowiec,Sosnowiec,śląskie
-,,,21-49(n),,,
+41-209,Sosnowiec,Jana Sobieskiego,"1-3(n), 4-64a(p), 21-49(n)",Sosnowiec,Sosnowiec,śląskie
 41-208,Sosnowiec,Jedności,"2-10a(p), 5-11d(n)",Sosnowiec,Sosnowiec,śląskie
 41-218,Sosnowiec,Jedności,"12-50(p),",Sosnowiec,Sosnowiec,śląskie
 41-209,Sosnowiec,Jana Kilińskiego,"1-DK, 5-11(n),",Sosnowiec,Sosnowiec,śląskie
@@ -8923,10 +8717,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 41-208,Sosnowiec,Stanisława Mikołajczyka,"57-59(n), 80-86a(p)",Sosnowiec,Sosnowiec,śląskie
 41-209,Sosnowiec,Marszałka Józefa Piłsudskiego,"9-69(n), 22-116(p)",Sosnowiec,Sosnowiec,śląskie
 41-214,Sosnowiec,Sucha,"23-61(n), 46-68(p)",Sosnowiec,Sosnowiec,śląskie
-32-852,Sufczyn,,"1-16, 20, 22-38, 41-43, 45-48,",Dębno,brzeski,małopolskie
-,,,"51-52, 56,",,,
-,,,"63-75, 77,",,,
-,,,"80-90, 95,",,,
+32-852,Sufczyn,,"1-16, 20, 22-38, 41-43, 45-48, 51-52, 56, 63-75, 77, 80-90, 95,",Dębno,brzeski,małopolskie
 ,,,"96-102(p), 101,",,,
 ,,,"105, 107-110,",,,
 ,,,"112-123,",,,
@@ -8985,10 +8776,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 ,,,"492-496,",,,
 ,,,"499-500,",,,
 ,,,"502-505, 507-DK",,,
-32-854,Sufczyn,,"18, 25-26, 42-43, 45,",Dębno,brzeski,małopolskie
-,,,"49-50, 53-63,",,,
-,,,"70-72(p), 76,",,,
-,,,"80, 85,",,,
+32-854,Sufczyn,,"18, 25-26, 42-43, 45, 49-50, 53-63, 70-72(p), 76, 80, 85,",Dębno,brzeski,małopolskie
 ,,,"91-93(n),",,,
 ,,,"97-99(n),",,,
 ,,,"103-104, 106,",,,
@@ -9048,9 +8836,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 05-070,Sulejówek,Czynu Społecznego,"54-64b(p), 70-243",Sulejówek,miński,mazowieckie
 05-070,Sulejówek,Przejazd,"6-DK(p), 19-47(n)",Sulejówek,miński,mazowieckie
 16-400,Suwałki,"Podpułkownika Jerzego Dąbrowskiego ps. ""Łupaszka""",,Suwałki,Suwałki,podlaskie
-32-014,Szarów,,"1-88, 22-410(p), 23-83a(n),",Kłaj,wielicki,małopolskie
-,,,"95-701b(n),",,,
-,,,98-396,,,
+32-014,Szarów,,"1-88, 22-410(p), 23-83a(n), 95-701b(n), 98-396",Kłaj,wielicki,małopolskie
 95-001,Szczawin (Szczawin Mały),Bielska,,Zgierz,zgierski,łódzkie
 95-002,Szczawin (Szczawin-Kolonia),Dębowa,,Zgierz,zgierski,łódzkie
 95-001,Szczawin (Szczawin,Działkowa,,Zgierz,zgierski,łódzkie
@@ -9062,10 +8848,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 95-002,Szczawin (Szczawin,Strykowska,,Zgierz,zgierski,łódzkie
 95-002,Szczawin (Szczawin-,Zgierska,,Zgierz,zgierski,łódzkie
 70-342,Szczecin,Aleja Bohaterów Warszawy,"40-42(p), 47-51(n)",Szczecin,Szczecin,zachodniopomorskie
-70-110,Szczecin,Aleja Powstańców Wielkopolskich,"4-25a, 20-28a(p),",Szczecin,Szczecin,zachodniopomorskie
-,,,"35-41(n), 73-96",,,
-70-111,Szczecin,Aleja Powstańców Wielkopolskich,"29-33, 34-46(p), 66/68-72(p),",Szczecin,Szczecin,zachodniopomorskie
-,,,69a-69d,,,
+70-110,Szczecin,Aleja Powstańców Wielkopolskich,"4-25a, 20-28a(p), 35-41(n), 73-96",Szczecin,Szczecin,zachodniopomorskie
+70-111,Szczecin,Aleja Powstańców Wielkopolskich,"29-33, 34-46(p), 66/68-72(p), 69a-69d",Szczecin,Szczecin,zachodniopomorskie
 70-130,Szczecin,Aleja Powstańców,"49-60, 63-65(n)",Szczecin,Szczecin,zachodniopomorskie
 71-256,Szczecin,Aleja Wojska Polskiego,"184-254(p), 215-247(n)",Szczecin,Szczecin,zachodniopomorskie
 70-302,Szczecin,Bohaterów Getta,"1-6, 22-24",Szczecin,Szczecin,zachodniopomorskie
@@ -9075,10 +8859,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 71-643,Szczecin,Franciszka Ksawerego,"15-26, 28-44(p)",Szczecin,Szczecin,zachodniopomorskie
 70-772,Szczecin,Gryfińska,"33-69(n), 37-109,",Szczecin,Szczecin,zachodniopomorskie
 71-699,Szczecin,Hoża,"1-29(n), 3-4e, 6-32(p)",Szczecin,Szczecin,zachodniopomorskie
-70-382,Szczecin,Jagiellońska,"32-70a(p), 33-62a,",Szczecin,Szczecin,zachodniopomorskie
-,,,39b-69(n),,,
-70-035,Szczecin,Krzysztofa Kolumba,"1-13, 40-88/89(p),",Szczecin,Szczecin,zachodniopomorskie
-,,,"55-83(n), 59-73",,,
+70-382,Szczecin,Jagiellońska,"32-70a(p), 33-62a, 39b-69(n)",Szczecin,Szczecin,zachodniopomorskie
+70-035,Szczecin,Krzysztofa Kolumba,"1-13, 40-88/89(p), 55-83(n), 59-73",Szczecin,Szczecin,zachodniopomorskie
 70-037,Szczecin,Krzysztofa Kolumba,"21-39(n),",Szczecin,Szczecin,zachodniopomorskie
 71-681,Szczecin,Komuny Paryskiej,"20-40(p), 32a-36b",Szczecin,Szczecin,zachodniopomorskie
 71-017,Szczecin,Krakowska,"23-79(n), 32-68(p), 59-61b",Szczecin,Szczecin,zachodniopomorskie
@@ -9093,17 +8875,14 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 71-836,Szczecin,Władysława Nehringa,"10-66(p), 49-77(n)",Szczecin,Szczecin,zachodniopomorskie
 71-621,Szczecin,Parkowa,"9-23a, 49-65a, 52-58e(p)",Szczecin,Szczecin,zachodniopomorskie
 71-635,Szczecin,Emilii Plater,"1-14b, 3-17(n), 83-96",Szczecin,Szczecin,zachodniopomorskie
-71-632,Szczecin,Emilii Plater,"18-20(p), 73-79(n),",Szczecin,Szczecin,zachodniopomorskie
-,,,76-82b(p),,,
+71-632,Szczecin,Emilii Plater,"18-20(p), 73-79(n), 76-82b(p)",Szczecin,Szczecin,zachodniopomorskie
 71-112,Szczecin,Księcia Józefa Poniatowskiego,"43-DK(n),",Szczecin,Szczecin,zachodniopomorskie
 70-230,Szczecin,Potulicka,"1a-3a(n), 1-2, 56-63",Szczecin,Szczecin,zachodniopomorskie
 70-700,Szczecin,Rymarska,"94-DK, 148a-150(p)",Szczecin,Szczecin,zachodniopomorskie
 71-422,Szczecin,ks. Piotra Skargi,"1-16, 9-11(n), 32-DK",Szczecin,Szczecin,zachodniopomorskie
-71-869,Szczecin,Stołczyńska,"59-128, 61-147(n),",Szczecin,Szczecin,zachodniopomorskie
-,,,62-134(p),,,
+71-869,Szczecin,Stołczyńska,"59-128, 61-147(n), 62-134(p)",Szczecin,Szczecin,zachodniopomorskie
 71-870,Szczecin,Stołczyńska,"136-156(p), 149-173(n)",Szczecin,Szczecin,zachodniopomorskie
-71-873,Szczecin,Stołczyńska,"160-190b(p), 179-217(n),",Szczecin,Szczecin,zachodniopomorskie
-,,,251-252,,,
+71-873,Szczecin,Stołczyńska,"160-190b(p), 179-217(n), 251-252",Szczecin,Szczecin,zachodniopomorskie
 71-727,Szczecin,Światowida,"12-62(p), 31-77(n), 66-69",Szczecin,Szczecin,zachodniopomorskie
 70-774,Szczecin,Walecznych,"6-23, 64-82(p), 77-85(n), 88-92",Szczecin,Szczecin,zachodniopomorskie
 71-014,Szczecin,Wierzbowa,"73-DK(n),",Szczecin,Szczecin,zachodniopomorskie
@@ -9118,40 +8897,28 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 70-202,Szczecin,Księdza Kardynała Stefana,21-39(n),Szczecin,Szczecin,zachodniopomorskie
 70-203,Szczecin,Księdza Kardynała Stefana,24-42(p),Szczecin,Szczecin,zachodniopomorskie
 41-605,Świętochłowice,Bytomska,"38-44a(p), 55-69(n)",Świętochłowice,Świętochłowice,śląskie
-41-605,Świętochłowice,Chorzowska,"4-140(p), 19-99(n),",Świętochłowice,Świętochłowice,śląskie
-,,,"109-110, 121",,,
+41-605,Świętochłowice,Chorzowska,"4-140(p), 19-99(n), 109-110, 121",Świętochłowice,Świętochłowice,śląskie
 41-605,Świętochłowice,Sądowa,"1-2, 5-15(n), 8-24(p)",Świętochłowice,Świętochłowice,śląskie
 41-608,Świętochłowice,Sztygarska,"1-27(n), 4-28(p), 39",Świętochłowice,Świętochłowice,śląskie
-32-015,Targowisko,,"1-128, 130-590(p),",Kłaj,wielicki,małopolskie
-,,,"135-575(n),",,,
-,,,138-577,,,
+32-015,Targowisko,,"1-128, 130-590(p), 135-575(n), 138-577",Kłaj,wielicki,małopolskie
 42-600,Tarnowskie Góry,Bytomska,"1-17(n), 2-8(p), 9-12",Tarnowskie Góry,tarnogórski,śląskie
 42-606,Tarnowskie Góry,Bytomska,"14-28(p), 25-33(n)",Tarnowskie Góry,tarnogórski,śląskie
 42-600,Tarnowskie Góry,Gliwicka,"1-113, 22-162(p), 269",Tarnowskie Góry,tarnogórski,śląskie
 42-609,Tarnowskie Góry,Grzybowa,"1-197(n), 2-188(p),",Tarnowskie Góry,tarnogórski,śląskie
 42-603,Tarnowskie Góry,Repecka,"51-DK(n),",Tarnowskie Góry,tarnogórski,śląskie
-32-436,Tokarnia,,"1-766, 157-749(n),",Tokarnia,myślenicki,małopolskie
-,,,"272-921(p),",,,
-,,,"770-917,",,,
-,,,789-925(n),,,
-33-170,Tuchów,Kolejowa,"4-6, 8-12, 14-46(p), 19-43,",Tuchów,tarnowski,małopolskie
-,,,31-35(n),,,
-43-100,Tychy,al. Niepodległości,"1-53(n), 2-120(p),",Tychy,Tychy,śląskie
-,,,"57-121(n),",,,
-,,,122-DK,,,
+32-436,Tokarnia,,"1-766, 157-749(n), 272-921(p), 770-917, 789-925(n)",Tokarnia,myślenicki,małopolskie
+33-170,Tuchów,Kolejowa,"4-6, 8-12, 14-46(p), 19-43, 31-35(n)",Tuchów,tarnowski,małopolskie
+43-100,Tychy,al. Niepodległości,"1-53(n), 2-120(p), 57-121(n), 122-DK",Tychy,Tychy,śląskie
 43-110,Tychy,Władysława Sikorskiego,"1-59, 61-67(n), 69-109, 111-DK",Tychy,Tychy,śląskie
-58-301,Wałbrzych,11 Listopada,"121-197(n), 122-214(p),",Wałbrzych,Wałbrzych,dolnośląskie
-,,,138-140,,,
+58-301,Wałbrzych,11 Listopada,"121-197(n), 122-214(p), 138-140",Wałbrzych,Wałbrzych,dolnośląskie
 58-305,Wałbrzych,1 Maja,"65-165a(n), 74-164a(p)",Wałbrzych,Wałbrzych,dolnośląskie
 58-300,Wałbrzych,Stanisława Moniuszki,"1-109(n), 2-116(p)",Wałbrzych,Wałbrzych,dolnośląskie
 58-300,Wałbrzych,Niepodległości,"1-35a(n), 2-30(p), 7-11a",Wałbrzych,Wałbrzych,dolnośląskie
-58-303,Wałbrzych,Niepodległości,"32-138(p), 37-295a(n),",Wałbrzych,Wałbrzych,dolnośląskie
-,,,63-227,,,
+58-303,Wałbrzych,Niepodległości,"32-138(p), 37-295a(n), 63-227",Wałbrzych,Wałbrzych,dolnośląskie
 58-301,Wałbrzych,marsz. Józefa Piłsudskiego,"18-104(p), 21-91(n)",Wałbrzych,Wałbrzych,dolnośląskie
 58-301,Wałbrzych,Psie Pole,"1, 2-36(p), 9-49(n)",Wałbrzych,Wałbrzych,dolnośląskie
 58-300,Wałbrzych,Stefana Batorego,"1-97(n), 2-72(p), 75-83a",Wałbrzych,Wałbrzych,dolnośląskie
-58-306,Wałbrzych,Wrocławska,"52-142(p), 83-191,",Wałbrzych,Wałbrzych,dolnośląskie
-,,,105-141(n),,,
+58-306,Wałbrzych,Wrocławska,"52-142(p), 83-191, 105-141(n)",Wałbrzych,Wałbrzych,dolnośląskie
 58-304,Wałbrzych,Piotra Wysockiego,"25-45(n),",Wałbrzych,Wałbrzych,dolnośląskie
 03-506,Warszawa (Targówek),2 Rejonu Armii Krajowej,,Warszawa,Warszawa,mazowieckie
 04-144,Warszawa (Praga-Południe),Plac 1831 Roku,,Warszawa,Warszawa,mazowieckie
@@ -9461,8 +9228,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 04-106,Warszawa (Praga-Południe),Dobrzyniecka,"19-DK(n), 46-DK(p)",Warszawa,Warszawa,mazowieckie
 04-487,Warszawa,Dokerów,,Warszawa,Warszawa,mazowieckie
 00-215,Warszawa,Włodzimierza Dolańskiego,,Warszawa,Warszawa,mazowieckie
-02-672,Warszawa (Mokotów),Domaniewska,"8-DK(p), 13/15-DK(n),",Warszawa,Warszawa,mazowieckie
-,,,34a-50c,,,
+02-672,Warszawa (Mokotów),Domaniewska,"8-DK(p), 13/15-DK(n), 34a-50c",Warszawa,Warszawa,mazowieckie
 04-146,Warszawa (Praga-,Ignacego Domeyki,,Warszawa,Warszawa,mazowieckie
 03-604,Warszawa,Dominiki,,Warszawa,Warszawa,mazowieckie
 03-610,Warszawa,Don Kichota,,Warszawa,Warszawa,mazowieckie
@@ -9622,9 +9388,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 01-165,Warszawa (Wola),Gostyńska,"34-DK(p),",Warszawa,Warszawa,mazowieckie
 02-610,Warszawa (Mokotów),Seweryna Goszczyńskiego,"7-DK(n),",Warszawa,Warszawa,mazowieckie
 03-535,Warszawa,Gościeradowska,,Warszawa,Warszawa,mazowieckie
-05-077,Warszawa (Wesoła),Gościniec,"1-7, 9-107(n), 10-156(p),",Warszawa,Warszawa,mazowieckie
-,,,"111-DK(n),",,,
-,,,162-DK(p),,,
+05-077,Warszawa (Wesoła),Gościniec,"1-7, 9-107(n), 10-156(p), 111-DK(n), 162-DK(p)",Warszawa,Warszawa,mazowieckie
 03-353,Warszawa,Goworowska,1-13,Warszawa,Warszawa,mazowieckie
 03-363,Warszawa,Goworowska,15-29(n),Warszawa,Warszawa,mazowieckie
 03-376,Warszawa,Goworowska,32,Warszawa,Warszawa,mazowieckie
@@ -10738,8 +10502,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 00-362,Warszawa,Juliana Przybosia,,Warszawa,Warszawa,mazowieckie
 01-824,Warszawa (Bielany),Stanisława Przybyszewskiego,"28-DK(p),",Warszawa,Warszawa,mazowieckie
 02-968,Warszawa (Wilanów),Przyczółkowa,"1-119a(n), 2-208(p)",Warszawa,Warszawa,mazowieckie
-02-962,Warszawa (Wilanów),Przyczółkowa,"121-141a(n), 143-DK,",Warszawa,Warszawa,mazowieckie
-,,,210-DK(p),,,
+02-962,Warszawa (Wilanów),Przyczółkowa,"121-141a(n), 143-DK, 210-DK(p)",Warszawa,Warszawa,mazowieckie
 00-565,Warszawa,Aleja Przyjaciół,,Warszawa,Warszawa,mazowieckie
 03-944,Warszawa (Praga-,Plac Przymierza,,Warszawa,Warszawa,mazowieckie
 00-219,Warszawa,Przyrynek,,Warszawa,Warszawa,mazowieckie
@@ -11074,8 +10837,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 04-311,Warszawa (Praga-,Szaserów,"55-69/71(n), 60",Warszawa,Warszawa,mazowieckie
 04-323,Warszawa (Praga-Południe),Szaserów,"78-86(p), 81-91/95(n)",Warszawa,Warszawa,mazowieckie
 04-335,Warszawa (Praga-Południe),Szaserów,"88-106(p), 99-107a(n)",Warszawa,Warszawa,mazowieckie
-04-349,Warszawa (Praga-Południe),Szaserów,"108-124a(p), 109-121(n),",Warszawa,Warszawa,mazowieckie
-,,,125-128,,,
+04-349,Warszawa (Praga-Południe),Szaserów,"108-124a(p), 109-121(n), 125-128",Warszawa,Warszawa,mazowieckie
 04-363,Warszawa (Praga-,Szaserów,129-DK(n),Warszawa,Warszawa,mazowieckie
 04-410,Warszawa,Szatkowników,,Warszawa,Warszawa,mazowieckie
 04-089,Warszawa (Praga-,Szczawnicka,,Warszawa,Warszawa,mazowieckie
@@ -11515,10 +11277,8 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 44-300,Wodzisław Śląski,Pszowska,"1a, 45-57(n), 58-212(p)",Wodzisław Śląski,wodzisławski,śląskie
 44-307,Wodzisław Śląski,Pszowska,"2-26, 37-43d(n), 42-56(p)",Wodzisław Śląski,wodzisławski,śląskie
 44-373,Wodzisław Śląski,Pszowska,"214-338a(p), 219-305(n)",Wodzisław Śląski,wodzisławski,śląskie
-44-300,Wodzisław Śląski,Radlińskie Chałupki,"1-46, 58-88(p), 153-161(n),",Wodzisław Śląski,wodzisławski,śląskie
-,,,174-194(p),,,
-44-313,Wodzisław Śląski,Radlińskie Chałupki,"53-95(n), 90-172(p),",Wodzisław Śląski,wodzisławski,śląskie
-,,,101-148,,,
+44-300,Wodzisław Śląski,Radlińskie Chałupki,"1-46, 58-88(p), 153-161(n), 174-194(p)",Wodzisław Śląski,wodzisławski,śląskie
+44-313,Wodzisław Śląski,Radlińskie Chałupki,"53-95(n), 90-172(p), 101-148",Wodzisław Śląski,wodzisławski,śląskie
 44-300,Wodzisław Śląski,Skrzyszowska,"1-49(n), 56-64a(p)",Wodzisław Śląski,wodzisławski,śląskie
 52-206,Wrocław (Wrocław-Krzyki),gen. Romana Abrahama,,Wrocław,Wrocław,dolnośląskie
 51-663,Wrocław (Wrocław-,Edwarda Abramowskiego,,Wrocław,Wrocław,dolnośląskie
@@ -12130,8 +11890,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 52-219,Wrocław (Wrocław-,gen. Stefana Grota-Roweckiego,19-42,Wrocław,Wrocław,dolnośląskie
 52-218,Wrocław (Wrocław-,gen. Stefana Grota-Roweckiego,"43-71b(n), 76",Wrocław,Wrocław,dolnośląskie
 52-232,Wrocław (Wrocław-Krzyki),gen. Stefana Grota-Roweckiego,"73-123(n), 78-124(p)",Wrocław,Wrocław,dolnośląskie
-52-214,Wrocław (Wrocław-Krzyki),gen. Stefana Grota-Roweckiego,"125-185(n), 126-182(p),",Wrocław,Wrocław,dolnośląskie
-,,,184-DK,,,
+52-214,Wrocław (Wrocław-Krzyki),gen. Stefana Grota-Roweckiego,"125-185(n), 126-182(p), 184-DK",Wrocław,Wrocław,dolnośląskie
 51-630,Wrocław (Wrocław-,Artura Grottgera,,Wrocław,Wrocław,dolnośląskie
 53-118,Wrocław (Wrocław-,Grójecka,,Wrocław,Wrocław,dolnośląskie
 51-165,Wrocław (Wrocław-,Grudziądzka,,Wrocław,Wrocław,dolnośląskie
@@ -12396,8 +12155,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 50-108,Wrocław (Wrocław-,Kiełbaśnicza,"1-7a(n), 6",Wrocław,Wrocław,dolnośląskie
 50-110,Wrocław (Wrocław-,Kiełbaśnicza,8-26,Wrocław,Wrocław,dolnośląskie
 50-109,Wrocław (Wrocław-,Kiełbaśnicza,27-DK,Wrocław,Wrocław,dolnośląskie
-51-315,Wrocław (Wrocław-Psie Pole),Kiełczowska,"1-51f(n), 10-78(p),",Wrocław,Wrocław,dolnośląskie
-,,,57-165(n),,,
+51-315,Wrocław (Wrocław-Psie Pole),Kiełczowska,"1-51f(n), 10-78(p), 57-165(n)",Wrocław,Wrocław,dolnośląskie
 51-316,Wrocław (Wrocław-,Kiełczowska,53-55a(n),Wrocław,Wrocław,dolnośląskie
 54-513,Wrocław (Wrocław-,Kiemliczów,,Wrocław,Wrocław,dolnośląskie
 52-131,Wrocław (Wrocław-,Wojciecha Kilara,,Wrocław,Wrocław,dolnośląskie
@@ -13198,8 +12956,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 51-141,Wrocław (Wrocław-,Stanisława Piętaka,,Wrocław,Wrocław,dolnośląskie
 52-210,Wrocław (Wrocław-,Pigwowa,,Wrocław,Wrocław,dolnośląskie
 51-605,Wrocław (Wrocław-,Stanisława Pilata,,Wrocław,Wrocław,dolnośląskie
-54-150,Wrocław (Wrocław-Fabryczna),Pilczycka,"1-26a, 31/33-113(n),",Wrocław,Wrocław,dolnośląskie
-,,,98-140(p),,,
+54-150,Wrocław (Wrocław-Fabryczna),Pilczycka,"1-26a, 31/33-113(n), 98-140(p)",Wrocław,Wrocław,dolnośląskie
 54-144,Wrocław (Wrocław-Fabryczna),Pilczycka,"115-DK(n), 142-DK(p)",Wrocław,Wrocław,dolnośląskie
 53-206,Wrocław (Wrocław-,Pilnikarska,,Wrocław,Wrocław,dolnośląskie
 50-538,Wrocław (Wrocław-,Piławska,,Wrocław,Wrocław,dolnośląskie
@@ -13746,8 +13503,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 50-088,Wrocław (Wrocław-,Swobodna,"1-39(n), 2-44(p)",Wrocław,Wrocław,dolnośląskie
 50-089,Wrocław (Wrocław-,Swobodna,"41-DK(n),",Wrocław,Wrocław,dolnośląskie
 51-501,Wrocław (Wrocław-,Swojczycka,"1-65(n), 30-66(p) Wrocław",,Wrocław,dolnośląskie
-51-502,Wrocław (Wrocław-Psie Pole),Swojczycka,"67-149(n), 68-138(p),",Wrocław,Wrocław,dolnośląskie
-,,,150-DK,,,
+51-502,Wrocław (Wrocław-Psie Pole),Swojczycka,"67-149(n), 68-138(p), 150-DK",Wrocław,Wrocław,dolnośląskie
 51-319,Wrocław (Wrocław-,Sycowska,,Wrocław,Wrocław,dolnośląskie
 52-130,Wrocław (Wrocław-,Sygnałowa,,Wrocław,Wrocław,dolnośląskie
 52-113,Wrocław (Wrocław-,Syjamska,,Wrocław,Wrocław,dolnośląskie
@@ -13786,8 +13542,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 51-352,Wrocław (Wrocław-,Tarasa Szewczenki,33-DK,Wrocław,Wrocław,dolnośląskie
 50-053,Wrocław (Wrocław-,Szewska,1-7,Wrocław,Wrocław,dolnośląskie
 50-122,Wrocław (Wrocław-,Szewska,8,Wrocław,Wrocław,dolnośląskie
-50-139,Wrocław (Wrocław-Stare Miasto),Szewska,"14-70(p), 19-38/39,",Wrocław,Wrocław,dolnośląskie
-,,,39-69(n),,,
+50-139,Wrocław (Wrocław-Stare Miasto),Szewska,"14-70(p), 19-38/39, 39-69(n)",Wrocław,Wrocław,dolnośląskie
 50-121,Wrocław (Wrocław-Stare Miasto),Szewska,"71-77(n), 72-74(p)",Wrocław,Wrocław,dolnośląskie
 50-054,Wrocław (Wrocław-,Szewska,78-DK,Wrocław,Wrocław,dolnośląskie
 54-138,Wrocław (Wrocław-,Szklarska,,Wrocław,Wrocław,dolnośląskie
@@ -14303,8 +14058,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 88-181,Wybranowo,,"1-57(n), 2-10(p), 20-58(p)",Rojewo,inowrocławski,kujawsko-pomorskie
 07-200,Wyszków,11 Listopada,"1, 4, 17-61(n), 36-56(p)",Wyszków,wyszkowski,mazowieckie
 07-202,Wyszków,11 Listopada,"2, 3-9(n), 8-30(p), 62",Wyszków,wyszkowski,mazowieckie
-07-202,Wyszków,Stefana Okrzei,"61-83, 89-121(n),",Wyszków,wyszkowski,mazowieckie
-,,,90-106(p),,,
+07-202,Wyszków,Stefana Okrzei,"61-83, 89-121(n), 90-106(p)",Wyszków,wyszkowski,mazowieckie
 07-200,Wyszków,Generała Józefa Sowińskiego,"54-82(p), 67-83(n)",Wyszków,wyszkowski,mazowieckie
 07-202,Wyszków,Świętojańska,"82-228(p), 87-187(n)",Wyszków,wyszkowski,mazowieckie
 41-803,Zabrze,Bytomska,"3-4, 5-137(n), 6-120(p)",Zabrze,Zabrze,śląskie
@@ -14335,8 +14089,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 42-400,Zawiercie (Borowe,Teofila Aleksandra Lenartowicza,,Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Borowe,Lotnicza,,Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Borowe,Lwowska,,Zawiercie,zawierciański,śląskie
-42-400,Zawiercie (Zuzanka),Łośnicka,"2, 3-33(n), 10-44(p),",Zawiercie,zawierciański,śląskie
-,,,37-45(n),,,
+42-400,Zawiercie (Zuzanka),Łośnicka,"2, 3-33(n), 10-44(p), 37-45(n)",Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Kromołów),Łośnicka,"35-113(n), 46-194(p)",Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Borowe,Łowiecka,,Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Borowe,Makowa,,Zawiercie,zawierciański,śląskie
@@ -14363,8 +14116,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 42-400,Zawiercie (Borowe,Torowa,,Zawiercie,zawierciański,śląskie
 42-400,Zawiercie (Borowe,Wesoły Świat,,Zawiercie,zawierciański,śląskie
 65-048,Zielona Góra,Aleja Niepodległości,"1-19(n), 2-36(p), 7-23",Zielona Góra,Zielona Góra,lubuskie
-65-762,Zielona Góra,Aleja Wojska Polskiego,"49-55a(n), 57-80c,",Zielona Góra,Zielona Góra,lubuskie
-,,,74-142(p),,,
+65-762,Zielona Góra,Aleja Wojska Polskiego,"49-55a(n), 57-80c, 74-142(p)",Zielona Góra,Zielona Góra,lubuskie
 65-170,Zielona Góra,Generała Józefa Bema,"15-21(n), 18-74(p), 23-40",Zielona Góra,Zielona Góra,lubuskie
 65-078,Zielona Góra,Bohaterów Westerplatte,"23-41(n), 31-46,",Zielona Góra,Zielona Góra,lubuskie
 65-052,Zielona Góra,Bolesława Chrobrego,"4-56(p), 20-51, 53-69(n)",Zielona Góra,Zielona Góra,lubuskie
@@ -14377,9 +14129,7 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 65-190,Zielona Góra,Tadeusza Konicza,"1-15(n), 17-22, 24-34(p)",Zielona Góra,Zielona Góra,lubuskie
 65-058,Zielona Góra,Kupiecka,"29-95a(n), 31-66, 68-84(p)",Zielona Góra,Zielona Góra,lubuskie
 65-601,Zielona Góra,Łużycka,"2-28(p), 17-18,",Zielona Góra,Zielona Góra,lubuskie
-65-547,Zielona Góra,Osiedle Pomorskie,"2a-3f, 5, 13, 15a-16d,",Zielona Góra,Zielona Góra,lubuskie
-,,,"18a-19b,",,,
-,,,21a-43(n),,,
+65-547,Zielona Góra,Osiedle Pomorskie,"2a-3f, 5, 13, 15a-16d, 18a-19b, 21a-43(n)",Zielona Góra,Zielona Góra,lubuskie
 65-548,Zielona Góra,Osiedle Pomorskie,"4-12e, 14a-14d, 20a-42(p)",Zielona Góra,Zielona Góra,lubuskie
 65-213,Zielona Góra,Podgórna,"9a-17(n), 19-45, 23-29(n),",Zielona Góra,Zielona Góra,lubuskie
 65-246,Zielona Góra,Podgórna,"47-111(n), 49-50, 56-72(p)",Zielona Góra,Zielona Góra,lubuskie
@@ -14387,15 +14137,12 @@ PNA,Miejscowość,Ulica,Numery,Gmina,Powiat,Województwo
 65-431,Zielona Góra,Henryka Sienkiewicza,"5b-11d(n), 14-34, 36-44(p)",Zielona Góra,Zielona Góra,lubuskie
 65-454,Zielona Góra,Generała Władysława Sikorskiego,"1-41, 13-15e(n), 44-64(p)",Zielona Góra,Zielona Góra,lubuskie
 65-450,Zielona Góra,Generała Władysława Sikorskiego,"47-63b(n), 65-74, 76-88(p)",Zielona Góra,Zielona Góra,lubuskie
-65-735,Zielona Góra,Stefana Batorego,"27-87(n), 41-100b,",Zielona Góra,Zielona Góra,lubuskie
-,,,104-172(p),,,
+65-735,Zielona Góra,Stefana Batorego,"27-87(n), 41-100b, 104-172(p)",Zielona Góra,Zielona Góra,lubuskie
 65-540,Zielona Góra,Wiśniowa,"21-23(n), 46a-48c(p)",Zielona Góra,Zielona Góra,lubuskie
 65-427,Zielona Góra,Wrocławska,"1-45(n), 12-14(p), 16-35",Zielona Góra,Zielona Góra,lubuskie
 65-218,Zielona Góra,Wrocławska,"36-80(p), 47-61(n), 62-74",Zielona Góra,Zielona Góra,lubuskie
-65-120,Zielona Góra,Zjednoczenia,"11-15(n), 90-128(p),",Zielona Góra,Zielona Góra,lubuskie
-,,,102-118b,,,
+65-120,Zielona Góra,Zjednoczenia,"11-15(n), 90-128(p), 102-118b",Zielona Góra,Zielona Góra,lubuskie
 65-734,Zielona Góra,Źródlana,"15-23(n), 25-34, 28-96(p)",Zielona Góra,Zielona Góra,lubuskie
 44-244,Żory,Aleja Zjednoczonej Europy,"2-18(p), 23-26, 51",Żory,Żory,śląskie
 44-240,Żory,Wodzisławska,"1-5(n), 4-144(p), 21-112",Żory,Żory,śląskie
-44-245,Żory,Wodzisławska,"113-177(n), 156-174a(p),",Żory,Żory,śląskie
-,,,182-DK,,,
+44-245,Żory,Wodzisławska,"113-177(n), 156-174a(p), 182-DK",Żory,Żory,śląskie
