@@ -273,8 +273,8 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
     
     # 4. Check for numbers in gmina names (excluding Roman numerals and common patterns)
     # Allow Roman numerals (I, II, III, IV, V) and ordinal numbers in Polish
-    roman_numeral_pattern = r"\b(I{1,3}|IV|V|VI{1,3}|IX|X)\b"
-    ordinal_pattern = r"\d+[-.](go|ej|ma|sze)"  # Polish ordinal patterns
+    roman_numeral_pattern = r"\b(?:I{1,3}|IV|V|VI{1,3}|IX|X)\b"
+    ordinal_pattern = r"\d+[-.](?:go|ej|ma|sze)"  # Polish ordinal patterns
     
     gmina_with_suspicious_numbers = df[
         (df["Gmina"].notna()) 
