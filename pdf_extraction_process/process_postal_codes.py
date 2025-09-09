@@ -480,9 +480,9 @@ def main():
         help="Skip adding validation flag columns to output CSV",
     )
     parser.add_argument(
-        "--fix-merged-columns",
+        "--skip-merged-column-fix",
         action="store_true",
-        help="Fix columns merged during PDF extraction (e.g., Gmina in Numery)",
+        help="Skip fixing columns merged during PDF extraction (e.g., Gmina in Numery)",
     )
 
     args = parser.parse_args()
@@ -509,10 +509,13 @@ def main():
         # Step 2: Process merged rows
         df_processed = process_merged_rows(df, verbose=args.verbose)
 
-        # Step 2.5: Fix merged columns (optional)
-        if args.fix_merged_columns:
+        # Step 2.5: Fix merged columns (runs by default)
+        if not args.skip_merged_column_fix:
             df_processed, fixed_count = extract_known_gmina_from_numery(df_processed)
-            print(f"🔧 Fixed {fixed_count} merged column issues")
+            if fixed_count > 0:
+                print(f"🔧 Fixed {fixed_count} merged column issues")
+            elif args.verbose:
+                print("✅ No merged column issues found")
 
         # Step 3: Comprehensive data validation
         df_validated = validate_data(
