@@ -189,7 +189,9 @@ def process_merged_rows(df: pd.DataFrame, verbose: bool = False) -> pd.DataFrame
     return df
 
 
-def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = True) -> pd.DataFrame:
+def validate_data(
+    df: pd.DataFrame, verbose: bool = False, add_flags: bool = True
+) -> pd.DataFrame:
     """
     Validate and clean all data in the DataFrame with comprehensive Polish administrative checks.
 
@@ -206,27 +208,39 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
 
     # Define Polish województwa (voivodeships)
     POLISH_WOJEWODZTWA = {
-        'dolnośląskie', 'kujawsko-pomorskie', 'lubelskie', 'lubuskie', 
-        'łódzkie', 'małopolskie', 'mazowieckie', 'opolskie', 
-        'podkarpackie', 'podlaskie', 'pomorskie', 'śląskie', 
-        'świętokrzyskie', 'warmińsko-mazurskie', 'wielkopolskie', 'zachodniopomorskie'
+        "dolnośląskie",
+        "kujawsko-pomorskie",
+        "lubelskie",
+        "lubuskie",
+        "łódzkie",
+        "małopolskie",
+        "mazowieckie",
+        "opolskie",
+        "podkarpackie",
+        "podlaskie",
+        "pomorskie",
+        "śląskie",
+        "świętokrzyskie",
+        "warmińsko-mazurskie",
+        "wielkopolskie",
+        "zachodniopomorskie",
     }
-    
+
     validation_issues = []
-    
+
     # 1. Validate PNA (postal code) format
     postal_code_pattern = r"^\d{2}-\d{3}$"
     missing_pna = df[df["PNA"].isna() | (df["PNA"] == "")]
     invalid_pna = df[
-        (df["PNA"].notna()) 
+        (df["PNA"].notna())
         & (~df["PNA"].astype(str).str.strip().str.match(postal_code_pattern))
     ]
-    
+
     if len(missing_pna) > 0:
         validation_issues.append(f"Missing PNA: {len(missing_pna)} rows")
         if verbose:
             print(f"⚠️  Found {len(missing_pna)} rows with missing PNA")
-    
+
     if len(invalid_pna) > 0:
         validation_issues.append(f"Invalid PNA format: {len(invalid_pna)} rows")
         if verbose:
@@ -236,15 +250,20 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
     else:
         if verbose:
             print("✅ All PNA values have valid format")
-    
+
     # 2. Validate Województwo (voivodeship)
     df_clean_wojewodztwo = df[df["Województwo"].notna() & (df["Województwo"] != "")]
     invalid_wojewodztwa = df_clean_wojewodztwo[
-        ~df_clean_wojewodztwo["Województwo"].str.lower().str.strip().isin(POLISH_WOJEWODZTWA)
+        ~df_clean_wojewodztwo["Województwo"]
+        .str.lower()
+        .str.strip()
+        .isin(POLISH_WOJEWODZTWA)
     ]
-    
+
     if len(invalid_wojewodztwa) > 0:
-        validation_issues.append(f"Invalid województwo: {len(invalid_wojewodztwa)} rows")
+        validation_issues.append(
+            f"Invalid województwo: {len(invalid_wojewodztwa)} rows"
+        )
         if verbose:
             print(f"⚠️  Found {len(invalid_wojewodztwa)} rows with invalid województwo")
             unique_invalid = invalid_wojewodztwa["Województwo"].unique()[:5]
@@ -252,17 +271,19 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
     else:
         if verbose:
             print("✅ All województwa are valid")
-    
+
     # 3. Check for numbers in place names (Miejscowość)
     has_numbers_pattern = r"\d"
     miejscowosc_with_numbers = df[
-        (df["Miejscowość"].notna()) 
+        (df["Miejscowość"].notna())
         & (df["Miejscowość"] != "")
         & (df["Miejscowość"].astype(str).str.contains(has_numbers_pattern, regex=True))
     ]
-    
+
     if len(miejscowosc_with_numbers) > 0:
-        validation_issues.append(f"Miejscowość with numbers: {len(miejscowosc_with_numbers)} rows")
+        validation_issues.append(
+            f"Miejscowość with numbers: {len(miejscowosc_with_numbers)} rows"
+        )
         if verbose:
             print(f"⚠️  Found {len(miejscowosc_with_numbers)} miejscowości with numbers")
             examples = miejscowosc_with_numbers["Miejscowość"].unique()[:5]
@@ -270,49 +291,57 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
     else:
         if verbose:
             print("✅ No numbers found in miejscowość names")
-    
+
     # 4. Check for numbers in gmina names (excluding Roman numerals and common patterns)
     # Allow Roman numerals (I, II, III, IV, V) and ordinal numbers in Polish
     roman_numeral_pattern = r"\b(?:I{1,3}|IV|V|VI{1,3}|IX|X)\b"
     ordinal_pattern = r"\d+[-.](?:go|ej|ma|sze)"  # Polish ordinal patterns
-    
+
     gmina_with_suspicious_numbers = df[
-        (df["Gmina"].notna()) 
+        (df["Gmina"].notna())
         & (df["Gmina"] != "")
         & (df["Gmina"].astype(str).str.contains(has_numbers_pattern, regex=True))
         & (~df["Gmina"].astype(str).str.contains(roman_numeral_pattern, regex=True))
         & (~df["Gmina"].astype(str).str.contains(ordinal_pattern, regex=True))
     ]
-    
+
     if len(gmina_with_suspicious_numbers) > 0:
-        validation_issues.append(f"Gmina with suspicious numbers: {len(gmina_with_suspicious_numbers)} rows")
+        validation_issues.append(
+            f"Gmina with suspicious numbers: {len(gmina_with_suspicious_numbers)} rows"
+        )
         if verbose:
-            print(f"⚠️  Found {len(gmina_with_suspicious_numbers)} gminy with suspicious numbers")
+            print(
+                f"⚠️  Found {len(gmina_with_suspicious_numbers)} gminy with suspicious numbers"
+            )
             examples = gmina_with_suspicious_numbers["Gmina"].unique()[:5]
             print(f"🔧 Examples: {list(examples)}")
     else:
         if verbose:
             print("✅ No suspicious numbers found in gmina names")
-    
+
     # 5. Check for numbers in powiat names
     powiat_with_suspicious_numbers = df[
-        (df["Powiat"].notna()) 
+        (df["Powiat"].notna())
         & (df["Powiat"] != "")
         & (df["Powiat"].astype(str).str.contains(has_numbers_pattern, regex=True))
         & (~df["Powiat"].astype(str).str.contains(roman_numeral_pattern, regex=True))
         & (~df["Powiat"].astype(str).str.contains(ordinal_pattern, regex=True))
     ]
-    
+
     if len(powiat_with_suspicious_numbers) > 0:
-        validation_issues.append(f"Powiat with suspicious numbers: {len(powiat_with_suspicious_numbers)} rows")
+        validation_issues.append(
+            f"Powiat with suspicious numbers: {len(powiat_with_suspicious_numbers)} rows"
+        )
         if verbose:
-            print(f"⚠️  Found {len(powiat_with_suspicious_numbers)} powiaty with suspicious numbers")
+            print(
+                f"⚠️  Found {len(powiat_with_suspicious_numbers)} powiaty with suspicious numbers"
+            )
             examples = powiat_with_suspicious_numbers["Powiat"].unique()[:5]
             print(f"🔧 Examples: {list(examples)}")
     else:
         if verbose:
             print("✅ No suspicious numbers found in powiat names")
-    
+
     # 6. Check for missing essential data
     essential_columns = ["PNA", "Miejscowość", "Gmina", "Powiat", "Województwo"]
     for col in essential_columns:
@@ -321,52 +350,63 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
             validation_issues.append(f"Missing {col}: {len(missing)} rows")
             if verbose:
                 print(f"⚠️  Found {len(missing)} rows with missing {col}")
-    
+
     # 7. Check for suspiciously long values (potential parsing errors)
     max_lengths = {
         "Miejscowość": 100,
-        "Ulica": 150, 
+        "Ulica": 150,
         "Numery": 200,
         "Gmina": 100,
-        "Powiat": 100
+        "Powiat": 100,
     }
-    
+
     for col, max_len in max_lengths.items():
         if col in df.columns:
-            too_long = df[
-                (df[col].notna()) 
-                & (df[col].astype(str).str.len() > max_len)
-            ]
+            too_long = df[(df[col].notna()) & (df[col].astype(str).str.len() > max_len)]
             if len(too_long) > 0:
                 validation_issues.append(f"{col} too long: {len(too_long)} rows")
                 if verbose:
-                    print(f"⚠️  Found {len(too_long)} rows with {col} longer than {max_len} characters")
-                    example = too_long[col].iloc[0][:100] + "..." if len(too_long[col].iloc[0]) > 100 else too_long[col].iloc[0]
+                    print(
+                        f"⚠️  Found {len(too_long)} rows with {col} longer than {max_len} characters"
+                    )
+                    example = (
+                        too_long[col].iloc[0][:100] + "..."
+                        if len(too_long[col].iloc[0]) > 100
+                        else too_long[col].iloc[0]
+                    )
                     print(f"🔧 Example: {example}")
-    
+
     # 8. Check for duplicate postal codes with different locations (potential errors)
-    duplicate_pna_diff_locations = df.groupby("PNA").agg({
-        "Miejscowość": "nunique",
-        "Gmina": "nunique", 
-        "Powiat": "nunique",
-        "Województwo": "nunique"
-    })
-    
+    duplicate_pna_diff_locations = df.groupby("PNA").agg(
+        {
+            "Miejscowość": "nunique",
+            "Gmina": "nunique",
+            "Powiat": "nunique",
+            "Województwo": "nunique",
+        }
+    )
+
     suspicious_duplicates = duplicate_pna_diff_locations[
-        (duplicate_pna_diff_locations["Województwo"] > 1) |
-        (duplicate_pna_diff_locations["Powiat"] > 3)  # Allow some variation but flag excessive
+        (duplicate_pna_diff_locations["Województwo"] > 1)
+        | (
+            duplicate_pna_diff_locations["Powiat"] > 3
+        )  # Allow some variation but flag excessive
     ]
-    
+
     if len(suspicious_duplicates) > 0:
-        validation_issues.append(f"Suspicious PNA duplicates: {len(suspicious_duplicates)} postal codes")
+        validation_issues.append(
+            f"Suspicious PNA duplicates: {len(suspicious_duplicates)} postal codes"
+        )
         if verbose:
-            print(f"⚠️  Found {len(suspicious_duplicates)} postal codes with suspicious location variations")
+            print(
+                f"⚠️  Found {len(suspicious_duplicates)} postal codes with suspicious location variations"
+            )
             print("🔧 Examples:")
             print(suspicious_duplicates.head())
-    
+
     # Summary
     if verbose:
-        print("\n" + "="*50)
+        print("\n" + "=" * 50)
         print("📊 VALIDATION SUMMARY:")
         if validation_issues:
             print(f"⚠️  Found {len(validation_issues)} types of validation issues:")
@@ -374,19 +414,29 @@ def validate_data(df: pd.DataFrame, verbose: bool = False, add_flags: bool = Tru
                 print(f"   • {issue}")
         else:
             print("✅ All validation checks passed!")
-        print("="*50)
-    
+        print("=" * 50)
+
     # Add validation flags to DataFrame (optional)
     if add_flags:
         if verbose:
             print("\n🏷️  Adding validation flags to DataFrame...")
-        
+
         # Add flag columns for major issues
         df = df.copy()
-        df['validation_invalid_pna'] = df["PNA"].isin(invalid_pna["PNA"]) if len(invalid_pna) > 0 else False
-        df['validation_invalid_wojewodztwo'] = df["Województwo"].isin(invalid_wojewodztwa["Województwo"]) if len(invalid_wojewodztwa) > 0 else False
-        df['validation_numbers_in_places'] = df["Miejscowość"].isin(miejscowosc_with_numbers["Miejscowość"]) if len(miejscowosc_with_numbers) > 0 else False
-    
+        df["validation_invalid_pna"] = (
+            df["PNA"].isin(invalid_pna["PNA"]) if len(invalid_pna) > 0 else False
+        )
+        df["validation_invalid_wojewodztwo"] = (
+            df["Województwo"].isin(invalid_wojewodztwa["Województwo"])
+            if len(invalid_wojewodztwa) > 0
+            else False
+        )
+        df["validation_numbers_in_places"] = (
+            df["Miejscowość"].isin(miejscowosc_with_numbers["Miejscowość"])
+            if len(miejscowosc_with_numbers) > 0
+            else False
+        )
+
     return df
 
 
@@ -420,8 +470,9 @@ def main():
         "--verbose", "-v", action="store_true", help="Enable verbose output"
     )
     parser.add_argument(
-        "--skip-validation-flags", action="store_true", 
-        help="Skip adding validation flag columns to output CSV"
+        "--skip-validation-flags",
+        action="store_true",
+        help="Skip adding validation flag columns to output CSV",
     )
 
     args = parser.parse_args()
@@ -450,9 +501,7 @@ def main():
 
         # Step 3: Comprehensive data validation
         df_validated = validate_data(
-            df_processed, 
-            verbose=args.verbose, 
-            add_flags=not args.skip_validation_flags
+            df_processed, verbose=args.verbose, add_flags=not args.skip_validation_flags
         )
 
         # Step 4: Save final result
