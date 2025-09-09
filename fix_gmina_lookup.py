@@ -1,6 +1,18 @@
 #!/usr/bin/env python3
 """
 Fix merged Gmina data by looking up known gmina values in Numery column.
+
+Usage:
+    python fix_gmina_lookup.py [input.csv] [output.csv] [--show-summary]
+    
+Options:
+    --show-summary    Show detailed summary of fixed gminas at the end
+    
+Examples:
+    python fix_gmina_lookup.py                                    # Default files
+    python fix_gmina_lookup.py postal_codes.csv                   # Custom input
+    python fix_gmina_lookup.py input.csv output.csv               # Custom input/output  
+    python fix_gmina_lookup.py input.csv output.csv --show-summary # With summary
 """
 
 import pandas as pd
@@ -71,10 +83,7 @@ def extract_known_gmina_from_numery(df):
                 df.loc[idx, "Gmina"] = found_gmina
                 fixed_count += 1
 
-                print(f"Fixed row {idx + 2}: '{found_gmina}' -> Gmina")
-                print(f"  Original Numery: '{numery_str}'")
-                print(f"  New Numery: '{numbers_part}'")
-                print()
+                print(f"Row {idx + 2}: '{found_gmina}' -> Gmina | {numery_str} → {numbers_part}")
 
     return df, fixed_count
 
@@ -82,6 +91,11 @@ def extract_known_gmina_from_numery(df):
 def main():
     import sys
 
+    # Parse command line arguments
+    show_summary = "--show-summary" in sys.argv
+    if show_summary:
+        sys.argv.remove("--show-summary")
+    
     csv_file = sys.argv[1] if len(sys.argv) > 1 else "postal_codes_poland.csv"
     output_file = (
         sys.argv[2]
@@ -120,8 +134,8 @@ def main():
             df_fixed.to_csv(output_file, index=False)
             print(f"\n💾 Saved fixed data to: {output_file}")
 
-            # Show summary of what gminas were found
-            if fixed_count > 0:
+            # Show summary of what gminas were found (optional)
+            if fixed_count > 0 and show_summary:
                 print(f"\n📋 Summary of fixed gminas:")
                 gmina_counts = {}
                 for idx, row in df_fixed.iterrows():
