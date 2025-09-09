@@ -4,14 +4,14 @@ Fix merged Gmina data by looking up known gmina values in Numery column.
 
 Usage:
     python fix_gmina_lookup.py [input.csv] [output.csv] [--show-summary]
-
+    
 Options:
     --show-summary    Show detailed summary of fixed gminas at the end
-
+    
 Examples:
     python fix_gmina_lookup.py                                    # Default files
     python fix_gmina_lookup.py postal_codes.csv                   # Custom input
-    python fix_gmina_lookup.py input.csv output.csv               # Custom input/output
+    python fix_gmina_lookup.py input.csv output.csv               # Custom input/output  
     python fix_gmina_lookup.py input.csv output.csv --show-summary # With summary
 """
 
@@ -83,9 +83,7 @@ def extract_known_gmina_from_numery(df):
                 df.loc[idx, "Gmina"] = found_gmina
                 fixed_count += 1
 
-                print(
-                    f"Row {idx + 2}: '{found_gmina}' -> Gmina | {numery_str} → {numbers_part}"
-                )
+                print(f"Row {idx + 2}: '{found_gmina}' -> Gmina | {numery_str} → {numbers_part}")
 
     return df, fixed_count
 
@@ -97,7 +95,7 @@ def main():
     show_summary = "--show-summary" in sys.argv
     if show_summary:
         sys.argv.remove("--show-summary")
-
+    
     csv_file = sys.argv[1] if len(sys.argv) > 1 else "postal_codes_poland.csv"
     output_file = (
         sys.argv[2]

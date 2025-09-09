@@ -26,6 +26,11 @@ import camelot
 import numpy as np
 import pandas as pd
 
+try:
+    from .post_process_merged_columns import extract_known_gmina_from_numery
+except ImportError:
+    from post_process_merged_columns import extract_known_gmina_from_numery
+
 
 def extract_tables_from_pdf(
     pdf_path: str,
@@ -474,6 +479,11 @@ def main():
         action="store_true",
         help="Skip adding validation flag columns to output CSV",
     )
+    parser.add_argument(
+        "--fix-merged-columns",
+        action="store_true",
+        help="Fix columns merged during PDF extraction (e.g., Gmina in Numery)",
+    )
 
     args = parser.parse_args()
 
@@ -498,6 +508,11 @@ def main():
 
         # Step 2: Process merged rows
         df_processed = process_merged_rows(df, verbose=args.verbose)
+
+        # Step 2.5: Fix merged columns (optional)
+        if args.fix_merged_columns:
+            df_processed, fixed_count = extract_known_gmina_from_numery(df_processed)
+            print(f"🔧 Fixed {fixed_count} merged column issues")
 
         # Step 3: Comprehensive data validation
         df_validated = validate_data(
