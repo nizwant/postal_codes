@@ -3,17 +3,39 @@
 Polish Postal Codes PDF Processor
 
 This script extracts postal code data from the official Polish postal codes PDF
-and processes it into a clean CSV format.
+published by Poczta Polska and processes it into clean CSV format. The processing
+pipeline consists of 4 sequential steps:
+
+1. PDF Table Extraction - Uses Camelot with optimized parameters for Polish postal PDF format
+2. Row Merging - Handles data split across multiple table rows iteratively  
+3. Data Validation - Comprehensive validation of Polish administrative divisions
+4. Output Generation - Saves both raw extracted and final processed CSV files
+
+The script handles complex multi-page table structures where data often spans 
+multiple rows, text can be split mid-word with hyphens across rows, and uses
+validation specifically designed for Polish administrative divisions.
 
 Usage:
     python process_postal_codes.py [options]
 
 Options:
-    --pdf-path PATH         Path to the PDF file (default: oficjalny_spis_pna_2025.pdf)
-    --pages PAGES           Pages to process (default: 3-1672)
-    --output OUTPUT         Output CSV filename (default: postal_codes_poland.csv)
-    --raw-output RAW        Raw extracted CSV filename (default: postal_codes_raw.csv)
-    --verbose               Enable verbose output
+    --pdf-path PATH                 Path to the PDF file (default: data/oficjalny_spis_pna_2025.pdf)
+    --pages PAGES                   Pages to process (default: 3-1672)
+    --output OUTPUT                 Output CSV filename (default: postal_codes_poland.csv)
+    --raw-output RAW                Raw extracted CSV filename (default: data/postal_codes_raw.csv)
+    --verbose, -v                   Enable verbose output
+    --skip-validation-flags         Skip adding validation flag columns to output CSV
+    --skip-merged-column-fix        Skip fixing columns merged during PDF extraction (e.g., Gmina in Numery)
+
+Examples:
+    # Basic processing with default settings
+    python process_postal_codes.py
+    
+    # Custom PDF path with verbose output
+    python process_postal_codes.py --pdf-path data/my_postal_codes.pdf --verbose
+    
+    # Skip validation flags in output
+    python process_postal_codes.py --skip-validation-flags
 
 """
 
